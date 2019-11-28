@@ -1,0 +1,11 @@
+C:\workspace\C#\PracticeCSharp\Attributes\bin\Debug\netcoreapp3.0\Attributes.exe
+C:\workspace\C#\PracticeCSharp\Attributes\bin\Debug\netcoreapp3.0\Attributes.deps.json
+C:\workspace\C#\PracticeCSharp\Attributes\bin\Debug\netcoreapp3.0\Attributes.runtimeconfig.json
+C:\workspace\C#\PracticeCSharp\Attributes\bin\Debug\netcoreapp3.0\Attributes.runtimeconfig.dev.json
+C:\workspace\C#\PracticeCSharp\Attributes\bin\Debug\netcoreapp3.0\Attributes.dll
+C:\workspace\C#\PracticeCSharp\Attributes\bin\Debug\netcoreapp3.0\Attributes.pdb
+C:\workspace\C#\PracticeCSharp\Attributes\obj\Debug\netcoreapp3.0\Attributes.AssemblyInfoInputs.cache
+C:\workspace\C#\PracticeCSharp\Attributes\obj\Debug\netcoreapp3.0\Attributes.AssemblyInfo.cs
+C:\workspace\C#\PracticeCSharp\Attributes\obj\Debug\netcoreapp3.0\Attributes.dll
+C:\workspace\C#\PracticeCSharp\Attributes\obj\Debug\netcoreapp3.0\Attributes.pdb
+C:\workspace\C#\PracticeCSharp\Attributes\obj\Debug\netcoreapp3.0\Attributes.csprojAssemblyReference.cache

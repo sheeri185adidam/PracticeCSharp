@@ -1,0 +1,6 @@
+C:\workspace\c#\PracticeCSharp\Reflection\bin\Debug\Reflection.exe.config
+C:\workspace\c#\PracticeCSharp\Reflection\bin\Debug\Reflection.exe
+C:\workspace\c#\PracticeCSharp\Reflection\bin\Debug\Reflection.pdb
+C:\workspace\c#\PracticeCSharp\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\Reflection\obj\Debug\Reflection.exe
+C:\workspace\c#\PracticeCSharp\Reflection\obj\Debug\Reflection.pdb

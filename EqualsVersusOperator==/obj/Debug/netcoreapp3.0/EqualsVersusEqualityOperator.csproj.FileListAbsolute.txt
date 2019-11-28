@@ -1,0 +1,10 @@
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\bin\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.exe
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\bin\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.deps.json
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\bin\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.runtimeconfig.json
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\bin\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.runtimeconfig.dev.json
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\bin\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.dll
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\bin\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.pdb
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\obj\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.AssemblyInfoInputs.cache
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\obj\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.AssemblyInfo.cs
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\obj\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.dll
+C:\workspace\C#\PracticeCSharp\EqualsVersusOperator==\obj\Debug\netcoreapp3.0\EqualsVersusEqualityOperator.pdb

@@ -1,0 +1,10 @@
+C:\workspace\C#\PracticeCSharp\StringManipulations\bin\Debug\netcoreapp3.0\StringManipulations.exe
+C:\workspace\C#\PracticeCSharp\StringManipulations\bin\Debug\netcoreapp3.0\StringManipulations.deps.json
+C:\workspace\C#\PracticeCSharp\StringManipulations\bin\Debug\netcoreapp3.0\StringManipulations.runtimeconfig.json
+C:\workspace\C#\PracticeCSharp\StringManipulations\bin\Debug\netcoreapp3.0\StringManipulations.runtimeconfig.dev.json
+C:\workspace\C#\PracticeCSharp\StringManipulations\bin\Debug\netcoreapp3.0\StringManipulations.dll
+C:\workspace\C#\PracticeCSharp\StringManipulations\bin\Debug\netcoreapp3.0\StringManipulations.pdb
+C:\workspace\C#\PracticeCSharp\StringManipulations\obj\Debug\netcoreapp3.0\StringManipulations.AssemblyInfoInputs.cache
+C:\workspace\C#\PracticeCSharp\StringManipulations\obj\Debug\netcoreapp3.0\StringManipulations.AssemblyInfo.cs
+C:\workspace\C#\PracticeCSharp\StringManipulations\obj\Debug\netcoreapp3.0\StringManipulations.dll
+C:\workspace\C#\PracticeCSharp\StringManipulations\obj\Debug\netcoreapp3.0\StringManipulations.pdb

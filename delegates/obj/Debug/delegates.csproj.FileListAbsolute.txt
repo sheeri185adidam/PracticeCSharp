@@ -1,0 +1,6 @@
+C:\workspace\c#\PracticeCSharp\delegates\bin\Debug\delegates.exe.config
+C:\workspace\c#\PracticeCSharp\delegates\bin\Debug\delegates.exe
+C:\workspace\c#\PracticeCSharp\delegates\bin\Debug\delegates.pdb
+C:\workspace\c#\PracticeCSharp\delegates\obj\Debug\delegates.csprojAssemblyReference.cache
+C:\workspace\c#\PracticeCSharp\delegates\obj\Debug\delegates.exe
+C:\workspace\c#\PracticeCSharp\delegates\obj\Debug\delegates.pdb

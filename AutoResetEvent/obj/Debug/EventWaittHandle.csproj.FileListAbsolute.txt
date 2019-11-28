@@ -1,0 +1,6 @@
+C:\workspace\c#\PracticeCSharp\AutoResetEvent\bin\Debug\AutoResetEvent.exe.config
+C:\workspace\c#\PracticeCSharp\AutoResetEvent\bin\Debug\AutoResetEvent.exe
+C:\workspace\c#\PracticeCSharp\AutoResetEvent\bin\Debug\AutoResetEvent.pdb
+C:\workspace\c#\PracticeCSharp\AutoResetEvent\obj\Debug\EventWaittHandle.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\AutoResetEvent\obj\Debug\AutoResetEvent.exe
+C:\workspace\c#\PracticeCSharp\AutoResetEvent\obj\Debug\AutoResetEvent.pdb

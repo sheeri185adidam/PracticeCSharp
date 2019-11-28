@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\Interlocked\bin\Debug\Interlocked.exe.config
+C:\workspace\c#\PracticeCSharp\Interlocked\bin\Debug\Interlocked.exe
+C:\workspace\c#\PracticeCSharp\Interlocked\bin\Debug\Interlocked.pdb
+C:\workspace\c#\PracticeCSharp\Interlocked\obj\Debug\Interlocked.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\Interlocked\obj\Debug\Interlocked.exe
+C:\workspace\c#\PracticeCSharp\Interlocked\obj\Debug\Interlocked.pdb
+C:\workspace\c#\PracticeCSharp\Interlocked\obj\Debug\Interlocked.csprojAssemblyReference.cache

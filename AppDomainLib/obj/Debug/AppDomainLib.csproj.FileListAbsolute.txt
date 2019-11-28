@@ -1,0 +1,5 @@
+C:\workspace\c#\PracticeCSharp\AppDomainLib\bin\Debug\AppDomainLib.dll
+C:\workspace\c#\PracticeCSharp\AppDomainLib\bin\Debug\AppDomainLib.pdb
+C:\workspace\c#\PracticeCSharp\AppDomainLib\obj\Debug\AppDomainLib.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\AppDomainLib\obj\Debug\AppDomainLib.dll
+C:\workspace\c#\PracticeCSharp\AppDomainLib\obj\Debug\AppDomainLib.pdb

@@ -1,0 +1,6 @@
+C:\workspace\C#\PracticeCSharp\Linq\bin\Debug\Linq.exe.config
+C:\workspace\C#\PracticeCSharp\Linq\bin\Debug\Linq.exe
+C:\workspace\C#\PracticeCSharp\Linq\bin\Debug\Linq.pdb
+C:\workspace\C#\PracticeCSharp\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\workspace\C#\PracticeCSharp\Linq\obj\Debug\Linq.exe
+C:\workspace\C#\PracticeCSharp\Linq\obj\Debug\Linq.pdb

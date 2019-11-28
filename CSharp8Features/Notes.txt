@@ -1,0 +1,15 @@
+﻿Important Points to Remember
+
+> For better precision, always use 'decimal' data type in C#. 'decimal' is also faster in calculations compared
+to 'double' datatype
+
+> Use BenchmarkDotNet for benchmarking code in C#
+
+> Always enable 'Arithematic Overflow/Underflow Check' in Visual Studio projects. It is in Build->Advanced settings of the
+project.
+
+> There are 2 heap kinds in C# CLR: Small Object Heap and Large Object Heap
+
+> 'umanaged' type constraint in .Net Core 3
+
+> Performance Profiling in Visual Studio 2019 is enhanced profiling tool

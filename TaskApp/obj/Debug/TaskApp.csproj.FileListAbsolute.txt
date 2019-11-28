@@ -1,0 +1,6 @@
+C:\workspace\c#\PracticeCSharp\TaskApp\bin\Debug\TaskApp.exe.config
+C:\workspace\c#\PracticeCSharp\TaskApp\bin\Debug\TaskApp.exe
+C:\workspace\c#\PracticeCSharp\TaskApp\bin\Debug\TaskApp.pdb
+C:\workspace\c#\PracticeCSharp\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\TaskApp\obj\Debug\TaskApp.exe
+C:\workspace\c#\PracticeCSharp\TaskApp\obj\Debug\TaskApp.pdb

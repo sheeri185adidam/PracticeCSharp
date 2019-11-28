@@ -1,0 +1,11 @@
+C:\workspace\C#\PracticeCSharp\InterviewProblems\bin\Debug\netcoreapp3.0\InterviewProblems.exe
+C:\workspace\C#\PracticeCSharp\InterviewProblems\bin\Debug\netcoreapp3.0\InterviewProblems.deps.json
+C:\workspace\C#\PracticeCSharp\InterviewProblems\bin\Debug\netcoreapp3.0\InterviewProblems.runtimeconfig.json
+C:\workspace\C#\PracticeCSharp\InterviewProblems\bin\Debug\netcoreapp3.0\InterviewProblems.runtimeconfig.dev.json
+C:\workspace\C#\PracticeCSharp\InterviewProblems\bin\Debug\netcoreapp3.0\InterviewProblems.dll
+C:\workspace\C#\PracticeCSharp\InterviewProblems\bin\Debug\netcoreapp3.0\InterviewProblems.pdb
+C:\workspace\C#\PracticeCSharp\InterviewProblems\obj\Debug\netcoreapp3.0\InterviewProblems.AssemblyInfoInputs.cache
+C:\workspace\C#\PracticeCSharp\InterviewProblems\obj\Debug\netcoreapp3.0\InterviewProblems.AssemblyInfo.cs
+C:\workspace\C#\PracticeCSharp\InterviewProblems\obj\Debug\netcoreapp3.0\InterviewProblems.dll
+C:\workspace\C#\PracticeCSharp\InterviewProblems\obj\Debug\netcoreapp3.0\InterviewProblems.pdb
+C:\workspace\C#\PracticeCSharp\InterviewProblems\obj\Debug\netcoreapp3.0\InterviewProblems.csprojAssemblyReference.cache

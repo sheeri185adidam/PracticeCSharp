@@ -1,0 +1,11 @@
+C:\workspace\C#\PracticeCSharp\Monitor\bin\Debug\netcoreapp3.0\Monitor.exe
+C:\workspace\C#\PracticeCSharp\Monitor\bin\Debug\netcoreapp3.0\Monitor.deps.json
+C:\workspace\C#\PracticeCSharp\Monitor\bin\Debug\netcoreapp3.0\Monitor.runtimeconfig.json
+C:\workspace\C#\PracticeCSharp\Monitor\bin\Debug\netcoreapp3.0\Monitor.runtimeconfig.dev.json
+C:\workspace\C#\PracticeCSharp\Monitor\bin\Debug\netcoreapp3.0\Monitor.dll
+C:\workspace\C#\PracticeCSharp\Monitor\bin\Debug\netcoreapp3.0\Monitor.pdb
+C:\workspace\C#\PracticeCSharp\Monitor\obj\Debug\netcoreapp3.0\Monitor.csprojAssemblyReference.cache
+C:\workspace\C#\PracticeCSharp\Monitor\obj\Debug\netcoreapp3.0\Monitor.AssemblyInfoInputs.cache
+C:\workspace\C#\PracticeCSharp\Monitor\obj\Debug\netcoreapp3.0\Monitor.AssemblyInfo.cs
+C:\workspace\C#\PracticeCSharp\Monitor\obj\Debug\netcoreapp3.0\Monitor.dll
+C:\workspace\C#\PracticeCSharp\Monitor\obj\Debug\netcoreapp3.0\Monitor.pdb

@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\BackgroundWorker2\bin\Debug\BackgroundWorker2.exe.config
+C:\workspace\c#\PracticeCSharp\BackgroundWorker2\bin\Debug\BackgroundWorker2.exe
+C:\workspace\c#\PracticeCSharp\BackgroundWorker2\bin\Debug\BackgroundWorker2.pdb
+C:\workspace\c#\PracticeCSharp\BackgroundWorker2\obj\Debug\BackgroundWorker2.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\BackgroundWorker2\obj\Debug\BackgroundWorker2.exe
+C:\workspace\c#\PracticeCSharp\BackgroundWorker2\obj\Debug\BackgroundWorker2.pdb
+C:\workspace\c#\PracticeCSharp\BackgroundWorker2\obj\Debug\BackgroundWorker2.csprojAssemblyReference.cache

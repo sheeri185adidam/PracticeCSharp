@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\workspace\c#\PracticeCSharp\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\workspace\c#\PracticeCSharp\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\workspace\c#\PracticeCSharp\AsyncAwait\obj\Debug\AsyncAwait.csprojAssemblyReference.cache
+C:\workspace\c#\PracticeCSharp\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\workspace\c#\PracticeCSharp\AsyncAwait\obj\Debug\AsyncAwait.pdb

@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\AsyncContexts\bin\Debug\AsyncContexts.exe.config
+C:\workspace\c#\PracticeCSharp\AsyncContexts\bin\Debug\AsyncContexts.exe
+C:\workspace\c#\PracticeCSharp\AsyncContexts\bin\Debug\AsyncContexts.pdb
+C:\workspace\c#\PracticeCSharp\AsyncContexts\obj\Debug\AsyncContexts.csprojAssemblyReference.cache
+C:\workspace\c#\PracticeCSharp\AsyncContexts\obj\Debug\AsyncContexts.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\AsyncContexts\obj\Debug\AsyncContexts.exe
+C:\workspace\c#\PracticeCSharp\AsyncContexts\obj\Debug\AsyncContexts.pdb

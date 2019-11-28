@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\Timers\bin\Debug\Timers.exe.config
+C:\workspace\c#\PracticeCSharp\Timers\bin\Debug\Timers.exe
+C:\workspace\c#\PracticeCSharp\Timers\bin\Debug\Timers.pdb
+C:\workspace\c#\PracticeCSharp\Timers\obj\Debug\Timers.csprojAssemblyReference.cache
+C:\workspace\c#\PracticeCSharp\Timers\obj\Debug\Timers.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\Timers\obj\Debug\Timers.exe
+C:\workspace\c#\PracticeCSharp\Timers\obj\Debug\Timers.pdb

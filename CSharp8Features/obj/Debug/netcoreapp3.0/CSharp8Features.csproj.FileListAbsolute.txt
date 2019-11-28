@@ -1,0 +1,11 @@
+C:\workspace\C#\PracticeCSharp\CSharp8Features\bin\Debug\netcoreapp3.0\CSharp8Features.exe
+C:\workspace\C#\PracticeCSharp\CSharp8Features\bin\Debug\netcoreapp3.0\CSharp8Features.deps.json
+C:\workspace\C#\PracticeCSharp\CSharp8Features\bin\Debug\netcoreapp3.0\CSharp8Features.runtimeconfig.json
+C:\workspace\C#\PracticeCSharp\CSharp8Features\bin\Debug\netcoreapp3.0\CSharp8Features.runtimeconfig.dev.json
+C:\workspace\C#\PracticeCSharp\CSharp8Features\bin\Debug\netcoreapp3.0\CSharp8Features.dll
+C:\workspace\C#\PracticeCSharp\CSharp8Features\bin\Debug\netcoreapp3.0\CSharp8Features.pdb
+C:\workspace\C#\PracticeCSharp\CSharp8Features\obj\Debug\netcoreapp3.0\CSharp8Features.csprojAssemblyReference.cache
+C:\workspace\C#\PracticeCSharp\CSharp8Features\obj\Debug\netcoreapp3.0\CSharp8Features.AssemblyInfoInputs.cache
+C:\workspace\C#\PracticeCSharp\CSharp8Features\obj\Debug\netcoreapp3.0\CSharp8Features.AssemblyInfo.cs
+C:\workspace\C#\PracticeCSharp\CSharp8Features\obj\Debug\netcoreapp3.0\CSharp8Features.dll
+C:\workspace\C#\PracticeCSharp\CSharp8Features\obj\Debug\netcoreapp3.0\CSharp8Features.pdb

@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\ManualResetEvent\bin\Debug\ManualResetEvent.exe.config
+C:\workspace\c#\PracticeCSharp\ManualResetEvent\bin\Debug\ManualResetEvent.exe
+C:\workspace\c#\PracticeCSharp\ManualResetEvent\bin\Debug\ManualResetEvent.pdb
+C:\workspace\c#\PracticeCSharp\ManualResetEvent\obj\Debug\ManualResetEvent.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\ManualResetEvent\obj\Debug\ManualResetEvent.exe
+C:\workspace\c#\PracticeCSharp\ManualResetEvent\obj\Debug\ManualResetEvent.pdb
+C:\workspace\c#\PracticeCSharp\ManualResetEvent\obj\Debug\ManualResetEvent.csprojAssemblyReference.cache

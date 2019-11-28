@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\workspace\c#\PracticeCSharp\ProgressBar\bin\Debug\ProgressBar.exe
+C:\workspace\c#\PracticeCSharp\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\workspace\c#\PracticeCSharp\ProgressBar\obj\Debug\ProgressBar.csprojAssemblyReference.cache
+C:\workspace\c#\PracticeCSharp\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\ProgressBar\obj\Debug\ProgressBar.exe
+C:\workspace\c#\PracticeCSharp\ProgressBar\obj\Debug\ProgressBar.pdb

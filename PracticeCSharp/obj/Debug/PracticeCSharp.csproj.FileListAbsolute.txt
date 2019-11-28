@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\PracticeCSharp\bin\Debug\PracticeCSharp.exe.config
+C:\workspace\c#\PracticeCSharp\PracticeCSharp\bin\Debug\PracticeCSharp.exe
+C:\workspace\c#\PracticeCSharp\PracticeCSharp\bin\Debug\PracticeCSharp.pdb
+C:\workspace\c#\PracticeCSharp\PracticeCSharp\obj\Debug\PracticeCSharp.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\PracticeCSharp\obj\Debug\PracticeCSharp.exe
+C:\workspace\c#\PracticeCSharp\PracticeCSharp\obj\Debug\PracticeCSharp.pdb
+C:\workspace\c#\PracticeCSharp\PracticeCSharp\obj\Debug\PracticeCSharp.csprojAssemblyReference.cache

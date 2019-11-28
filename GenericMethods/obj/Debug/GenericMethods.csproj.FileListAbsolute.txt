@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\GenericMethods\bin\Debug\GenericMethods.exe.config
+C:\workspace\c#\PracticeCSharp\GenericMethods\bin\Debug\GenericMethods.exe
+C:\workspace\c#\PracticeCSharp\GenericMethods\bin\Debug\GenericMethods.pdb
+C:\workspace\c#\PracticeCSharp\GenericMethods\obj\Debug\GenericMethods.csprojAssemblyReference.cache
+C:\workspace\c#\PracticeCSharp\GenericMethods\obj\Debug\GenericMethods.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\GenericMethods\obj\Debug\GenericMethods.exe
+C:\workspace\c#\PracticeCSharp\GenericMethods\obj\Debug\GenericMethods.pdb

@@ -1,0 +1,11 @@
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\bin\Debug\netcoreapp3.0\TaskBasedAsyncPattern.exe
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\bin\Debug\netcoreapp3.0\TaskBasedAsyncPattern.deps.json
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\bin\Debug\netcoreapp3.0\TaskBasedAsyncPattern.runtimeconfig.json
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\bin\Debug\netcoreapp3.0\TaskBasedAsyncPattern.runtimeconfig.dev.json
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\bin\Debug\netcoreapp3.0\TaskBasedAsyncPattern.dll
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\bin\Debug\netcoreapp3.0\TaskBasedAsyncPattern.pdb
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\obj\Debug\netcoreapp3.0\TaskBasedAsyncPattern.csprojAssemblyReference.cache
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\obj\Debug\netcoreapp3.0\TaskBasedAsyncPattern.AssemblyInfoInputs.cache
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\obj\Debug\netcoreapp3.0\TaskBasedAsyncPattern.AssemblyInfo.cs
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\obj\Debug\netcoreapp3.0\TaskBasedAsyncPattern.dll
+C:\workspace\C#\PracticeCSharp\TaskBasedAsyncPattern\obj\Debug\netcoreapp3.0\TaskBasedAsyncPattern.pdb

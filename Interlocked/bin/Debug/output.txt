@@ -1,0 +1,10488 @@
+Writer: MDO2K
+Reader: 
+Writer: P7Y81
+Reader: 
+Writer: WCU8A
+Reader: 
+Writer: UV0F2
+Reader: 
+Writer: BK0LY
+Reader: 
+Writer: 94SGI
+Reader: 
+Writer: DDMK4
+Reader: 
+Writer: 0NN2G
+Reader: 
+Writer: 6I8GM
+Reader: 
+Writer: 2T10O
+Reader: 
+Writer: ML1NW
+Reader: 
+Writer: BNDEK
+Reader: 
+Writer: UOSZY
+Reader: 
+Writer: TZJDK
+Reader: 
+Writer: HH786
+Reader: 
+Writer: 3LT95
+Reader: 
+Writer: QD216
+Writer: 1M9Y3
+Reader: 
+Reader: 1M9Y3
+Writer: NJJRW
+Writer: R0JS2
+Reader: 
+Reader: R0JS2
+Writer: DJXPH
+Reader: R0JS2
+Writer: EN2Q2
+Reader: R0JS2
+Writer: 03EI4
+Reader: R0JS2
+Writer: RW036
+Reader: R0JS2
+Writer: GZVK7
+Reader: R0JS2
+Writer: 78QMO
+Reader: R0JS2
+Writer: CCAG2
+Reader: R0JS2
+Writer: HPMU1
+Reader: R0JS2
+Writer: OTS5C
+Reader: R0JS2
+Writer: TFAXE
+Reader: R0JS2
+Writer: 59PWV
+Reader: R0JS2
+Writer: NXNSK
+Reader: R0JS2
+Writer: G7QC0
+Reader: R0JS2
+Writer: Y37QX
+Reader: R0JS2
+Writer: BJGCR
+Reader: R0JS2
+Writer: XH0IO
+Reader: R0JS2
+Writer: 172HS
+Reader: R0JS2
+Writer: DWOUP
+Reader: R0JS2
+Writer: UC4KV
+Reader: R0JS2
+Writer: RCQEN
+Reader: R0JS2
+Writer: ZHUAD
+Reader: R0JS2
+Writer: W3NE8
+Reader: R0JS2
+Writer: G6EES
+Reader: R0JS2
+Writer: IEIUX
+Reader: R0JS2
+Writer: CONBC
+Reader: R0JS2
+Writer: 8P6RA
+Reader: R0JS2
+Writer: U0V4Y
+Reader: R0JS2
+Writer: UN2E5
+Reader: R0JS2
+Writer: JJKWI
+Reader: R0JS2
+Writer: X801M
+Reader: R0JS2
+Writer: M46RL
+Reader: R0JS2
+Writer: L4T7E
+Reader: R0JS2
+Writer: H66EN
+Reader: R0JS2
+Writer: PKKP8
+Reader: R0JS2
+Writer: 5MEYN
+Reader: R0JS2
+Writer: 2E12O
+Reader: R0JS2
+Writer: AYEEX
+Reader: R0JS2
+Writer: 04ESM
+Reader: R0JS2
+Writer: Z449Y
+Reader: R0JS2
+Writer: NMFI3
+Reader: R0JS2
+Writer: NXK3R
+Reader: R0JS2
+Writer: AZHES
+Reader: R0JS2
+Writer: GC0SD
+Reader: R0JS2
+Writer: S11RW
+Reader: R0JS2
+Writer: UG1DI
+Reader: R0JS2
+Writer: BSFAA
+Reader: R0JS2
+Writer: Q8S8B
+Reader: R0JS2
+Writer: MOLXW
+Reader: R0JS2
+Writer: BX99F
+Reader: R0JS2
+Writer: XDL5F
+Reader: R0JS2
+Writer: VUYWI
+Reader: R0JS2
+Writer: H6HUQ
+Reader: R0JS2
+Writer: SUHEC
+Reader: R0JS2
+Writer: IU2R0
+Reader: R0JS2
+Writer: DQE4V
+Reader: R0JS2
+Writer: 7G17V
+Reader: R0JS2
+Writer: 7GJ4O
+Reader: R0JS2
+Writer: 5K603
+Reader: R0JS2
+Writer: QH0GE
+Reader: R0JS2
+Writer: RP577
+Reader: R0JS2
+Writer: DK4EB
+Reader: R0JS2
+Writer: EQ3AL
+Reader: R0JS2
+Writer: BEJ9S
+Reader: R0JS2
+Writer: LKMZH
+Reader: R0JS2
+Writer: 7XCXK
+Reader: R0JS2
+Writer: 6Z8ZE
+Reader: R0JS2
+Writer: RK49S
+Reader: R0JS2
+Writer: WME2J
+Reader: R0JS2
+Writer: PR5O2
+Reader: R0JS2
+Writer: L71Y3
+Reader: R0JS2
+Writer: GCGZA
+Reader: R0JS2
+Writer: PIG4F
+Reader: R0JS2
+Writer: PSD63
+Reader: R0JS2
+Writer: 0KKQ5
+Reader: R0JS2
+Writer: 9FUP2
+Reader: R0JS2
+Writer: Q1X58
+Reader: R0JS2
+Writer: 87J68
+Reader: R0JS2
+Writer: PEE9C
+Reader: R0JS2
+Writer: OFKW4
+Reader: R0JS2
+Writer: 6N9VB
+Reader: R0JS2
+Writer: BXK23
+Reader: R0JS2
+Writer: AS07U
+Reader: R0JS2
+Writer: YVL5H
+Reader: R0JS2
+Writer: RIG8N
+Reader: R0JS2
+Writer: VFLOR
+Reader: R0JS2
+Writer: 457V5
+Reader: R0JS2
+Writer: C2B36
+Reader: R0JS2
+Writer: KWRD7
+Reader: R0JS2
+Writer: 6OHPO
+Reader: R0JS2
+Writer: 23OPM
+Reader: R0JS2
+Writer: YHAHQ
+Reader: R0JS2
+Writer: 6M6K9
+Reader: R0JS2
+Writer: EUFBS
+Reader: R0JS2
+Writer: 5TR96
+Reader: R0JS2
+Writer: 41DAR
+Reader: R0JS2
+Writer: H769Y
+Reader: R0JS2
+Writer: AQRIG
+Reader: R0JS2
+Writer: 513N9
+Reader: R0JS2
+Writer: 80GE2
+Reader: R0JS2
+Writer: LIG6S
+Reader: R0JS2
+Writer: ILPTR
+Reader: R0JS2
+Writer: 7D90I
+Reader: R0JS2
+Writer: 9Q7W8
+Reader: R0JS2
+Writer: XD64X
+Reader: R0JS2
+Writer: E0E98
+Reader: R0JS2
+Writer: EU8HF
+Reader: R0JS2
+Writer: 909RQ
+Reader: R0JS2
+Writer: YB81J
+Reader: R0JS2
+Writer: 11CFA
+Reader: R0JS2
+Writer: R3UFF
+Reader: R0JS2
+Writer: ILLJO
+Reader: R0JS2
+Writer: SHPVM
+Reader: R0JS2
+Writer: MF2VJ
+Reader: R0JS2
+Writer: IRPFJ
+Reader: R0JS2
+Writer: WEFV5
+Reader: R0JS2
+Writer: MX99Q
+Reader: R0JS2
+Writer: LA3C6
+Reader: R0JS2
+Writer: XOZC7
+Reader: R0JS2
+Writer: RVNO6
+Writer: W9R51
+Reader: 
+Reader: W9R51
+Writer: ANO6S
+Writer: EF0OB
+Reader: 
+Reader: EF0OB
+Writer: 4HQEA
+Writer: MLZYV
+Reader: 
+Reader: MLZYV
+Writer: 32NI2
+Reader: MLZYV
+Writer: A01YJ
+Writer: MFDHP
+Reader: 
+Reader: MFDHP
+Writer: 8W6U2
+Writer: RYLBD
+Reader: 
+Reader: RYLBD
+Writer: JFINT
+Writer: KK3K7
+Reader: 
+Reader: KK3K7
+Writer: I9GES
+Reader: KK3K7
+Writer: NOBEY
+Writer: YEIZC
+Reader: 
+Reader: YEIZC
+Writer: 0OF6E
+Reader: YEIZC
+Writer: FRLES
+Writer: 4RNE9
+Reader: 
+Writer: CM3JH
+Reader: 
+Writer: 8Q2BO
+Reader: 
+Reader: 8Q2BO
+Writer: DWHMO
+Writer: F6TL3
+Reader: 
+Writer: 5F7G2
+Reader: 
+Writer: 0YBVX
+Reader: 
+Writer: 6A6EW
+Reader: 
+Reader: 6A6EW
+Writer: ML9RD
+Writer: JWDRA
+Reader: 
+Reader: JWDRA
+Writer: TK90N
+Writer: 88CLE
+Reader: 
+Reader: 88CLE
+Writer: 6PWRQ
+Writer: KOHOS
+Reader: 
+Writer: DZCZB
+Reader: 
+Reader: DZCZB
+Writer: 37BIT
+Writer: JCPFJ
+Reader: 
+Reader: JCPFJ
+Writer: QYKIZ
+Reader: JCPFJ
+Writer: 77V90
+Writer: 6YRB2
+Reader: 
+Writer: 4OY87
+Reader: 
+Writer: 3HKYT
+Reader: 
+Reader: 3HKYT
+Writer: B6415
+Writer: 49RI9
+Reader: 
+Reader: 49RI9
+Writer: WE8ZU
+Reader: 49RI9
+Writer: FEC9F
+Reader: 49RI9
+Writer: FPAPZ
+Reader: 49RI9
+Writer: 4NQHP
+Reader: 49RI9
+Writer: JOVYX
+Reader: 49RI9
+Writer: BD4E5
+Reader: 49RI9
+Writer: 7HJBG
+Writer: 0Q9O2
+Reader: 
+Reader: 0Q9O2
+Writer: ZEKTO
+Reader: 0Q9O2
+Writer: V5OCB
+Reader: 0Q9O2
+Writer: RSJ20
+Writer: ISJBS
+Reader: 
+Reader: ISJBS
+Writer: BJ8DH
+Writer: 7G9J8
+Reader: 
+Reader: 7G9J8
+Writer: OOCP0
+Reader: 7G9J8
+Writer: EDBKC
+Reader: 7G9J8
+Writer: GZ2DO
+Writer: O7QK8
+Reader: 
+Reader: O7QK8
+Writer: HG750
+Reader: O7QK8
+Writer: PFHLQ
+Writer: P5EDX
+Reader: 
+Reader: P5EDX
+Writer: CQ3BV
+Reader: P5EDX
+Writer: ER99L
+Reader: P5EDX
+Writer: LQ5Z3
+Writer: AZYL1
+Reader: 
+Writer: HQGYL
+Reader: 
+Reader: HQGYL
+Writer: 86Z4W
+Reader: HQGYL
+Writer: KVZQL
+Reader: HQGYL
+Writer: 7EPY3
+Reader: HQGYL
+Writer: 0H8TP
+Reader: HQGYL
+Writer: 8KRRQ
+Reader: HQGYL
+Writer: ZH3MP
+Reader: HQGYL
+Writer: WJE0X
+Reader: HQGYL
+Writer: I1EMA
+Reader: HQGYL
+Writer: 01PN6
+Reader: HQGYL
+Writer: 5K9SA
+Reader: HQGYL
+Writer: ARXJM
+Reader: HQGYL
+Writer: YOHN6
+Reader: HQGYL
+Writer: D2NAY
+Reader: HQGYL
+Writer: Y9YBU
+Reader: HQGYL
+Writer: 8CWSY
+Reader: HQGYL
+Writer: G5EVU
+Reader: HQGYL
+Writer: PHKLO
+Reader: HQGYL
+Writer: EW5N8
+Reader: HQGYL
+Writer: 4T1P7
+Reader: HQGYL
+Writer: 8OOYI
+Reader: HQGYL
+Writer: 6V87C
+Reader: HQGYL
+Writer: 85EVG
+Reader: HQGYL
+Writer: 3KW3R
+Reader: HQGYL
+Writer: 6RBVU
+Reader: HQGYL
+Writer: CDLC0
+Reader: HQGYL
+Writer: PLGVZ
+Reader: HQGYL
+Writer: 2QPNX
+Reader: HQGYL
+Writer: 4INJQ
+Reader: HQGYL
+Writer: IRKHF
+Reader: HQGYL
+Writer: U778A
+Reader: HQGYL
+Writer: RM2EF
+Reader: HQGYL
+Writer: 2K5HW
+Reader: HQGYL
+Writer: XYT5N
+Reader: HQGYL
+Writer: M5IGX
+Reader: HQGYL
+Writer: XD2FL
+Writer: U3D7G
+Reader: 
+Reader: U3D7G
+Writer: SNIVI
+Writer: PXKH4
+Reader: 
+Reader: PXKH4
+Writer: TNGW3
+Writer: U8O32
+Reader: 
+Writer: ZY1KM
+Reader: 
+Reader: ZY1KM
+Writer: NUX3V
+Reader: ZY1KM
+Writer: 8G8BE
+Writer: JP7X8
+Reader: 
+Reader: JP7X8
+Writer: ZUALD
+Reader: JP7X8
+Writer: K7GL1
+Reader: JP7X8
+Writer: WPKEQ
+Reader: JP7X8
+Writer: 3W8I4
+Reader: JP7X8
+Writer: 59RW5
+Writer: NOFSU
+Reader: 
+Reader: NOFSU
+Writer: EA14D
+Writer: EYPHB
+Reader: 
+Reader: EYPHB
+Writer: QNLC8
+Writer: T64UL
+Reader: 
+Reader: T64UL
+Writer: WRZ2D
+Writer: ZDNPZ
+Reader: 
+Writer: 61X1W
+Reader: 
+Reader: 61X1W
+Writer: VXPAM
+Writer: EG0GN
+Reader: 
+Writer: RYOXM
+Reader: 
+Reader: RYOXM
+Writer: RUVG7
+Reader: RYOXM
+Writer: WL91O
+Writer: AKARF
+Reader: 
+Reader: AKARF
+Writer: Y0UPN
+Writer: 5Q3HG
+Reader: 
+Writer: Q1SOW
+Reader: 
+Reader: Q1SOW
+Writer: BZ0CI
+Reader: Q1SOW
+Writer: MGR4A
+Writer: KYYWL
+Reader: 
+Reader: KYYWL
+Writer: 4GIBZ
+Writer: 1D8KQ
+Reader: 
+Reader: 1D8KQ
+Writer: A0NAR
+Writer: 52UFM
+Reader: 
+Reader: 52UFM
+Writer: LU7J3
+Writer: SI0PC
+Reader: 
+Reader: SI0PC
+Writer: H2G5M
+Writer: JSRZ5
+Reader: 
+Writer: 70PWH
+Reader: 
+Writer: V2QME
+Reader: 
+Reader: V2QME
+Writer: SDTKA
+Reader: V2QME
+Writer: KI9HG
+Reader: V2QME
+Writer: SNTIJ
+Writer: ITRYH
+Reader: 
+Writer: ML5KP
+Reader: 
+Writer: VELBH
+Reader: 
+Writer: Z2NKU
+Reader: 
+Writer: DI65C
+Reader: 
+Writer: BTJSM
+Reader: 
+Reader: BTJSM
+Writer: THHM8
+Writer: BK2F2
+Reader: 
+Writer: HIJ4O
+Reader: 
+Writer: F679R
+Reader: 
+Writer: ZAIXG
+Reader: 
+Writer: AXWWF
+Reader: 
+Writer: 2BM75
+Reader: 
+Writer: O79DF
+Reader: 
+Writer: O9HSN
+Reader: 
+Writer: 59BQ6
+Reader: 
+Writer: EVKBW
+Reader: 
+Writer: T8TG8
+Reader: 
+Writer: OYG9A
+Reader: 
+Writer: F5M9A
+Reader: 
+Writer: I743C
+Reader: 
+Reader: I743C
+Writer: 020KK
+Reader: I743C
+Writer: AVFZB
+Writer: G0LKM
+Reader: 
+Writer: PN2E1
+Reader: 
+Reader: PN2E1
+Writer: Z3ISH
+Writer: 9XCQY
+Reader: 
+Reader: 9XCQY
+Writer: G1Q86
+Writer: 0II57
+Reader: 
+Writer: 3TQ83
+Reader: 
+Writer: OTBWU
+Reader: 
+Reader: OTBWU
+Writer: 4F0CM
+Writer: 7UIDL
+Reader: 
+Writer: NTZB4
+Reader: 
+Reader: NTZB4
+Writer: PKMNV
+Reader: NTZB4
+Writer: HF7G8
+Writer: GMKY2
+Reader: 
+Writer: PVP53
+Reader: 
+Writer: BBNV9
+Reader: 
+Writer: GAFUU
+Reader: 
+Reader: GAFUU
+Writer: J3PDO
+Writer: EHXBN
+Reader: 
+Reader: EHXBN
+Writer: ZITEF
+Reader: EHXBN
+Writer: UJTL5
+Reader: EHXBN
+Writer: 1E3H2
+Reader: EHXBN
+Writer: O70OP
+Reader: EHXBN
+Writer: HAMWY
+Writer: N6GKY
+Reader: 
+Writer: I7OSE
+Reader: 
+Reader: I7OSE
+Writer: 3RIQO
+Writer: 6Q3Z2
+Reader: 
+Writer: FAIL9
+Reader: 
+Reader: FAIL9
+Writer: GQJWF
+Reader: FAIL9
+Writer: Z57Q2
+Writer: YDIXW
+Reader: 
+Reader: YDIXW
+Writer: 3ZKC9
+Writer: 6ZK9S
+Reader: 
+Reader: 6ZK9S
+Writer: 0GX3S
+Writer: MY4KR
+Reader: 
+Writer: 2Y2MP
+Reader: 
+Writer: 8U2X0
+Reader: 
+Reader: 8U2X0
+Writer: 3HGC9
+Writer: PZFMD
+Reader: 
+Writer: RFKDP
+Reader: 
+Writer: SHE7Q
+Reader: 
+Writer: 9I8F3
+Reader: 
+Writer: F78WB
+Reader: 
+Writer: L6XIZ
+Reader: 
+Reader: L6XIZ
+Writer: T9U4C
+Reader: L6XIZ
+Writer: XSSHA
+Reader: L6XIZ
+Writer: XNY76
+Writer: 0Q4H1
+Reader: 
+Writer: UJBJ3
+Reader: 
+Reader: UJBJ3
+Writer: R1TL1
+Writer: USBO6
+Reader: 
+Reader: USBO6
+Writer: TXK43
+Reader: USBO6
+Writer: RZ0FG
+Reader: USBO6
+Writer: 1JAZK
+Reader: USBO6
+Writer: 5CQRE
+Reader: USBO6
+Writer: J8LAV
+Reader: USBO6
+Writer: 59HPP
+Reader: USBO6
+Writer: EMJBN
+Writer: CG9OK
+Reader: 
+Writer: 5S5CB
+Reader: 
+Writer: I03A5
+Reader: 
+Writer: SBTKW
+Reader: 
+Reader: SBTKW
+Writer: ULJJ7
+Writer: RSL0B
+Reader: 
+Reader: RSL0B
+Writer: P99LI
+Writer: ZCCHI
+Reader: 
+Writer: 0CJ9M
+Reader: 
+Writer: FGHT6
+Reader: 
+Writer: C29O3
+Reader: 
+Writer: 060Q2
+Reader: 
+Writer: MHFAW
+Reader: 
+Writer: I1R2G
+Reader: 
+Reader: I1R2G
+Writer: P9MB6
+Reader: I1R2G
+Writer: RCJ62
+Reader: I1R2G
+Writer: LL138
+Reader: I1R2G
+Writer: WAUSR
+Reader: I1R2G
+Writer: 2MVO6
+Writer: T7IME
+Reader: 
+Reader: T7IME
+Writer: NZONR
+Reader: T7IME
+Writer: CQ7SL
+Writer: YW3YR
+Reader: 
+Reader: YW3YR
+Writer: BPMBA
+Reader: YW3YR
+Writer: HH8KN
+Writer: DO7FN
+Reader: 
+Writer: U472O
+Reader: 
+Writer: V6OM5
+Reader: 
+Reader: V6OM5
+Writer: FDCH3
+Writer: FT674
+Reader: 
+Reader: FT674
+Writer: DUGM7
+Writer: G0E9N
+Reader: 
+Writer: YT1F0
+Reader: 
+Reader: YT1F0
+Writer: 4ZAK5
+Writer: EAAF4
+Reader: 
+Writer: EF0RH
+Reader: 
+Writer: TS9KJ
+Reader: 
+Writer: AXU5I
+Reader: 
+Writer: 52O8H
+Reader: 
+Writer: VL6R8
+Reader: 
+Writer: PSVB0
+Reader: 
+Reader: PSVB0
+Writer: CUBR3
+Writer: BAW23
+Reader: 
+Reader: BAW23
+Writer: FUR5Z
+Reader: BAW23
+Writer: HFFCA
+Writer: MWC7J
+Reader: 
+Reader: MWC7J
+Writer: 2IIS1
+Reader: MWC7J
+Writer: B68UG
+Writer: QVCCG
+Reader: 
+Reader: QVCCG
+Writer: 5FWEC
+Reader: QVCCG
+Writer: B3B11
+Reader: QVCCG
+Writer: KNTBN
+Writer: QRDIA
+Reader: 
+Writer: 21DA2
+Reader: 
+Writer: IV7ZJ
+Reader: 
+Reader: IV7ZJ
+Writer: VDC5F
+Reader: IV7ZJ
+Writer: G975H
+Reader: IV7ZJ
+Writer: 8HQ1R
+Writer: XN6GZ
+Reader: 
+Reader: XN6GZ
+Writer: 8S3BN
+Reader: XN6GZ
+Writer: DCVM3
+Reader: XN6GZ
+Writer: P6LSG
+Reader: XN6GZ
+Writer: HKY5H
+Writer: RUHAB
+Reader: 
+Writer: VKMTE
+Reader: 
+Reader: VKMTE
+Writer: 5Y09L
+Reader: VKMTE
+Writer: CJBRB
+Writer: ENUC2
+Reader: 
+Reader: ENUC2
+Writer: B58UJ
+Writer: NYB9I
+Reader: 
+Writer: NK2A2
+Reader: 
+Writer: 30CH7
+Reader: 
+Writer: 0GMHD
+Reader: 
+Reader: 0GMHD
+Writer: 7JH3D
+Reader: 0GMHD
+Writer: D9FIA
+Reader: 0GMHD
+Writer: 0L1J1
+Writer: HX007
+Reader: 
+Reader: HX007
+Writer: 2QBYI
+Reader: HX007
+Writer: NLMEB
+Writer: 4S1RM
+Reader: 
+Reader: 4S1RM
+Writer: DRH6F
+Reader: 4S1RM
+Writer: NFU9B
+Reader: 4S1RM
+Writer: R83Q0
+Writer: CQVJL
+Reader: 
+Reader: CQVJL
+Writer: RISVZ
+Reader: CQVJL
+Writer: 2XBGF
+Reader: CQVJL
+Writer: HUK7X
+Reader: CQVJL
+Writer: 0Q4VT
+Writer: X6BX1
+Reader: 
+Reader: X6BX1
+Writer: PS6O9
+Reader: X6BX1
+Writer: O7RF5
+Writer: 58WHN
+Reader: 
+Reader: 58WHN
+Writer: 0DN44
+Writer: 6X53A
+Reader: 
+Writer: WW9ZY
+Reader: 
+Reader: WW9ZY
+Writer: UG53J
+Reader: WW9ZY
+Writer: J0XH0
+Reader: WW9ZY
+Writer: KCEC1
+Reader: WW9ZY
+Writer: 14WI2
+Writer: TTH24
+Reader: 
+Reader: TTH24
+Writer: 1WCNM
+Writer: 271RK
+Reader: 
+Reader: 271RK
+Writer: YD27D
+Writer: 9QFDT
+Reader: 
+Reader: 9QFDT
+Writer: 3T3BJ
+Reader: 9QFDT
+Writer: 1916E
+Writer: A9C8S
+Reader: 
+Reader: A9C8S
+Writer: XYJ58
+Reader: A9C8S
+Writer: MKW1C
+Writer: XBYF2
+Reader: 
+Writer: CODIA
+Reader: 
+Writer: I3AEU
+Reader: 
+Writer: 3G4MJ
+Reader: 
+Writer: YB3PQ
+Reader: 
+Writer: LHJFH
+Reader: 
+Writer: T6B9V
+Reader: 
+Writer: 0KWDC
+Reader: 
+Writer: W637J
+Reader: 
+Writer: 4XEKE
+Reader: 
+Writer: GPKRO
+Reader: 
+Writer: WHJZR
+Reader: 
+Writer: 4E7BR
+Reader: 
+Writer: L1BT4
+Reader: 
+Writer: SU0KX
+Reader: 
+Writer: 2I6FW
+Reader: 
+Writer: YD9AA
+Reader: 
+Writer: DWUU9
+Reader: 
+Writer: SB6WH
+Reader: 
+Writer: S81Q8
+Reader: 
+Writer: CVVPW
+Reader: 
+Writer: WY94V
+Reader: 
+Writer: NLDD2
+Reader: 
+Writer: 1E7BO
+Reader: 
+Writer: ZHQTL
+Reader: 
+Writer: RXEDF
+Reader: 
+Writer: 3QQHT
+Reader: 
+Writer: DRTOO
+Reader: 
+Writer: OWZ8V
+Reader: 
+Writer: G734P
+Reader: 
+Writer: NB0BI
+Reader: 
+Writer: 5EBDE
+Reader: 
+Writer: 8U6Y2
+Reader: 
+Writer: 755TY
+Reader: 
+Writer: KVTWA
+Reader: 
+Writer: CRR7F
+Reader: 
+Writer: T3JX2
+Reader: 
+Writer: 20O9X
+Reader: 
+Writer: 9PPJP
+Reader: 
+Writer: 30AGY
+Reader: 
+Writer: LCJGF
+Reader: 
+Writer: 1SDBG
+Reader: 
+Writer: OWE8V
+Reader: 
+Writer: FLI69
+Reader: 
+Writer: GQ66Z
+Reader: 
+Writer: 4FJHG
+Reader: 
+Writer: LQLJ3
+Reader: 
+Writer: QTDRA
+Reader: 
+Writer: KWN3I
+Reader: 
+Writer: MLQXK
+Reader: 
+Writer: RSEGR
+Reader: 
+Writer: 4FNQL
+Reader: 
+Writer: WI644
+Reader: 
+Writer: 8L4FE
+Reader: 
+Writer: WI06Z
+Reader: 
+Writer: UDDYM
+Reader: 
+Writer: SZW7Y
+Reader: 
+Writer: 3ME19
+Reader: 
+Writer: LGWGO
+Reader: 
+Writer: BZS8K
+Reader: 
+Writer: BQLSX
+Reader: 
+Writer: J1HR7
+Reader: 
+Writer: 0CYD2
+Reader: 
+Writer: 6W9GA
+Reader: 
+Writer: WGDF3
+Reader: 
+Writer: PVUSX
+Reader: 
+Writer: 4VEOL
+Reader: 
+Writer: BNDJO
+Reader: 
+Writer: CEX3I
+Reader: 
+Writer: JRSNR
+Reader: 
+Writer: P0L8Y
+Reader: 
+Writer: 4NFZI
+Reader: 
+Writer: YGZ3D
+Reader: 
+Writer: E7K21
+Reader: 
+Writer: TT018
+Reader: 
+Writer: RTJ7U
+Reader: 
+Writer: 8CHAH
+Reader: 
+Writer: EJGZQ
+Reader: 
+Writer: YHNA0
+Reader: 
+Writer: 5O3ZD
+Reader: 
+Writer: LG0W8
+Reader: 
+Writer: 69UAG
+Reader: 
+Writer: KDIFJ
+Reader: 
+Writer: V9ZV9
+Reader: 
+Writer: 41VMD
+Reader: 
+Writer: LFZAC
+Reader: 
+Writer: C0T3I
+Reader: 
+Writer: 1MUCL
+Reader: 
+Writer: EZGTF
+Reader: 
+Writer: U9I1F
+Reader: 
+Writer: 5ZH0I
+Reader: 
+Writer: UVNSW
+Reader: 
+Writer: 1JT7D
+Reader: 
+Writer: UTP6R
+Reader: 
+Writer: IOWK4
+Reader: 
+Writer: FVBGS
+Reader: 
+Writer: M684G
+Reader: 
+Writer: NS3UY
+Reader: 
+Writer: G8CPT
+Reader: 
+Writer: 4FIPU
+Reader: 
+Writer: BTMJ7
+Reader: 
+Writer: QC65D
+Reader: 
+Writer: 9TG9K
+Reader: 
+Writer: 5LZ00
+Reader: 
+Writer: B04HL
+Reader: 
+Writer: JMH0A
+Reader: 
+Writer: 9MVWR
+Reader: 
+Writer: 2TZ70
+Reader: 
+Writer: KW7QZ
+Reader: 
+Writer: W2CFY
+Reader: 
+Writer: TQSZT
+Reader: 
+Writer: KZF7X
+Reader: 
+Writer: E5G5D
+Reader: 
+Writer: W7USS
+Reader: 
+Writer: LV1AP
+Reader: 
+Writer: P2OSY
+Reader: 
+Writer: RJBBQ
+Reader: 
+Writer: T46CG
+Reader: 
+Writer: DO2KV
+Reader: 
+Writer: OPCNC
+Reader: 
+Writer: YHUXN
+Reader: 
+Writer: 7YRJD
+Reader: 
+Writer: SKWIG
+Reader: 
+Writer: 43EOU
+Reader: 
+Writer: 2BSLO
+Reader: 
+Writer: 63ROA
+Reader: 
+Writer: 9ZAPA
+Reader: 
+Writer: JZOYT
+Reader: 
+Writer: 4MW8Y
+Reader: 
+Writer: 21TE1
+Reader: 
+Writer: VLY2K
+Reader: 
+Writer: XZJIQ
+Reader: 
+Writer: EHDJE
+Reader: 
+Writer: 2JGI6
+Reader: 
+Writer: FPP5Z
+Reader: 
+Writer: POTXW
+Reader: 
+Writer: EKNXP
+Reader: 
+Writer: YBIFM
+Reader: 
+Writer: UQGHO
+Reader: 
+Reader: UQGHO
+Writer: WJN45
+Reader: UQGHO
+Writer: SVKHW
+Reader: UQGHO
+Writer: F52C4
+Reader: UQGHO
+Writer: JFWVM
+Reader: UQGHO
+Writer: 44P3P
+Reader: UQGHO
+Writer: 1BB6L
+Writer: YIIQC
+Reader: 
+Writer: FAY1E
+Reader: 
+Reader: FAY1E
+Writer: T9FAJ
+Reader: FAY1E
+Writer: 2JFLD
+Reader: FAY1E
+Writer: O3U5U
+Writer: 23UOE
+Reader: 
+Writer: QTO67
+Reader: 
+Writer: 7WMAY
+Reader: 
+Writer: IR4R2
+Reader: 
+Writer: 4YPTW
+Reader: 
+Writer: R6036
+Reader: 
+Writer: 5XN5K
+Reader: 
+Writer: LQJXX
+Reader: 
+Writer: 9UIDM
+Reader: 
+Writer: F6FW4
+Reader: 
+Writer: 79DC0
+Reader: 
+Writer: DOA1W
+Reader: 
+Writer: U3V9C
+Reader: 
+Reader: U3V9C
+Writer: JJQZM
+Reader: U3V9C
+Writer: 2HG32
+Reader: U3V9C
+Writer: KQLGQ
+Reader: U3V9C
+Writer: V1D89
+Reader: U3V9C
+Writer: 5UKFG
+Reader: U3V9C
+Writer: 6PRBD
+Reader: U3V9C
+Writer: G9JBD
+Reader: U3V9C
+Writer: 6QPJB
+Reader: U3V9C
+Writer: 02JJQ
+Reader: U3V9C
+Writer: XD4LB
+Reader: U3V9C
+Writer: 20WAG
+Reader: U3V9C
+Writer: Y8LTP
+Reader: U3V9C
+Writer: NZF0W
+Reader: U3V9C
+Writer: KGKCU
+Reader: U3V9C
+Writer: EM36I
+Reader: U3V9C
+Writer: CLBZS
+Reader: U3V9C
+Writer: 3UGAK
+Reader: U3V9C
+Writer: PMI4P
+Reader: U3V9C
+Writer: 7F64Y
+Reader: U3V9C
+Writer: BXTXF
+Reader: U3V9C
+Writer: Q2106
+Reader: U3V9C
+Writer: Q6Z2D
+Reader: U3V9C
+Writer: N7VAW
+Reader: U3V9C
+Writer: 2SEPG
+Reader: U3V9C
+Writer: 78QXX
+Reader: U3V9C
+Writer: 9Q9IH
+Reader: U3V9C
+Writer: P1NUC
+Reader: U3V9C
+Writer: B3QD4
+Reader: U3V9C
+Writer: TWQ0B
+Reader: U3V9C
+Writer: 9T5I6
+Reader: U3V9C
+Writer: SSDQH
+Reader: U3V9C
+Writer: SMDD6
+Reader: U3V9C
+Writer: A7RUY
+Reader: U3V9C
+Writer: VTB8U
+Reader: U3V9C
+Writer: 9BBVX
+Reader: U3V9C
+Writer: KSZVX
+Reader: U3V9C
+Writer: QU1MY
+Reader: U3V9C
+Writer: 6Y7MT
+Reader: U3V9C
+Writer: YZNH3
+Reader: U3V9C
+Writer: WF5CQ
+Reader: U3V9C
+Writer: PR7X6
+Reader: U3V9C
+Writer: RRS36
+Reader: U3V9C
+Writer: AXRPQ
+Reader: U3V9C
+Writer: QFF61
+Reader: U3V9C
+Writer: 7WYO6
+Reader: U3V9C
+Writer: JY31A
+Reader: U3V9C
+Writer: FWWFI
+Reader: U3V9C
+Writer: 8WEPH
+Reader: U3V9C
+Writer: PFEPT
+Reader: U3V9C
+Writer: BH81N
+Reader: U3V9C
+Writer: QA9LS
+Reader: U3V9C
+Writer: 22T0X
+Reader: U3V9C
+Writer: 2X021
+Reader: U3V9C
+Writer: OAMHR
+Writer: 3BZYL
+Reader: 
+Writer: 1SI45
+Reader: 
+Reader: 1SI45
+Writer: B0COU
+Writer: FWLWP
+Reader: 
+Reader: FWLWP
+Writer: FCN1O
+Reader: FWLWP
+Writer: 1PLYF
+Reader: FWLWP
+Writer: A51JT
+Reader: FWLWP
+Writer: PKK90
+Reader: FWLWP
+Writer: KTZ5W
+Reader: FWLWP
+Writer: CVLHW
+Reader: FWLWP
+Writer: 1ZZ1L
+Reader: FWLWP
+Writer: 1X8KU
+Reader: FWLWP
+Writer: MGUY4
+Reader: FWLWP
+Writer: G925F
+Reader: FWLWP
+Writer: 4LL5F
+Reader: FWLWP
+Writer: VNSFL
+Reader: FWLWP
+Writer: FDDCO
+Reader: FWLWP
+Writer: LF971
+Reader: FWLWP
+Writer: 1MAPO
+Reader: FWLWP
+Writer: D9ABP
+Reader: FWLWP
+Writer: D2QC1
+Reader: FWLWP
+Writer: PN3W0
+Reader: FWLWP
+Writer: NF29O
+Reader: FWLWP
+Writer: ICRKS
+Reader: FWLWP
+Writer: A95DN
+Reader: FWLWP
+Writer: SL6RB
+Reader: FWLWP
+Writer: WMQZH
+Reader: FWLWP
+Writer: NXBL8
+Reader: FWLWP
+Writer: 7LNHN
+Reader: FWLWP
+Writer: VUBBF
+Reader: FWLWP
+Writer: ASZSP
+Reader: FWLWP
+Writer: E7MYJ
+Reader: FWLWP
+Writer: DRMUE
+Reader: FWLWP
+Writer: BYC1B
+Reader: FWLWP
+Writer: VBGLV
+Reader: FWLWP
+Writer: YWXZ2
+Reader: FWLWP
+Writer: 8K4LB
+Reader: FWLWP
+Writer: DW8KD
+Reader: FWLWP
+Writer: PKMB4
+Reader: FWLWP
+Writer: P92DM
+Reader: FWLWP
+Writer: 6RKAT
+Reader: FWLWP
+Writer: 8MN61
+Reader: FWLWP
+Writer: RJX6L
+Reader: FWLWP
+Writer: 3WATA
+Reader: FWLWP
+Writer: OZ2XV
+Reader: FWLWP
+Writer: LZERF
+Reader: FWLWP
+Writer: Y3UM5
+Reader: FWLWP
+Writer: QA42C
+Reader: FWLWP
+Writer: 1ICSW
+Reader: FWLWP
+Writer: GXP0B
+Reader: FWLWP
+Writer: 28JD8
+Reader: FWLWP
+Writer: GYWOI
+Reader: FWLWP
+Writer: JH60C
+Reader: FWLWP
+Writer: XZKB4
+Reader: FWLWP
+Writer: 21IQI
+Reader: FWLWP
+Writer: FXJBP
+Reader: FWLWP
+Writer: YJNPN
+Reader: FWLWP
+Writer: ZUROY
+Reader: FWLWP
+Writer: 2NQU3
+Reader: FWLWP
+Writer: TMLQ8
+Reader: FWLWP
+Writer: QMO5I
+Reader: FWLWP
+Writer: A0243
+Reader: FWLWP
+Writer: TOV9T
+Reader: FWLWP
+Writer: 94QNM
+Reader: FWLWP
+Writer: DH6MC
+Reader: FWLWP
+Writer: OLYXY
+Reader: FWLWP
+Writer: 3M3D8
+Reader: FWLWP
+Writer: M5RHM
+Reader: FWLWP
+Writer: 92WVF
+Reader: FWLWP
+Writer: N2QA4
+Reader: FWLWP
+Writer: Z58E4
+Reader: FWLWP
+Writer: IQB33
+Reader: FWLWP
+Writer: YCFFA
+Reader: FWLWP
+Writer: GVSBH
+Reader: FWLWP
+Writer: DMJAM
+Reader: FWLWP
+Writer: KVLHY
+Reader: FWLWP
+Writer: W5X29
+Reader: FWLWP
+Writer: 7OYIZ
+Reader: FWLWP
+Writer: 54YNX
+Reader: FWLWP
+Writer: 7XRV8
+Reader: FWLWP
+Writer: 2KO31
+Reader: FWLWP
+Writer: NV71T
+Reader: FWLWP
+Writer: XE4EH
+Reader: FWLWP
+Writer: 3OMGC
+Reader: FWLWP
+Writer: 26JML
+Reader: FWLWP
+Writer: JX6NP
+Reader: FWLWP
+Writer: XD0I6
+Reader: FWLWP
+Writer: MQ4BV
+Reader: FWLWP
+Writer: MQ7YB
+Reader: FWLWP
+Writer: 09TG4
+Reader: FWLWP
+Writer: SKLSF
+Reader: FWLWP
+Writer: 5ACRR
+Reader: FWLWP
+Writer: ZZUL6
+Reader: FWLWP
+Writer: TOVI4
+Reader: FWLWP
+Writer: MTKUZ
+Reader: FWLWP
+Writer: L9VKU
+Reader: FWLWP
+Writer: JD0S7
+Reader: FWLWP
+Writer: M2HCB
+Reader: FWLWP
+Writer: LNNT5
+Reader: FWLWP
+Writer: X6W2R
+Reader: FWLWP
+Writer: MOLLR
+Reader: FWLWP
+Writer: 8A033
+Reader: FWLWP
+Writer: 6P26I
+Reader: FWLWP
+Writer: W9BOT
+Reader: FWLWP
+Writer: 1HSGT
+Reader: FWLWP
+Writer: 8G1YC
+Reader: FWLWP
+Writer: PN22I
+Reader: FWLWP
+Writer: 42OB8
+Reader: FWLWP
+Writer: MBNJF
+Reader: FWLWP
+Writer: 6VQLJ
+Reader: FWLWP
+Writer: Y5HI0
+Reader: FWLWP
+Writer: E6F2S
+Reader: FWLWP
+Writer: 2IC1O
+Reader: FWLWP
+Writer: TW9YN
+Reader: FWLWP
+Writer: 3UAPG
+Reader: FWLWP
+Writer: Z3JBW
+Reader: FWLWP
+Writer: NZQON
+Reader: FWLWP
+Writer: UFTCD
+Reader: FWLWP
+Writer: 8XWSF
+Reader: FWLWP
+Writer: D9W4W
+Reader: FWLWP
+Writer: JV27P
+Reader: FWLWP
+Writer: E41CB
+Reader: FWLWP
+Writer: LXDFF
+Reader: FWLWP
+Writer: C2XN4
+Reader: FWLWP
+Writer: ND7UP
+Reader: FWLWP
+Writer: G7SKD
+Reader: FWLWP
+Writer: 0HOPN
+Reader: FWLWP
+Writer: 17S8J
+Reader: FWLWP
+Writer: ZNRA2
+Reader: FWLWP
+Writer: LTRMD
+Reader: FWLWP
+Writer: LLIAI
+Reader: FWLWP
+Writer: GYHRJ
+Writer: GMR9L
+Reader: 
+Reader: GMR9L
+Writer: DIY2O
+Writer: EJYEE
+Reader: 
+Reader: EJYEE
+Writer: AV61E
+Reader: EJYEE
+Writer: XPFG1
+Writer: O8NGG
+Reader: 
+Reader: O8NGG
+Writer: CZBZC
+Reader: O8NGG
+Writer: N5SZY
+Reader: O8NGG
+Writer: C5Z78
+Reader: O8NGG
+Writer: BWD6I
+Reader: O8NGG
+Writer: V1QNW
+Reader: O8NGG
+Writer: 0GLH6
+Reader: O8NGG
+Writer: E4RVM
+Reader: O8NGG
+Writer: PI9B1
+Reader: O8NGG
+Writer: ECGCB
+Reader: O8NGG
+Writer: 20IIZ
+Reader: O8NGG
+Writer: 14R8V
+Reader: O8NGG
+Writer: KJXDL
+Reader: O8NGG
+Writer: GUL3U
+Reader: O8NGG
+Writer: INDVT
+Reader: O8NGG
+Writer: 3XCFD
+Reader: O8NGG
+Writer: SVNM4
+Reader: O8NGG
+Writer: A8CRF
+Reader: O8NGG
+Writer: JMTAB
+Reader: O8NGG
+Writer: FV5ZU
+Reader: O8NGG
+Writer: U1NS2
+Reader: O8NGG
+Writer: OWWZ6
+Reader: O8NGG
+Writer: E2M5C
+Reader: O8NGG
+Writer: Z6KJL
+Reader: O8NGG
+Writer: IR3YK
+Reader: O8NGG
+Writer: 54DUN
+Reader: O8NGG
+Writer: I1MUS
+Reader: O8NGG
+Writer: 1H4TP
+Reader: O8NGG
+Writer: NLNVB
+Reader: O8NGG
+Writer: QAX7L
+Reader: O8NGG
+Writer: IKWOL
+Reader: O8NGG
+Writer: C7ZI7
+Reader: O8NGG
+Writer: UTCLY
+Reader: O8NGG
+Writer: MQ1MK
+Reader: O8NGG
+Writer: SB048
+Reader: O8NGG
+Writer: 7EIX3
+Reader: O8NGG
+Writer: 4GFJE
+Reader: O8NGG
+Writer: 7E8JQ
+Reader: O8NGG
+Writer: 4SWW4
+Reader: O8NGG
+Writer: 3JC6Y
+Reader: O8NGG
+Writer: AILX2
+Reader: O8NGG
+Writer: HT2PO
+Reader: O8NGG
+Writer: 8YCOC
+Reader: O8NGG
+Writer: OO2G0
+Reader: O8NGG
+Writer: HSS6Q
+Reader: O8NGG
+Writer: 9PE9F
+Reader: O8NGG
+Writer: YBM83
+Reader: O8NGG
+Writer: W5SQ7
+Reader: O8NGG
+Writer: NMS4R
+Reader: O8NGG
+Writer: FQHTQ
+Reader: O8NGG
+Writer: PQ6GR
+Reader: O8NGG
+Writer: R0PG2
+Reader: O8NGG
+Writer: 1P3K0
+Reader: O8NGG
+Writer: 7MDVQ
+Reader: O8NGG
+Writer: T6MIM
+Reader: O8NGG
+Writer: 59YOL
+Reader: O8NGG
+Writer: THUSZ
+Writer: HFFRL
+Reader: 
+Reader: HFFRL
+Writer: 6PMXG
+Writer: 8TIDU
+Reader: 
+Reader: 8TIDU
+Writer: 3MWD7
+Writer: TEY3V
+Reader: 
+Writer: SBB4J
+Reader: 
+Writer: T4KUT
+Reader: 
+Writer: 1GWKU
+Reader: 
+Writer: DTYBO
+Reader: 
+Writer: L1U3S
+Reader: 
+Writer: GVRUG
+Reader: 
+Writer: DRM52
+Reader: 
+Writer: 4OROW
+Reader: 
+Writer: DIXU2
+Reader: 
+Writer: W0LT4
+Reader: 
+Writer: 9QWPK
+Reader: 
+Writer: 0RHMC
+Reader: 
+Writer: 7N0NP
+Reader: 
+Writer: K40RZ
+Reader: 
+Writer: YCJOK
+Reader: 
+Writer: DD9A5
+Reader: 
+Writer: QK70H
+Reader: 
+Writer: X46VC
+Reader: 
+Writer: MHEMZ
+Reader: 
+Reader: MHEMZ
+Writer: 0SKFR
+Reader: MHEMZ
+Writer: 2A43F
+Reader: MHEMZ
+Writer: 6GHFG
+Writer: WSGRW
+Reader: 
+Reader: WSGRW
+Writer: XP9F2
+Writer: Q7EPN
+Reader: 
+Writer: R87ZU
+Reader: 
+Writer: V34SD
+Reader: 
+Reader: V34SD
+Writer: PPEUL
+Writer: QX1PP
+Reader: 
+Reader: QX1PP
+Writer: 4AWZB
+Writer: KSEMB
+Reader: 
+Reader: KSEMB
+Writer: 45PPY
+Reader: KSEMB
+Writer: 7JRUV
+Writer: 3YXOG
+Reader: 
+Reader: 3YXOG
+Writer: HLP4M
+Writer: 2GZ9T
+Reader: 
+Writer: QLHYK
+Reader: 
+Writer: CZRRI
+Reader: 
+Writer: UAY6N
+Reader: 
+Reader: UAY6N
+Writer: HGG3W
+Writer: GMIT3
+Reader: 
+Reader: GMIT3
+Writer: 8DJAJ
+Writer: YFP6H
+Reader: 
+Reader: YFP6H
+Writer: VB3KT
+Writer: DGGFW
+Reader: 
+Reader: DGGFW
+Writer: GXTQE
+Writer: W96NN
+Reader: 
+Reader: W96NN
+Writer: EDY4L
+Writer: 8PRHU
+Reader: 
+Reader: 8PRHU
+Writer: OV1Y1
+Reader: 8PRHU
+Writer: GM5KT
+Writer: 9FC7W
+Reader: 
+Reader: 9FC7W
+Writer: KU25X
+Writer: YJBTD
+Reader: 
+Reader: YJBTD
+Writer: SN99U
+Reader: YJBTD
+Writer: XY9UH
+Writer: V54Z8
+Reader: 
+Writer: JEV4N
+Reader: 
+Reader: JEV4N
+Writer: 8A0HA
+Writer: OXWU6
+Reader: 
+Reader: OXWU6
+Writer: ETIVJ
+Writer: 2N605
+Reader: 
+Reader: 2N605
+Writer: LGSZB
+Writer: P0D6N
+Reader: 
+Writer: UYHFE
+Reader: 
+Reader: UYHFE
+Writer: RW28F
+Writer: ABOYC
+Reader: 
+Reader: ABOYC
+Writer: BXIPG
+Writer: 6H58B
+Reader: 
+Writer: 1SAFV
+Reader: 
+Reader: 1SAFV
+Writer: YT0GM
+Reader: 1SAFV
+Writer: QLCQ1
+Reader: 1SAFV
+Writer: GU8U5
+Writer: K23X9
+Reader: 
+Reader: K23X9
+Writer: 1RY0Q
+Writer: M2IEN
+Reader: 
+Writer: 9VWMR
+Reader: 
+Writer: RLHLV
+Reader: 
+Writer: 0V1Y9
+Reader: 
+Writer: LJKD1
+Reader: 
+Writer: 9YNG3
+Reader: 
+Writer: H59Z9
+Reader: 
+Writer: XD8D1
+Reader: 
+Writer: U8VDO
+Reader: 
+Writer: 8URBJ
+Reader: 
+Writer: GZ90F
+Reader: 
+Writer: DSFMN
+Reader: 
+Writer: KIQSK
+Reader: 
+Writer: WMRM8
+Reader: 
+Writer: WXY6P
+Reader: 
+Writer: NXHZ3
+Reader: 
+Writer: PHM6X
+Reader: 
+Writer: R5IU6
+Reader: 
+Writer: F7VZR
+Reader: 
+Writer: MSC32
+Reader: 
+Writer: WCFDW
+Reader: 
+Writer: TBCK2
+Reader: 
+Writer: PLQT8
+Reader: 
+Writer: D5T52
+Reader: 
+Writer: 0D7P3
+Reader: 
+Writer: ZB8PD
+Reader: 
+Writer: 4UO7G
+Reader: 
+Writer: NBJKD
+Reader: 
+Writer: Q372R
+Reader: 
+Writer: 4RB1N
+Reader: 
+Writer: Q8HAB
+Reader: 
+Writer: TE0K7
+Reader: 
+Writer: RCXH7
+Reader: 
+Writer: 47SNV
+Reader: 
+Writer: BWJ1M
+Reader: 
+Writer: 7FF88
+Reader: 
+Writer: HAHBX
+Reader: 
+Writer: 6NN5X
+Reader: 
+Writer: IL9NW
+Reader: 
+Writer: NF04W
+Reader: 
+Writer: 68YFL
+Reader: 
+Writer: 3ZPYE
+Reader: 
+Writer: N91LZ
+Reader: 
+Writer: R5VTB
+Reader: 
+Writer: RTXZN
+Reader: 
+Writer: 0X6F9
+Reader: 
+Writer: 1OKLC
+Reader: 
+Writer: JLBZ4
+Reader: 
+Writer: G7Z0J
+Reader: 
+Writer: ITYYE
+Reader: 
+Writer: RUH3F
+Reader: 
+Writer: NL92V
+Reader: 
+Writer: F3KZN
+Reader: 
+Writer: 9YQIP
+Reader: 
+Writer: F35Z4
+Reader: 
+Writer: T46PE
+Reader: 
+Writer: G9IBR
+Reader: 
+Writer: GHRGY
+Reader: 
+Writer: 7MJEY
+Reader: 
+Writer: NXANK
+Reader: 
+Writer: UDPI8
+Reader: 
+Writer: YYR8V
+Writer: TPTXO
+Reader: 
+Reader: TPTXO
+Writer: GVJHG
+Writer: 2HJUR
+Reader: 
+Reader: 2HJUR
+Writer: 2U1BR
+Writer: 63SFU
+Reader: 
+Reader: 63SFU
+Writer: DU9C3
+Writer: RZTUF
+Reader: 
+Reader: RZTUF
+Writer: S3VZR
+Reader: RZTUF
+Writer: 1O2GS
+Writer: M350F
+Reader: 
+Reader: M350F
+Writer: D7QQZ
+Writer: Z6NDK
+Reader: 
+Reader: Z6NDK
+Writer: WVGOY
+Writer: CXZO9
+Reader: 
+Reader: CXZO9
+Writer: 98BTZ
+Writer: SBLXH
+Reader: 
+Reader: SBLXH
+Writer: KYJ6Z
+Reader: SBLXH
+Writer: UJC5Q
+Reader: SBLXH
+Writer: WQSP5
+Writer: GHOSP
+Reader: 
+Writer: YEQ1G
+Reader: 
+Reader: YEQ1G
+Writer: F660H
+Reader: YEQ1G
+Writer: YUZ5A
+Writer: 7MKZE
+Reader: 
+Reader: 7MKZE
+Writer: 2V37M
+Reader: 7MKZE
+Writer: TPWYT
+Writer: KW3HS
+Reader: 
+Reader: KW3HS
+Writer: FIRZT
+Writer: XMLY2
+Reader: 
+Reader: XMLY2
+Writer: B0WO7
+Writer: 36ZNX
+Reader: 
+Reader: 36ZNX
+Writer: DLTOX
+Writer: 0KIH6
+Reader: 
+Reader: 0KIH6
+Writer: B1RN4
+Reader: 0KIH6
+Writer: Z4VFR
+Writer: QJEFL
+Reader: 
+Writer: 22H1Z
+Reader: 
+Writer: O7QUP
+Reader: 
+Writer: 4YCB3
+Reader: 
+Writer: NDE21
+Reader: 
+Reader: NDE21
+Writer: JJJTH
+Reader: NDE21
+Writer: 8LT6G
+Writer: 4GOD5
+Reader: 
+Reader: 4GOD5
+Writer: 7CRSS
+Writer: DL679
+Reader: 
+Reader: DL679
+Writer: A2TMD
+Reader: DL679
+Writer: MFMNB
+Writer: TSXT0
+Reader: 
+Reader: TSXT0
+Writer: COUOV
+Writer: YK9G5
+Reader: 
+Writer: KWVJY
+Reader: 
+Reader: KWVJY
+Writer: 8MLTG
+Writer: G1G23
+Reader: 
+Reader: G1G23
+Writer: Y3ABM
+Writer: PO81P
+Reader: 
+Reader: PO81P
+Writer: Y0SML
+Writer: 02MR2
+Reader: 
+Writer: 0TCZC
+Reader: 
+Reader: 0TCZC
+Writer: GGDMT
+Writer: LH1U6
+Reader: 
+Writer: 4K74P
+Reader: 
+Reader: 4K74P
+Writer: 5Y349
+Reader: 4K74P
+Writer: H39IQ
+Writer: OOZ9D
+Reader: 
+Writer: E0L8F
+Reader: 
+Reader: E0L8F
+Writer: JLVIE
+Reader: E0L8F
+Writer: R98QR
+Writer: Q4SB6
+Reader: 
+Reader: Q4SB6
+Writer: C0IZ4
+Writer: MH56F
+Reader: 
+Reader: MH56F
+Writer: 6S2Q1
+Writer: D99YG
+Reader: 
+Reader: D99YG
+Writer: UCVZS
+Writer: I5S1A
+Reader: 
+Reader: I5S1A
+Writer: T6XCB
+Writer: OSVD3
+Reader: 
+Writer: BPZDI
+Reader: 
+Reader: BPZDI
+Writer: 8GRYN
+Writer: R545M
+Reader: 
+Reader: R545M
+Writer: 9ETGV
+Reader: R545M
+Writer: QYE5V
+Writer: 94ZPN
+Reader: 
+Writer: VN55E
+Reader: 
+Writer: EMSRT
+Reader: 
+Reader: EMSRT
+Writer: CO4NT
+Writer: YB20B
+Reader: 
+Writer: J8ORM
+Reader: 
+Reader: J8ORM
+Writer: ML4RI
+Reader: J8ORM
+Writer: ERBL2
+Reader: J8ORM
+Writer: D990H
+Reader: J8ORM
+Writer: WWCXT
+Reader: J8ORM
+Writer: C40M7
+Reader: J8ORM
+Writer: 8C8ND
+Reader: J8ORM
+Writer: W8NS2
+Writer: 3SAIP
+Reader: 
+Reader: 3SAIP
+Writer: UMTVP
+Writer: YCBTO
+Reader: 
+Reader: YCBTO
+Writer: X617K
+Reader: YCBTO
+Writer: SUSUK
+Writer: BTXHF
+Reader: 
+Writer: EVQ8N
+Reader: 
+Reader: EVQ8N
+Writer: DW3H9
+Writer: ZLF6I
+Reader: 
+Reader: ZLF6I
+Writer: 5AO8Q
+Reader: ZLF6I
+Writer: ZHPIJ
+Reader: ZLF6I
+Writer: IAQ8O
+Writer: AZLPL
+Reader: 
+Writer: CWDGL
+Reader: 
+Reader: CWDGL
+Writer: ADU8U
+Writer: GPVLO
+Reader: 
+Writer: AEZ0P
+Reader: 
+Reader: AEZ0P
+Writer: 7FHYF
+Reader: AEZ0P
+Writer: CF428
+Writer: A9ZUF
+Reader: 
+Reader: A9ZUF
+Writer: J7IXP
+Writer: WXRXC
+Reader: 
+Reader: WXRXC
+Writer: 3PEUN
+Reader: WXRXC
+Writer: 5AU9N
+Reader: WXRXC
+Writer: 6OOBI
+Writer: 4I19U
+Reader: 
+Writer: GZAGE
+Reader: 
+Writer: D6BL3
+Reader: 
+Reader: D6BL3
+Writer: KYTVL
+Writer: XBKPC
+Reader: 
+Reader: XBKPC
+Writer: AP0HI
+Writer: 4SHPU
+Reader: 
+Reader: 4SHPU
+Writer: N5RC5
+Reader: 4SHPU
+Writer: EO7PK
+Reader: 4SHPU
+Writer: 98JGD
+Reader: 4SHPU
+Writer: I43ZU
+Writer: 38M7U
+Reader: 
+Writer: 1937K
+Reader: 
+Writer: VZW0P
+Reader: 
+Writer: OHQZH
+Reader: 
+Writer: JD4ED
+Reader: 
+Reader: JD4ED
+Writer: BFTDA
+Writer: 9YR41
+Reader: 
+Reader: 9YR41
+Writer: PTTSE
+Writer: FUAFY
+Reader: 
+Reader: FUAFY
+Writer: JMT1Y
+Writer: BODSK
+Reader: 
+Reader: BODSK
+Writer: ZDH4T
+Writer: WP07K
+Reader: 
+Reader: WP07K
+Writer: 6I18A
+Reader: WP07K
+Writer: 5X8VB
+Writer: ZDZQ3
+Reader: 
+Writer: YW2O8
+Reader: 
+Reader: YW2O8
+Writer: VV8UB
+Reader: YW2O8
+Writer: LLZ8R
+Writer: Z3C52
+Reader: 
+Reader: Z3C52
+Writer: BVU03
+Writer: OPSQU
+Reader: 
+Writer: VN1A4
+Reader: 
+Reader: VN1A4
+Writer: AXM8Y
+Writer: LJH6Z
+Reader: 
+Reader: LJH6Z
+Writer: U79EM
+Reader: LJH6Z
+Writer: 6B4X2
+Writer: DBBVU
+Reader: 
+Reader: DBBVU
+Writer: GCS9Q
+Reader: DBBVU
+Writer: 7UYDQ
+Reader: DBBVU
+Writer: BRDGR
+Reader: DBBVU
+Writer: 2NXBI
+Reader: DBBVU
+Writer: QPOEY
+Writer: UTDI1
+Reader: 
+Writer: 9W0OS
+Reader: 
+Reader: 9W0OS
+Writer: I1IQ1
+Writer: AI6XL
+Reader: 
+Reader: AI6XL
+Writer: O8YG9
+Reader: AI6XL
+Writer: ZOAME
+Writer: 0YOK6
+Reader: 
+Reader: 0YOK6
+Writer: OQQMR
+Writer: P0YYI
+Reader: 
+Reader: P0YYI
+Writer: AFGJI
+Writer: HT02J
+Reader: 
+Reader: HT02J
+Writer: V57IB
+Reader: HT02J
+Writer: UWOK1
+Writer: TM7UN
+Reader: 
+Writer: T2TF5
+Reader: 
+Reader: T2TF5
+Writer: YJ988
+Reader: T2TF5
+Writer: TH0D6
+Reader: T2TF5
+Writer: H8VAK
+Writer: STHK6
+Reader: 
+Reader: STHK6
+Writer: 3MO6Y
+Reader: STHK6
+Writer: YHW6Z
+Writer: O9U7V
+Reader: 
+Reader: O9U7V
+Writer: M58JS
+Writer: N6KNU
+Reader: 
+Reader: N6KNU
+Writer: V17K4
+Reader: N6KNU
+Writer: AVJIC
+Writer: M4DJK
+Reader: 
+Reader: M4DJK
+Writer: LV3OS
+Writer: HNXP7
+Reader: 
+Reader: HNXP7
+Writer: XU72T
+Reader: HNXP7
+Writer: 7BBMC
+Writer: 6KLBZ
+Reader: 
+Writer: 20L4I
+Reader: 
+Reader: 20L4I
+Writer: S2Z8G
+Writer: 2C65M
+Reader: 
+Reader: 2C65M
+Writer: IDRMH
+Writer: PYRZF
+Reader: 
+Reader: PYRZF
+Writer: L20GO
+Writer: AJ1ZZ
+Reader: 
+Reader: AJ1ZZ
+Writer: QB3GP
+Writer: 458V1
+Reader: 
+Reader: 458V1
+Writer: 4EG94
+Writer: 2384J
+Reader: 
+Reader: 2384J
+Writer: EJWZ7
+Reader: 2384J
+Writer: ZBSUF
+Reader: 2384J
+Writer: SKHF5
+Reader: 2384J
+Writer: GKK7M
+Reader: 2384J
+Writer: U058K
+Writer: GV1LW
+Reader: 
+Reader: GV1LW
+Writer: HK7PU
+Writer: HPDJZ
+Reader: 
+Reader: HPDJZ
+Writer: 3MNPI
+Writer: U7ADY
+Reader: 
+Reader: U7ADY
+Writer: RSBRY
+Writer: OOYO1
+Reader: 
+Reader: OOYO1
+Writer: DKG88
+Writer: IM1VY
+Reader: 
+Reader: IM1VY
+Writer: 1GBIT
+Reader: IM1VY
+Writer: IMPZ0
+Writer: IVXXE
+Reader: 
+Writer: YJQ0G
+Reader: 
+Writer: 31ZRV
+Reader: 
+Reader: 31ZRV
+Writer: SFPQ9
+Writer: HFPP6
+Reader: 
+Reader: HFPP6
+Writer: LR28Q
+Writer: C88XS
+Reader: 
+Writer: SXS3K
+Reader: 
+Reader: SXS3K
+Writer: 96AO5
+Writer: ARUXA
+Reader: 
+Reader: ARUXA
+Writer: C69ZT
+Writer: CFH13
+Reader: 
+Reader: CFH13
+Writer: GQRKE
+Writer: 52B8C
+Reader: 
+Writer: 5WWGA
+Reader: 
+Reader: 5WWGA
+Writer: KFAU6
+Reader: 5WWGA
+Writer: 47F8O
+Reader: 5WWGA
+Writer: F9IEP
+Writer: MP1AD
+Reader: 
+Writer: SP0KA
+Reader: 
+Reader: SP0KA
+Writer: HPVUE
+Writer: PK2ZI
+Reader: 
+Reader: PK2ZI
+Writer: 7FX48
+Reader: PK2ZI
+Writer: JLS58
+Reader: PK2ZI
+Writer: 5U6T0
+Reader: PK2ZI
+Writer: P5VDR
+Writer: 5OZUZ
+Reader: 
+Writer: OMV48
+Reader: 
+Reader: OMV48
+Writer: 5GS6S
+Writer: H27B3
+Reader: 
+Reader: H27B3
+Writer: H64ME
+Writer: XSB3Y
+Reader: 
+Writer: UYZIM
+Reader: 
+Writer: SPDFU
+Reader: 
+Writer: 70Y7C
+Reader: 
+Writer: ZBABT
+Reader: 
+Writer: X7TJJ
+Reader: 
+Writer: 8UNQB
+Reader: 
+Reader: 8UNQB
+Writer: 6K1GO
+Reader: 8UNQB
+Writer: HRKT9
+Reader: 8UNQB
+Writer: 1Z2R6
+Reader: 8UNQB
+Writer: RI7JO
+Reader: 8UNQB
+Writer: WSAKA
+Writer: WEQ8O
+Reader: 
+Reader: WEQ8O
+Writer: 8CXDX
+Writer: X8RS5
+Reader: 
+Reader: X8RS5
+Writer: I1QB1
+Reader: X8RS5
+Writer: 8FBN2
+Writer: ZWDBP
+Reader: 
+Reader: ZWDBP
+Writer: NJQF1
+Writer: CALFB
+Reader: 
+Writer: ZCY3I
+Reader: 
+Reader: ZCY3I
+Writer: S0OOG
+Writer: 5B8TC
+Reader: 
+Writer: QCCGY
+Reader: 
+Reader: QCCGY
+Writer: L8VXJ
+Writer: NSM03
+Reader: 
+Reader: NSM03
+Writer: HPKAC
+Reader: NSM03
+Writer: 6RIEJ
+Writer: 8HZ4U
+Reader: 
+Reader: 8HZ4U
+Writer: LL7DL
+Writer: 98ERZ
+Reader: 
+Writer: 0QBT5
+Reader: 
+Reader: 0QBT5
+Writer: AOYU9
+Writer: P18QG
+Reader: 
+Reader: P18QG
+Writer: 9487Z
+Writer: DJ1C7
+Reader: 
+Reader: DJ1C7
+Writer: BUJP4
+Writer: JL3KL
+Reader: 
+Reader: JL3KL
+Writer: PQYII
+Reader: JL3KL
+Writer: UTE4F
+Writer: UNQ6M
+Reader: 
+Reader: UNQ6M
+Writer: E9G1W
+Writer: RY8V3
+Reader: 
+Reader: RY8V3
+Writer: QEJ00
+Writer: E7XF0
+Reader: 
+Reader: E7XF0
+Writer: TG0ZF
+Reader: E7XF0
+Writer: UF67N
+Writer: YDMDZ
+Reader: 
+Reader: YDMDZ
+Writer: JECY4
+Writer: 1RCO1
+Reader: 
+Reader: 1RCO1
+Writer: PKNEA
+Reader: 1RCO1
+Writer: WZLG2
+Writer: 7JRVC
+Reader: 
+Reader: 7JRVC
+Writer: L1AIF
+Writer: N1GAQ
+Reader: 
+Reader: N1GAQ
+Writer: A59K8
+Reader: N1GAQ
+Writer: BEL7Z
+Reader: N1GAQ
+Writer: J1260
+Reader: N1GAQ
+Writer: 91GK2
+Writer: AWQWS
+Reader: 
+Writer: 9R3JO
+Reader: 
+Reader: 9R3JO
+Writer: XEMXA
+Reader: 9R3JO
+Writer: 10BH1
+Writer: 27U62
+Reader: 
+Reader: 27U62
+Writer: T9DSF
+Writer: VV5IQ
+Reader: 
+Reader: VV5IQ
+Writer: NOM19
+Reader: VV5IQ
+Writer: ULCSB
+Writer: EPE68
+Reader: 
+Reader: EPE68
+Writer: I08SA
+Writer: CCU38
+Reader: 
+Writer: 9NLD3
+Reader: 
+Reader: 9NLD3
+Writer: BIEHX
+Writer: MNJIH
+Reader: 
+Reader: MNJIH
+Writer: R4B4X
+Reader: MNJIH
+Writer: E4HT7
+Writer: 5XNIN
+Reader: 
+Reader: 5XNIN
+Writer: K4S29
+Writer: GA9Z9
+Reader: 
+Reader: GA9Z9
+Writer: 6L7JV
+Reader: GA9Z9
+Writer: 5Q0LS
+Writer: IBZF4
+Reader: 
+Reader: IBZF4
+Writer: FG1G7
+Writer: O553M
+Reader: 
+Reader: O553M
+Writer: S4RIA
+Reader: O553M
+Writer: Q5M41
+Reader: O553M
+Writer: 3687C
+Reader: O553M
+Writer: P7BZF
+Reader: O553M
+Writer: JEN84
+Reader: O553M
+Writer: 9I31V
+Reader: O553M
+Writer: APE6D
+Reader: O553M
+Writer: A8SKB
+Reader: O553M
+Writer: MZ4OA
+Reader: O553M
+Writer: II3DS
+Reader: O553M
+Writer: Q3GYC
+Reader: O553M
+Writer: NRSNA
+Reader: O553M
+Writer: ICUJ0
+Reader: O553M
+Writer: N2B4B
+Reader: O553M
+Writer: QP0X2
+Reader: O553M
+Writer: UK87V
+Reader: O553M
+Writer: 1PZJE
+Reader: O553M
+Writer: HJQ3Z
+Reader: O553M
+Writer: SQEJ3
+Reader: O553M
+Writer: KEVXW
+Reader: O553M
+Writer: QH9CB
+Writer: BCS5S
+Reader: 
+Writer: DTU1J
+Reader: 
+Reader: DTU1J
+Writer: 3MKFT
+Writer: ELHET
+Reader: 
+Writer: AKR3S
+Reader: 
+Reader: AKR3S
+Writer: PZKKF
+Writer: UPXHC
+Reader: 
+Reader: UPXHC
+Writer: E0VLW
+Writer: 95MAA
+Reader: 
+Reader: 95MAA
+Writer: 74PER
+Writer: E94SB
+Reader: 
+Reader: E94SB
+Writer: 0VZMD
+Writer: OIJWZ
+Reader: 
+Reader: OIJWZ
+Writer: NZDCO
+Reader: OIJWZ
+Writer: O06ST
+Writer: F8Q2V
+Reader: 
+Reader: F8Q2V
+Writer: VJG2A
+Reader: F8Q2V
+Writer: VVEGM
+Writer: SBIIH
+Reader: 
+Reader: SBIIH
+Writer: 1V0LX
+Writer: H0NZD
+Reader: 
+Reader: H0NZD
+Writer: OCL96
+Reader: H0NZD
+Writer: 2F60R
+Writer: FBRVD
+Reader: 
+Writer: 1V6Z5
+Reader: 
+Writer: NRYL2
+Reader: 
+Writer: THFFN
+Reader: 
+Writer: 45QZW
+Reader: 
+Writer: SKEKT
+Reader: 
+Writer: NFR0C
+Reader: 
+Writer: ZEFH6
+Reader: 
+Writer: V4X30
+Reader: 
+Writer: 6OAGM
+Reader: 
+Writer: V91MX
+Reader: 
+Writer: JV18V
+Reader: 
+Writer: RQWFR
+Reader: 
+Writer: HA8ID
+Reader: 
+Writer: PB7J2
+Reader: 
+Writer: AIW80
+Reader: 
+Writer: EJ778
+Reader: 
+Writer: ONED3
+Reader: 
+Writer: EMGVO
+Reader: 
+Writer: FHRLS
+Reader: 
+Writer: 6Q2D6
+Reader: 
+Writer: TCSUW
+Reader: 
+Writer: B82IR
+Reader: 
+Writer: HSYHD
+Reader: 
+Writer: 454P9
+Reader: 
+Writer: D5L4W
+Reader: 
+Writer: 30KQ4
+Reader: 
+Writer: XR4BP
+Reader: 
+Writer: L5UQ2
+Reader: 
+Writer: FT8EG
+Reader: 
+Writer: WSKIY
+Reader: 
+Writer: BVME3
+Reader: 
+Writer: Y0X83
+Reader: 
+Writer: KXMN3
+Reader: 
+Writer: 0YX11
+Reader: 
+Writer: 8LNW3
+Reader: 
+Writer: T6HXA
+Reader: 
+Writer: KQC13
+Reader: 
+Writer: CEZI1
+Reader: 
+Writer: VIWXR
+Reader: 
+Writer: SHUKQ
+Reader: 
+Writer: 75SQ0
+Reader: 
+Writer: 0HZLJ
+Reader: 
+Writer: 1S97T
+Reader: 
+Writer: 4UUU1
+Reader: 
+Writer: V8PAG
+Reader: 
+Writer: ZZ0FL
+Reader: 
+Writer: MM7HC
+Reader: 
+Writer: O7WBD
+Reader: 
+Writer: 4OO89
+Reader: 
+Writer: CIYEX
+Reader: 
+Writer: 7W9T4
+Reader: 
+Writer: 9QRJA
+Reader: 
+Writer: ARU97
+Reader: 
+Writer: PV25E
+Reader: 
+Writer: 68TR6
+Reader: 
+Writer: HURAD
+Reader: 
+Writer: RAVRN
+Reader: 
+Writer: ZMOMD
+Reader: 
+Writer: 7PMAC
+Reader: 
+Writer: N3OAU
+Reader: 
+Writer: RP390
+Reader: 
+Writer: 9CSWX
+Reader: 
+Writer: P9RFT
+Reader: 
+Writer: A5CWH
+Reader: 
+Writer: CHP1G
+Reader: 
+Writer: RVTPT
+Reader: 
+Writer: NFQPW
+Reader: 
+Writer: BHW1N
+Reader: 
+Writer: X31ZX
+Reader: 
+Writer: 88GQB
+Reader: 
+Writer: R122R
+Reader: 
+Writer: J9B2J
+Reader: 
+Writer: OTDCK
+Reader: 
+Writer: KSBTS
+Reader: 
+Writer: 3JLIU
+Reader: 
+Writer: JP0DI
+Reader: 
+Writer: SOCNC
+Reader: 
+Writer: VNX8N
+Reader: 
+Writer: BF3R9
+Reader: 
+Writer: D0ZON
+Reader: 
+Writer: P7X8I
+Reader: 
+Writer: IPTII
+Reader: 
+Writer: 3J7U0
+Reader: 
+Writer: 9QZ9Y
+Reader: 
+Writer: 75DFQ
+Reader: 
+Writer: XP3IQ
+Reader: 
+Writer: S0M02
+Reader: 
+Writer: V1EE4
+Reader: 
+Writer: G3PZT
+Reader: 
+Writer: 2II1A
+Reader: 
+Writer: XAZZQ
+Reader: 
+Writer: U3RRV
+Reader: 
+Reader: U3RRV
+Writer: 2WL1Z
+Writer: D6H1E
+Reader: 
+Reader: D6H1E
+Writer: IMVFS
+Writer: DPNWY
+Reader: 
+Reader: DPNWY
+Writer: OHCH3
+Writer: SBWJI
+Reader: 
+Writer: 1JXSC
+Reader: 
+Reader: 1JXSC
+Writer: USX9Q
+Writer: 5BRW2
+Reader: 
+Writer: LPTHN
+Reader: 
+Reader: LPTHN
+Writer: EQ52H
+Reader: LPTHN
+Writer: VTD8H
+Reader: LPTHN
+Writer: BK8TM
+Writer: 8YCD8
+Reader: 
+Reader: 8YCD8
+Writer: V1NF3
+Writer: NZPPS
+Reader: 
+Reader: NZPPS
+Writer: DRP5D
+Writer: LO4LQ
+Reader: 
+Reader: LO4LQ
+Writer: AOZ1O
+Writer: UD8J4
+Reader: 
+Writer: WMQJ1
+Reader: 
+Reader: WMQJ1
+Writer: NC083
+Writer: 5EXPE
+Reader: 
+Reader: 5EXPE
+Writer: U5CPB
+Writer: U30W8
+Reader: 
+Writer: GBW0I
+Reader: 
+Reader: GBW0I
+Writer: K1FV5
+Writer: 0BFE0
+Reader: 
+Reader: 0BFE0
+Writer: JX5SV
+Reader: 0BFE0
+Writer: 51JX4
+Writer: ZASIK
+Reader: 
+Writer: 2V3KU
+Reader: 
+Writer: LQA0T
+Reader: 
+Writer: D8CUN
+Reader: 
+Writer: TZ7Z2
+Reader: 
+Reader: TZ7Z2
+Writer: 67IAC
+Writer: P186T
+Reader: 
+Writer: JI7LD
+Reader: 
+Reader: JI7LD
+Writer: FH4TO
+Writer: 2XF9S
+Reader: 
+Reader: 2XF9S
+Writer: 7YZJK
+Writer: 9D3PN
+Reader: 
+Reader: 9D3PN
+Writer: 4M2IF
+Reader: 9D3PN
+Writer: TREGJ
+Reader: 9D3PN
+Writer: 4A1QI
+Reader: 9D3PN
+Writer: L4OL9
+Writer: I2JSE
+Reader: 
+Writer: 1CZVU
+Reader: 
+Reader: 1CZVU
+Writer: GPR7I
+Writer: 2PWO4
+Reader: 
+Writer: LT9ZX
+Reader: 
+Reader: LT9ZX
+Writer: 67IA9
+Writer: EZSQF
+Reader: 
+Reader: EZSQF
+Writer: CDJEO
+Reader: EZSQF
+Writer: R1SWD
+Writer: OS3IP
+Reader: 
+Reader: OS3IP
+Writer: 5I9QY
+Writer: Y2T5H
+Reader: 
+Writer: 33ZVP
+Reader: 
+Writer: R7B2F
+Reader: 
+Writer: ZGSAM
+Reader: 
+Reader: ZGSAM
+Writer: TAMWI
+Reader: ZGSAM
+Writer: NDAUD
+Reader: ZGSAM
+Writer: 6ZB2Q
+Reader: ZGSAM
+Writer: JTO6U
+Reader: ZGSAM
+Writer: YC7HV
+Writer: RRBC0
+Reader: 
+Reader: RRBC0
+Writer: Z09DE
+Writer: XP7W4
+Reader: 
+Reader: XP7W4
+Writer: 02ERS
+Writer: 25JL5
+Reader: 
+Reader: 25JL5
+Writer: G1WPY
+Reader: 25JL5
+Writer: RDFA1
+Writer: 6B84N
+Reader: 
+Writer: GZ7X2
+Reader: 
+Reader: GZ7X2
+Writer: 4V1B3
+Reader: GZ7X2
+Writer: 57PY3
+Writer: VI0GU
+Reader: 
+Reader: VI0GU
+Writer: 7EUPW
+Reader: VI0GU
+Writer: UJ657
+Writer: Y4KDM
+Reader: 
+Writer: C8VSB
+Reader: 
+Reader: C8VSB
+Writer: UAUV2
+Reader: C8VSB
+Writer: TXRGF
+Writer: YL1KQ
+Reader: 
+Reader: YL1KQ
+Writer: BFSBI
+Reader: YL1KQ
+Writer: UZ5EE
+Reader: YL1KQ
+Writer: BXLL1
+Reader: YL1KQ
+Writer: XWHE9
+Reader: YL1KQ
+Writer: 7U8WD
+Reader: YL1KQ
+Writer: 62Z0J
+Reader: YL1KQ
+Writer: NCAXL
+Reader: YL1KQ
+Writer: 7PUKR
+Reader: YL1KQ
+Writer: 5EPR1
+Reader: YL1KQ
+Writer: 5LGPR
+Reader: YL1KQ
+Writer: BDXKS
+Writer: RH57L
+Reader: 
+Reader: RH57L
+Writer: 29F41
+Reader: RH57L
+Writer: 8XYA3
+Writer: IC7XE
+Reader: 
+Reader: IC7XE
+Writer: 2ER4H
+Writer: VVKIH
+Reader: 
+Reader: VVKIH
+Writer: JPZE3
+Writer: 0TW8Z
+Reader: 
+Reader: 0TW8Z
+Writer: 69VZ3
+Reader: 0TW8Z
+Writer: IXFWJ
+Reader: 0TW8Z
+Writer: 8G9G0
+Writer: N0B00
+Reader: 
+Reader: N0B00
+Writer: GZ6WR
+Writer: T7THD
+Reader: 
+Writer: YQ98H
+Reader: 
+Writer: 3T1B9
+Reader: 
+Reader: 3T1B9
+Writer: 7QY9I
+Reader: 3T1B9
+Writer: DPTOQ
+Writer: AS6HS
+Reader: 
+Reader: AS6HS
+Writer: HC8IJ
+Reader: AS6HS
+Writer: KE8SV
+Writer: SGB87
+Reader: 
+Reader: SGB87
+Writer: 48902
+Writer: 0B7NN
+Reader: 
+Reader: 0B7NN
+Writer: DOE0D
+Writer: FT1PA
+Reader: 
+Reader: FT1PA
+Writer: 0US1Z
+Writer: 3RFN0
+Reader: 
+Reader: 3RFN0
+Writer: 7NURW
+Writer: BTFP2
+Reader: 
+Writer: GFU5F
+Reader: 
+Writer: 59HOP
+Reader: 
+Writer: 9PV8G
+Reader: 
+Reader: 9PV8G
+Writer: JQHB8
+Writer: I5TXQ
+Reader: 
+Reader: I5TXQ
+Writer: 03WEC
+Writer: WOMX4
+Reader: 
+Reader: WOMX4
+Writer: V9XW3
+Writer: 4J180
+Reader: 
+Reader: 4J180
+Writer: R1WLM
+Writer: ULDQT
+Reader: 
+Reader: ULDQT
+Writer: LV6OP
+Writer: BMDM3
+Reader: 
+Reader: BMDM3
+Writer: UD8DV
+Reader: BMDM3
+Writer: J3VIE
+Reader: BMDM3
+Writer: 9EV68
+Reader: BMDM3
+Writer: 8HL2R
+Writer: KK5DT
+Reader: 
+Reader: KK5DT
+Writer: ADIG1
+Writer: RGOFG
+Reader: 
+Reader: RGOFG
+Writer: N3S0C
+Reader: RGOFG
+Writer: 105LU
+Writer: G9AQR
+Reader: 
+Reader: G9AQR
+Writer: 4BK4S
+Writer: KH5UU
+Reader: 
+Reader: KH5UU
+Writer: GUOQX
+Writer: 2ZQ0U
+Reader: 
+Writer: FYVZZ
+Reader: 
+Reader: FYVZZ
+Writer: UPTSM
+Reader: FYVZZ
+Writer: AD2Z6
+Writer: P5TW5
+Reader: 
+Reader: P5TW5
+Writer: G78F6
+Reader: P5TW5
+Writer: GLOY2
+Writer: RTJ5M
+Reader: 
+Writer: GQVF7
+Reader: 
+Reader: GQVF7
+Writer: 5XNIU
+Reader: GQVF7
+Writer: D2ZTH
+Reader: GQVF7
+Writer: 7F34O
+Reader: GQVF7
+Writer: HZP3S
+Writer: JA505
+Reader: 
+Reader: JA505
+Writer: R36N0
+Writer: 9KOYA
+Reader: 
+Reader: 9KOYA
+Writer: ST0U2
+Writer: OW4Q4
+Reader: 
+Reader: OW4Q4
+Writer: LZOQE
+Reader: OW4Q4
+Writer: QA1WY
+Writer: 42XMD
+Reader: 
+Reader: 42XMD
+Writer: J5M3H
+Reader: 42XMD
+Writer: W0E46
+Reader: 42XMD
+Writer: Y94AE
+Reader: 42XMD
+Writer: WFP5T
+Reader: 42XMD
+Writer: 1PQJK
+Reader: 42XMD
+Writer: 9S2AG
+Reader: 42XMD
+Writer: Z6NRT
+Reader: 42XMD
+Writer: SJBIH
+Reader: 42XMD
+Writer: UUUTQ
+Reader: 42XMD
+Writer: QF1RB
+Reader: 42XMD
+Writer: YN13L
+Reader: 42XMD
+Writer: 4PDTI
+Reader: 42XMD
+Writer: E8EXG
+Reader: 42XMD
+Writer: 1WNRW
+Reader: 42XMD
+Writer: NEGX8
+Reader: 42XMD
+Writer: G5623
+Reader: 42XMD
+Writer: 31K8R
+Reader: 42XMD
+Writer: MFUFZ
+Reader: 42XMD
+Writer: CGS9D
+Reader: 42XMD
+Writer: WQ6MZ
+Reader: 42XMD
+Writer: 42J4Y
+Reader: 42XMD
+Writer: TGD4F
+Reader: 42XMD
+Writer: 9SK0O
+Reader: 42XMD
+Writer: MXFF4
+Reader: 42XMD
+Writer: VCH2T
+Reader: 42XMD
+Writer: GWGTM
+Reader: 42XMD
+Writer: 08UD8
+Writer: BRPK8
+Reader: 
+Writer: GBZAZ
+Reader: 
+Writer: U61V0
+Reader: 
+Reader: U61V0
+Writer: 9K0SD
+Reader: U61V0
+Writer: 2URLS
+Reader: U61V0
+Writer: 79TSO
+Writer: A8G2N
+Reader: 
+Reader: A8G2N
+Writer: 5H5HX
+Writer: UMHC9
+Reader: 
+Writer: J4V2N
+Reader: 
+Reader: J4V2N
+Writer: QHBAF
+Reader: J4V2N
+Writer: RAE1A
+Reader: J4V2N
+Writer: HRGWZ
+Writer: W09H5
+Reader: 
+Writer: 1OT4T
+Reader: 
+Writer: PNPLI
+Reader: 
+Writer: CN0F8
+Reader: 
+Reader: CN0F8
+Writer: 36FW5
+Writer: 4CDGQ
+Reader: 
+Reader: 4CDGQ
+Writer: CGUNN
+Writer: T4N7V
+Reader: 
+Reader: T4N7V
+Writer: BYGRZ
+Writer: EU3S8
+Reader: 
+Reader: EU3S8
+Writer: 30AY5
+Writer: ZUNMA
+Reader: 
+Reader: ZUNMA
+Writer: YKMOQ
+Reader: ZUNMA
+Writer: J2C8Z
+Writer: I93T6
+Reader: 
+Writer: FZY71
+Reader: 
+Reader: FZY71
+Writer: KJVIX
+Writer: LF6RX
+Reader: 
+Writer: 8RB66
+Reader: 
+Reader: 8RB66
+Writer: 0L2AP
+Writer: LS52Z
+Reader: 
+Reader: LS52Z
+Writer: 37R10
+Writer: A5QU0
+Reader: 
+Writer: PZE1F
+Reader: 
+Reader: PZE1F
+Writer: E5VK1
+Reader: PZE1F
+Writer: 077XG
+Writer: 46YRP
+Reader: 
+Writer: 1O2S3
+Reader: 
+Writer: OYF0X
+Reader: 
+Reader: OYF0X
+Writer: CBRFR
+Writer: AHB5L
+Reader: 
+Reader: AHB5L
+Writer: Q7UB9
+Reader: AHB5L
+Writer: 693V6
+Reader: AHB5L
+Writer: DH8E9
+Writer: B7V70
+Reader: 
+Reader: B7V70
+Writer: P04XY
+Writer: ZQ1FF
+Reader: 
+Writer: W42F9
+Reader: 
+Reader: W42F9
+Writer: 340T7
+Writer: P4U4T
+Reader: 
+Reader: P4U4T
+Writer: 4CMGQ
+Writer: DVDE6
+Reader: 
+Writer: 0D7NJ
+Reader: 
+Writer: PHXPJ
+Reader: 
+Reader: PHXPJ
+Writer: IP3EF
+Reader: PHXPJ
+Writer: HGCAL
+Reader: PHXPJ
+Writer: VFAD3
+Writer: XEVZB
+Reader: 
+Reader: XEVZB
+Writer: B1YJJ
+Reader: XEVZB
+Writer: 07MJR
+Reader: XEVZB
+Writer: HGEUK
+Writer: PJHAJ
+Reader: 
+Reader: PJHAJ
+Writer: 6TD3K
+Writer: UC3UW
+Reader: 
+Reader: UC3UW
+Writer: LW7OI
+Writer: R0T5P
+Reader: 
+Reader: R0T5P
+Writer: K42SE
+Writer: OBP2N
+Reader: 
+Reader: OBP2N
+Writer: O6UQF
+Writer: SX58Z
+Reader: 
+Reader: SX58Z
+Writer: XD2XG
+Writer: UI0M3
+Reader: 
+Reader: UI0M3
+Writer: YZMV8
+Writer: C1UY6
+Reader: 
+Reader: C1UY6
+Writer: SWAGI
+Writer: PBRJ0
+Reader: 
+Writer: 45VF1
+Reader: 
+Writer: GBEMT
+Reader: 
+Reader: GBEMT
+Writer: FLD9Y
+Reader: GBEMT
+Writer: YT9RC
+Reader: GBEMT
+Writer: 1CGCH
+Reader: GBEMT
+Writer: ADVP1
+Writer: T1RW9
+Reader: 
+Reader: T1RW9
+Writer: 3EH42
+Writer: AWIF1
+Reader: 
+Reader: AWIF1
+Writer: GTART
+Reader: AWIF1
+Writer: 5C9G8
+Reader: AWIF1
+Writer: 1ZS80
+Writer: CQYUA
+Reader: 
+Reader: CQYUA
+Writer: N4RA5
+Writer: UMEZC
+Reader: 
+Reader: UMEZC
+Writer: E4BKA
+Reader: UMEZC
+Writer: RCD65
+Reader: UMEZC
+Writer: Q2KXH
+Writer: DVJDZ
+Reader: 
+Reader: DVJDZ
+Writer: U8YEN
+Reader: DVJDZ
+Writer: MBAW9
+Writer: T7KE4
+Reader: 
+Reader: T7KE4
+Writer: 7XI7I
+Writer: AM2YT
+Reader: 
+Reader: AM2YT
+Writer: VT421
+Writer: 8DA9R
+Reader: 
+Reader: 8DA9R
+Writer: GG67X
+Writer: QCR7M
+Reader: 
+Writer: TSG2K
+Reader: 
+Writer: QNL5Z
+Reader: 
+Writer: IF9V2
+Reader: 
+Writer: 3HH4A
+Reader: 
+Writer: Q6KWY
+Reader: 
+Writer: 11KK2
+Reader: 
+Writer: 754MA
+Reader: 
+Writer: CMBSL
+Reader: 
+Writer: V1FKJ
+Reader: 
+Writer: AHKF4
+Reader: 
+Writer: I5W65
+Reader: 
+Writer: WHUET
+Reader: 
+Writer: YCAC1
+Reader: 
+Writer: NKWVZ
+Reader: 
+Writer: QGZSP
+Reader: 
+Writer: Y0AMX
+Reader: 
+Writer: UQFPT
+Reader: 
+Reader: UQFPT
+Writer: CI8QO
+Writer: 5268X
+Reader: 
+Reader: 5268X
+Writer: S1DS6
+Reader: 5268X
+Writer: ZUZQO
+Writer: CGERH
+Reader: 
+Writer: 5HHQ9
+Reader: 
+Writer: I7VSY
+Reader: 
+Reader: I7VSY
+Writer: EMFH3
+Writer: XJ056
+Reader: 
+Reader: XJ056
+Writer: 7XRQ8
+Writer: 91YBR
+Reader: 
+Writer: 6DQJS
+Reader: 
+Reader: 6DQJS
+Writer: XVQ9O
+Writer: UGU31
+Reader: 
+Writer: MPSW1
+Reader: 
+Reader: MPSW1
+Writer: 3PIUK
+Writer: HZ0SA
+Reader: 
+Reader: HZ0SA
+Writer: RITB2
+Reader: HZ0SA
+Writer: B66YG
+Writer: B30QM
+Reader: 
+Reader: B30QM
+Writer: 0DYYV
+Writer: UICJY
+Reader: 
+Reader: UICJY
+Writer: Q558L
+Reader: UICJY
+Writer: 84797
+Writer: LWTB0
+Reader: 
+Reader: LWTB0
+Writer: QS3QZ
+Writer: AY1IT
+Reader: 
+Writer: EBC7Q
+Reader: 
+Reader: EBC7Q
+Writer: IGJNL
+Writer: FB7NH
+Reader: 
+Writer: H51TA
+Reader: 
+Reader: H51TA
+Writer: ETW8F
+Writer: BPWUX
+Reader: 
+Reader: BPWUX
+Writer: 2DXOG
+Writer: 729TZ
+Reader: 
+Writer: FMFZU
+Reader: 
+Writer: PUQIS
+Reader: 
+Writer: E6IHP
+Reader: 
+Writer: UOE2O
+Reader: 
+Writer: 3UZZT
+Reader: 
+Writer: CNSGK
+Reader: 
+Writer: P5I45
+Reader: 
+Writer: 1N6NZ
+Reader: 
+Writer: Q8NCT
+Reader: 
+Writer: 54P9W
+Reader: 
+Writer: SYHE5
+Reader: 
+Writer: VXQGR
+Reader: 
+Writer: BCK8C
+Reader: 
+Writer: IYOLX
+Reader: 
+Writer: GR0C8
+Reader: 
+Writer: 4GWFY
+Reader: 
+Writer: H7ST1
+Reader: 
+Writer: 1YE8K
+Reader: 
+Writer: E705Y
+Reader: 
+Writer: OXP9L
+Reader: 
+Writer: GQEMP
+Reader: 
+Writer: B7FGA
+Reader: 
+Writer: OAKSJ
+Reader: 
+Writer: DT0HL
+Reader: 
+Writer: UUQAS
+Reader: 
+Writer: J15OU
+Reader: 
+Writer: H1X4R
+Reader: 
+Writer: 13GD0
+Reader: 
+Writer: 3T876
+Reader: 
+Reader: 3T876
+Writer: EWHVU
+Writer: 56HX1
+Reader: 
+Reader: 56HX1
+Writer: W9D4G
+Reader: 56HX1
+Writer: JC1V3
+Writer: XNQBS
+Reader: 
+Writer: KMWQS
+Reader: 
+Reader: KMWQS
+Writer: AVTEN
+Reader: KMWQS
+Writer: XUJ3Z
+Writer: KT9D4
+Reader: 
+Reader: KT9D4
+Writer: 2ZM7Q
+Reader: KT9D4
+Writer: 12MDJ
+Writer: 1FFDK
+Reader: 
+Reader: 1FFDK
+Writer: SJ1F0
+Writer: AQ9QT
+Reader: 
+Reader: AQ9QT
+Writer: Z276T
+Reader: AQ9QT
+Writer: DNMH0
+Reader: AQ9QT
+Writer: UAZA1
+Reader: AQ9QT
+Writer: IJP5W
+Reader: AQ9QT
+Writer: ROFSG
+Reader: AQ9QT
+Writer: A24N3
+Reader: AQ9QT
+Writer: LZ5O1
+Reader: AQ9QT
+Writer: 84PUF
+Reader: AQ9QT
+Writer: N38NZ
+Reader: AQ9QT
+Writer: RU0OR
+Reader: AQ9QT
+Writer: 1BE3B
+Reader: AQ9QT
+Writer: KXOZT
+Reader: AQ9QT
+Writer: LT9OO
+Reader: AQ9QT
+Writer: 5EKJ2
+Reader: AQ9QT
+Writer: O45ZI
+Reader: AQ9QT
+Writer: XQ23Z
+Reader: AQ9QT
+Writer: PBP6C
+Reader: AQ9QT
+Writer: KVCMQ
+Reader: AQ9QT
+Writer: LPZA4
+Reader: AQ9QT
+Writer: 44U84
+Reader: AQ9QT
+Writer: MKRVC
+Reader: AQ9QT
+Writer: 6FPUO
+Reader: AQ9QT
+Writer: 44VAD
+Reader: AQ9QT
+Writer: JDCLE
+Reader: AQ9QT
+Writer: JC82R
+Reader: AQ9QT
+Writer: 8F44O
+Reader: AQ9QT
+Writer: 3639M
+Reader: AQ9QT
+Writer: FT33F
+Reader: AQ9QT
+Writer: EGR8V
+Reader: AQ9QT
+Writer: Q4Y7U
+Reader: AQ9QT
+Writer: 01I4U
+Reader: AQ9QT
+Writer: KMYDD
+Reader: AQ9QT
+Writer: 1LUGU
+Reader: AQ9QT
+Writer: 8AWY8
+Reader: AQ9QT
+Writer: ZJJFA
+Reader: AQ9QT
+Writer: DV9HB
+Reader: AQ9QT
+Writer: EQ7KY
+Reader: AQ9QT
+Writer: CX9OC
+Reader: AQ9QT
+Writer: 350ZO
+Reader: AQ9QT
+Writer: 2WKOX
+Reader: AQ9QT
+Writer: PHA84
+Reader: AQ9QT
+Writer: QRC3Q
+Reader: AQ9QT
+Writer: YMRC9
+Reader: AQ9QT
+Writer: LOJSR
+Reader: AQ9QT
+Writer: KBHVF
+Reader: AQ9QT
+Writer: 4TT1I
+Reader: AQ9QT
+Writer: RKVTV
+Reader: AQ9QT
+Writer: 6P8PH
+Reader: AQ9QT
+Writer: UUF7N
+Reader: AQ9QT
+Writer: QNX0C
+Reader: AQ9QT
+Writer: OM26M
+Reader: AQ9QT
+Writer: OAP3A
+Reader: AQ9QT
+Writer: 68KV9
+Reader: AQ9QT
+Writer: O07RC
+Reader: AQ9QT
+Writer: 5Q4K7
+Reader: AQ9QT
+Writer: Z5KIY
+Reader: AQ9QT
+Writer: Q63Y3
+Reader: AQ9QT
+Writer: ESZHG
+Reader: AQ9QT
+Writer: 6AEPL
+Reader: AQ9QT
+Writer: WJU79
+Reader: AQ9QT
+Writer: ZQFXH
+Reader: AQ9QT
+Writer: 8SR9W
+Reader: AQ9QT
+Writer: TZHFT
+Reader: AQ9QT
+Writer: 9EW14
+Reader: AQ9QT
+Writer: 6BZKF
+Reader: AQ9QT
+Writer: 5LP9K
+Reader: AQ9QT
+Writer: QKMI8
+Reader: AQ9QT
+Writer: 90FR5
+Reader: AQ9QT
+Writer: WAZUX
+Reader: AQ9QT
+Writer: G385L
+Reader: AQ9QT
+Writer: SX2DC
+Reader: AQ9QT
+Writer: X04RL
+Reader: AQ9QT
+Writer: WCRYG
+Reader: AQ9QT
+Writer: IN8HT
+Reader: AQ9QT
+Writer: I8E5H
+Reader: AQ9QT
+Writer: 5LFX8
+Reader: AQ9QT
+Writer: BMUY2
+Reader: AQ9QT
+Writer: 2RJGK
+Reader: AQ9QT
+Writer: J6XFJ
+Reader: AQ9QT
+Writer: UTBOO
+Reader: AQ9QT
+Writer: 351LC
+Reader: AQ9QT
+Writer: TT65H
+Reader: AQ9QT
+Writer: MVHTJ
+Reader: AQ9QT
+Writer: KS26O
+Reader: AQ9QT
+Writer: 0E16K
+Reader: AQ9QT
+Writer: MK8WX
+Reader: AQ9QT
+Writer: MK0IF
+Reader: AQ9QT
+Writer: GUIWJ
+Reader: AQ9QT
+Writer: JUN98
+Reader: AQ9QT
+Writer: XZE59
+Reader: AQ9QT
+Writer: B0FAY
+Reader: AQ9QT
+Writer: ZD5AZ
+Reader: AQ9QT
+Writer: IUKH4
+Reader: AQ9QT
+Writer: B58ND
+Reader: AQ9QT
+Writer: ZJGWE
+Reader: AQ9QT
+Writer: F028X
+Reader: AQ9QT
+Writer: XFCXW
+Reader: AQ9QT
+Writer: WF0UQ
+Reader: AQ9QT
+Writer: DZI6A
+Reader: AQ9QT
+Writer: ZKGE7
+Reader: AQ9QT
+Writer: 2002J
+Reader: AQ9QT
+Writer: 1TS5S
+Reader: AQ9QT
+Writer: 8K7NC
+Reader: AQ9QT
+Writer: CRWUI
+Reader: AQ9QT
+Writer: 6EN79
+Reader: AQ9QT
+Writer: ABKWP
+Reader: AQ9QT
+Writer: 4UYB5
+Reader: AQ9QT
+Writer: 6PKN5
+Reader: AQ9QT
+Writer: CW5CR
+Reader: AQ9QT
+Writer: 22547
+Reader: AQ9QT
+Writer: HYV6A
+Reader: AQ9QT
+Writer: YM23J
+Reader: AQ9QT
+Writer: ZJ5PX
+Reader: AQ9QT
+Writer: OW6RF
+Reader: AQ9QT
+Writer: XHIZF
+Reader: AQ9QT
+Writer: JILQG
+Reader: AQ9QT
+Writer: HGQZI
+Reader: AQ9QT
+Writer: G82AH
+Reader: AQ9QT
+Writer: TWREF
+Reader: AQ9QT
+Writer: 31QOC
+Reader: AQ9QT
+Writer: G5NYJ
+Reader: AQ9QT
+Writer: AP501
+Reader: AQ9QT
+Writer: PBMWB
+Reader: AQ9QT
+Writer: T2GGQ
+Reader: AQ9QT
+Writer: Q36KV
+Reader: AQ9QT
+Writer: B0EUL
+Reader: AQ9QT
+Writer: S26N9
+Reader: AQ9QT
+Writer: M21PH
+Reader: AQ9QT
+Writer: 1CBI1
+Reader: AQ9QT
+Writer: SJ4CW
+Reader: AQ9QT
+Writer: AUJ7W
+Reader: AQ9QT
+Writer: N9CDH
+Reader: AQ9QT
+Writer: KLLOJ
+Reader: AQ9QT
+Writer: XE9WZ
+Reader: AQ9QT
+Writer: 0B09Z
+Reader: AQ9QT
+Writer: N1XTC
+Reader: AQ9QT
+Writer: 25B8K
+Reader: AQ9QT
+Writer: 7S80W
+Reader: AQ9QT
+Writer: M0XI7
+Reader: AQ9QT
+Writer: P1W9E
+Reader: AQ9QT
+Writer: NKIN5
+Reader: AQ9QT
+Writer: 94KIJ
+Reader: AQ9QT
+Writer: VLTAP
+Reader: AQ9QT
+Writer: PJNEL
+Reader: AQ9QT
+Writer: EGI9N
+Reader: AQ9QT
+Writer: 9OSCK
+Reader: AQ9QT
+Writer: WEYOZ
+Reader: AQ9QT
+Writer: RWYCL
+Reader: AQ9QT
+Writer: DI0RB
+Reader: AQ9QT
+Writer: AHW2R
+Reader: AQ9QT
+Writer: FNSX9
+Reader: AQ9QT
+Writer: HBJ95
+Reader: AQ9QT
+Writer: VLI7X
+Reader: AQ9QT
+Writer: QXEL7
+Reader: AQ9QT
+Writer: 2VK2I
+Reader: AQ9QT
+Writer: 6P18M
+Reader: AQ9QT
+Writer: 210UE
+Reader: AQ9QT
+Writer: IWBPR
+Reader: AQ9QT
+Writer: QNYH0
+Reader: AQ9QT
+Writer: 2A24U
+Reader: AQ9QT
+Writer: NCK4Y
+Reader: AQ9QT
+Writer: UDZPD
+Reader: AQ9QT
+Writer: 2JKXC
+Reader: AQ9QT
+Writer: 3VX3O
+Reader: AQ9QT
+Writer: 4VZ4Q
+Reader: AQ9QT
+Reader: 4VZ4Q
+Writer: P7DCQ
+Writer: 6W7N9
+Reader: AQ9QT
+Reader: 6W7N9
+Writer: ZR55U
+Reader: 6W7N9
+Writer: E6WLZ
+Writer: HCBE7
+Reader: AQ9QT
+Writer: GM9P0
+Reader: AQ9QT
+Writer: 1NQNJ
+Reader: AQ9QT
+Writer: XAX9H
+Reader: AQ9QT
+Writer: FM7XN
+Reader: AQ9QT
+Writer: M02IJ
+Reader: AQ9QT
+Writer: 89NEJ
+Reader: AQ9QT
+Writer: N59FJ
+Reader: AQ9QT
+Writer: TWRXI
+Reader: AQ9QT
+Writer: LARW7
+Reader: AQ9QT
+Writer: EIXET
+Reader: AQ9QT
+Writer: 4EN1U
+Reader: AQ9QT
+Writer: QU0F1
+Reader: AQ9QT
+Writer: 1AMD5
+Reader: AQ9QT
+Writer: 1ASZX
+Reader: AQ9QT
+Writer: T4KPB
+Reader: AQ9QT
+Writer: LIFLF
+Reader: AQ9QT
+Writer: ZMIUP
+Reader: AQ9QT
+Writer: ISIU3
+Reader: AQ9QT
+Writer: 95M5Q
+Reader: AQ9QT
+Writer: LYN1F
+Reader: AQ9QT
+Writer: D07RA
+Reader: AQ9QT
+Writer: A48ZJ
+Reader: AQ9QT
+Writer: HPPAB
+Reader: AQ9QT
+Writer: P11YX
+Reader: AQ9QT
+Reader: P11YX
+Writer: J275X
+Reader: P11YX
+Writer: XRO8Z
+Writer: X5OFB
+Reader: AQ9QT
+Writer: 9O1UO
+Reader: AQ9QT
+Writer: NTSLW
+Reader: AQ9QT
+Writer: UQL3B
+Reader: AQ9QT
+Writer: T6YD6
+Reader: AQ9QT
+Reader: T6YD6
+Writer: K3C3M
+Writer: SQ99V
+Reader: AQ9QT
+Writer: MAJ8C
+Reader: AQ9QT
+Reader: MAJ8C
+Writer: AAGKJ
+Writer: ZKWJD
+Reader: AQ9QT
+Reader: ZKWJD
+Writer: GFU7G
+Writer: 0GKJ0
+Reader: AQ9QT
+Reader: 0GKJ0
+Writer: FM7H5
+Reader: 0GKJ0
+Writer: 7USZK
+Reader: 0GKJ0
+Writer: THN0A
+Writer: T0O4H
+Reader: AQ9QT
+Reader: T0O4H
+Writer: AG20F
+Writer: M5C35
+Reader: AQ9QT
+Writer: F0AI7
+Reader: AQ9QT
+Writer: XC8OM
+Reader: AQ9QT
+Writer: F169T
+Reader: AQ9QT
+Writer: 9236X
+Reader: AQ9QT
+Writer: A1QB0
+Reader: AQ9QT
+Writer: 9UGCS
+Reader: AQ9QT
+Writer: BRZ4E
+Reader: AQ9QT
+Writer: 3GE3M
+Reader: AQ9QT
+Writer: Q19RB
+Reader: AQ9QT
+Writer: IJ3HG
+Reader: AQ9QT
+Writer: UBGG4
+Reader: AQ9QT
+Writer: OK8S7
+Reader: AQ9QT
+Writer: D566L
+Reader: AQ9QT
+Writer: XCC50
+Reader: AQ9QT
+Writer: 2YATG
+Reader: AQ9QT
+Writer: I189R
+Reader: AQ9QT
+Writer: Z1968
+Reader: AQ9QT
+Writer: 9LT9Z
+Reader: AQ9QT
+Reader: 9LT9Z
+Writer: SIW5J
+Reader: 9LT9Z
+Writer: U5DGO
+Writer: GH7QN
+Reader: AQ9QT
+Writer: 5BW9W
+Reader: AQ9QT
+Writer: WM8AI
+Reader: AQ9QT
+Reader: WM8AI
+Writer: M5A7L
+Writer: MSCFH
+Reader: AQ9QT
+Reader: MSCFH
+Writer: UBEKW
+Writer: NY1VK
+Reader: AQ9QT
+Reader: NY1VK
+Writer: S3TSC
+Writer: 8YUND
+Reader: AQ9QT
+Reader: 8YUND
+Writer: GKWX6
+Writer: Y4G5B
+Reader: AQ9QT
+Reader: Y4G5B
+Writer: XE2J2
+Writer: 47MMJ
+Reader: AQ9QT
+Reader: 47MMJ
+Writer: 8VMZZ
+Writer: TMR4N
+Reader: AQ9QT
+Reader: TMR4N
+Writer: X8ZBB
+Writer: KPQO8
+Reader: AQ9QT
+Reader: KPQO8
+Writer: SR5UW
+Writer: NAJZH
+Reader: AQ9QT
+Writer: AMHDE
+Reader: AQ9QT
+Reader: AMHDE
+Writer: V767M
+Reader: AMHDE
+Writer: LMLSO
+Writer: ZO0HS
+Reader: AQ9QT
+Writer: PQ8O1
+Reader: AQ9QT
+Writer: QZ2CM
+Reader: AQ9QT
+Reader: QZ2CM
+Writer: SD1WM
+Reader: QZ2CM
+Writer: L0W6Q
+Writer: MTSBW
+Reader: AQ9QT
+Writer: FGNF7
+Reader: AQ9QT
+Writer: 8JBH2
+Reader: AQ9QT
+Reader: 8JBH2
+Writer: TO3MY
+Reader: 8JBH2
+Writer: 5E3V4
+Reader: 8JBH2
+Writer: IVYFC
+Writer: 8231F
+Reader: AQ9QT
+Reader: 8231F
+Writer: 6862V
+Writer: KLWFN
+Reader: AQ9QT
+Writer: IBU42
+Reader: AQ9QT
+Writer: 67JIU
+Reader: AQ9QT
+Reader: 67JIU
+Writer: IZ6HO
+Writer: USIC8
+Reader: AQ9QT
+Reader: USIC8
+Writer: FPKC6
+Reader: USIC8
+Writer: VRB0O
+Reader: USIC8
+Writer: USXHV
+Reader: USIC8
+Writer: HA3MG
+Writer: BTVH7
+Reader: AQ9QT
+Reader: BTVH7
+Writer: GBZNB
+Writer: 1DTGH
+Reader: AQ9QT
+Writer: 21S8H
+Reader: AQ9QT
+Reader: 21S8H
+Writer: P5S4A
+Reader: 21S8H
+Writer: ZBYWH
+Writer: TY666
+Reader: AQ9QT
+Reader: TY666
+Writer: W4DEZ
+Writer: T1XZW
+Reader: AQ9QT
+Reader: T1XZW
+Writer: Q8RA2
+Writer: QS5E0
+Reader: AQ9QT
+Writer: GA0GH
+Reader: AQ9QT
+Reader: GA0GH
+Writer: EMDGR
+Writer: DHWJU
+Reader: AQ9QT
+Writer: 8XNIX
+Reader: AQ9QT
+Reader: 8XNIX
+Writer: XI2HT
+Writer: 0UY30
+Reader: AQ9QT
+Reader: 0UY30
+Writer: A21G0
+Reader: 0UY30
+Writer: WD66U
+Reader: 0UY30
+Writer: GXQIT
+Reader: 0UY30
+Writer: JMHP3
+Writer: 2FXQC
+Reader: AQ9QT
+Writer: 8HTXR
+Reader: AQ9QT
+Reader: 8HTXR
+Writer: UYJQQ
+Writer: KPQT8
+Reader: AQ9QT
+Reader: KPQT8
+Writer: 41QXQ
+Writer: A1UYJ
+Reader: AQ9QT
+Reader: A1UYJ
+Writer: ONJ98
+Reader: A1UYJ
+Writer: 5FKD2
+Writer: OUIPA
+Reader: AQ9QT
+Writer: SNA1J
+Reader: AQ9QT
+Reader: SNA1J
+Writer: 35XQ9
+Reader: SNA1J
+Writer: AY9AC
+Reader: SNA1J
+Writer: GX4NC
+Writer: HOKRU
+Reader: AQ9QT
+Reader: HOKRU
+Writer: EFN0T
+Reader: HOKRU
+Writer: JTBX7
+Reader: HOKRU
+Writer: W12OP
+Reader: HOKRU
+Writer: TZ2A8
+Reader: HOKRU
+Writer: HFKAW
+Reader: HOKRU
+Writer: 1Z5N3
+Reader: HOKRU
+Writer: EDTGE
+Reader: HOKRU
+Writer: YS77Z
+Reader: HOKRU
+Writer: RXMCQ
+Reader: HOKRU
+Writer: P4Q7T
+Reader: HOKRU
+Writer: SWJSN
+Reader: HOKRU
+Writer: 95ME2
+Reader: HOKRU
+Writer: TXX33
+Reader: HOKRU
+Writer: SHVK1
+Reader: HOKRU
+Writer: B25KR
+Reader: HOKRU
+Writer: U2ITG
+Reader: HOKRU
+Writer: 7J73L
+Reader: HOKRU
+Writer: R3A3F
+Reader: HOKRU
+Writer: 3F2EG
+Reader: HOKRU
+Writer: 39TI8
+Reader: HOKRU
+Writer: HIFGS
+Reader: HOKRU
+Writer: Z19B2
+Reader: HOKRU
+Writer: GW375
+Reader: HOKRU
+Writer: J04SM
+Reader: HOKRU
+Writer: YH2E7
+Reader: HOKRU
+Writer: 590DX
+Reader: HOKRU
+Writer: VJ9V9
+Reader: HOKRU
+Writer: YE0LV
+Reader: HOKRU
+Writer: 049B9
+Reader: HOKRU
+Writer: GM4J6
+Reader: HOKRU
+Writer: CEA6J
+Reader: HOKRU
+Writer: AQBIW
+Reader: HOKRU
+Writer: 0A5NG
+Reader: HOKRU
+Writer: 6XH8G
+Reader: HOKRU
+Writer: FAS7V
+Reader: HOKRU
+Writer: 4I0F1
+Reader: HOKRU
+Writer: TFQHV
+Writer: QJDM8
+Reader: AQ9QT
+Reader: QJDM8
+Writer: ICRZ5
+Writer: 08V4D
+Reader: AQ9QT
+Reader: 08V4D
+Writer: TE5D0
+Writer: CWDKP
+Reader: AQ9QT
+Writer: 2Z6RC
+Reader: AQ9QT
+Reader: 2Z6RC
+Writer: UTY20
+Writer: WT5A7
+Reader: AQ9QT
+Reader: WT5A7
+Writer: CS3C5
+Reader: WT5A7
+Writer: 5W6BI
+Writer: OKNQS
+Reader: AQ9QT
+Reader: OKNQS
+Writer: 4G36G
+Reader: OKNQS
+Writer: TGAWK
+Writer: GK3EQ
+Reader: AQ9QT
+Writer: AJ5GX
+Reader: AQ9QT
+Reader: AJ5GX
+Writer: U3AOU
+Writer: F34JX
+Reader: AQ9QT
+Reader: F34JX
+Writer: KGHJ5
+Writer: QZ84O
+Reader: AQ9QT
+Reader: QZ84O
+Writer: 6RG1Z
+Writer: U31VH
+Reader: AQ9QT
+Writer: FOG28
+Reader: AQ9QT
+Writer: AFOMA
+Reader: AQ9QT
+Writer: ZM19A
+Reader: AQ9QT
+Writer: 9DUI9
+Reader: AQ9QT
+Reader: 9DUI9
+Writer: KLB21
+Writer: DXJZA
+Reader: AQ9QT
+Reader: DXJZA
+Writer: MBIBS
+Reader: DXJZA
+Writer: 59OK5
+Reader: DXJZA
+Writer: LLW3Y
+Reader: DXJZA
+Writer: UZH1Z
+Reader: DXJZA
+Writer: QJTW7
+Reader: DXJZA
+Writer: 3NOB5
+Reader: DXJZA
+Writer: N6YLY
+Reader: DXJZA
+Writer: XD0QE
+Reader: DXJZA
+Writer: AYJNX
+Reader: DXJZA
+Writer: 9ZHDH
+Reader: DXJZA
+Writer: NPRAT
+Reader: DXJZA
+Writer: DSWDY
+Reader: DXJZA
+Writer: RUNPR
+Reader: DXJZA
+Writer: PWKFA
+Reader: DXJZA
+Writer: Q90XY
+Reader: DXJZA
+Writer: 29F88
+Reader: DXJZA
+Writer: EGL3R
+Reader: DXJZA
+Writer: 7OY2U
+Reader: DXJZA
+Writer: FRW1W
+Reader: DXJZA
+Writer: QK36I
+Writer: NOCC1
+Reader: AQ9QT
+Reader: NOCC1
+Writer: OZ4L0
+Writer: DMYFU
+Reader: AQ9QT
+Writer: LJU8T
+Reader: AQ9QT
+Writer: B7SU5
+Reader: AQ9QT
+Writer: 9M8AI
+Reader: AQ9QT
+Writer: RGJ0V
+Reader: AQ9QT
+Writer: 0EICC
+Reader: AQ9QT
+Writer: ITMBR
+Reader: AQ9QT
+Writer: 23QHL
+Reader: AQ9QT
+Writer: H04NH
+Reader: AQ9QT
+Writer: P6RH2
+Reader: AQ9QT
+Writer: B14DJ
+Reader: AQ9QT
+Writer: 6C8U4
+Reader: AQ9QT
+Writer: HAS5K
+Reader: AQ9QT
+Writer: RVQDC
+Reader: AQ9QT
+Writer: F50YB
+Reader: AQ9QT
+Writer: 1L6SF
+Reader: AQ9QT
+Writer: 4WBKA
+Reader: AQ9QT
+Writer: RZJ2U
+Reader: AQ9QT
+Writer: Z55NE
+Reader: AQ9QT
+Writer: GH9C0
+Reader: AQ9QT
+Writer: 3PNFW
+Reader: AQ9QT
+Writer: GAFBR
+Reader: AQ9QT
+Writer: UGPO9
+Reader: AQ9QT
+Writer: U9I43
+Reader: AQ9QT
+Writer: 1LYSM
+Reader: AQ9QT
+Writer: K9NT4
+Reader: AQ9QT
+Writer: UM42M
+Reader: AQ9QT
+Writer: OI6X4
+Reader: AQ9QT
+Writer: QTHL9
+Reader: AQ9QT
+Writer: TPRNU
+Reader: AQ9QT
+Writer: H9EI8
+Reader: AQ9QT
+Writer: R052L
+Reader: AQ9QT
+Writer: GWWG7
+Reader: AQ9QT
+Writer: IMWCV
+Reader: AQ9QT
+Writer: LDUAN
+Reader: AQ9QT
+Writer: IENT3
+Reader: AQ9QT
+Writer: 5S99X
+Reader: AQ9QT
+Writer: UIW44
+Reader: AQ9QT
+Writer: YNDMY
+Reader: AQ9QT
+Writer: 37BO1
+Reader: AQ9QT
+Writer: H3O2I
+Writer: EPE50
+Reader: 
+Reader: EPE50
+Writer: NNM9Q
+Writer: XWWTM
+Reader: 
+Writer: 9Z2I7
+Reader: 
+Reader: 9Z2I7
+Writer: 79HLT
+Writer: KC91V
+Reader: 
+Reader: KC91V
+Writer: BEH0T
+Reader: KC91V
+Writer: FE1EQ
+Writer: KBE6B
+Reader: 
+Writer: HKSB1
+Reader: 
+Reader: HKSB1
+Writer: RBG5L
+Writer: EH2LP
+Reader: 
+Writer: KOUNO
+Reader: 
+Reader: KOUNO
+Writer: SP59H
+Reader: KOUNO
+Writer: 58X1W
+Writer: 65KJM
+Reader: 
+Reader: 65KJM
+Writer: 9U79E
+Reader: 65KJM
+Writer: A8MPO
+Reader: 65KJM
+Writer: 7LPYF
+Reader: 65KJM
+Writer: 6Q1SS
+Writer: 1PS46
+Reader: 
+Reader: 1PS46
+Writer: SNOIO
+Writer: J6T9P
+Reader: 
+Writer: 0RUIN
+Reader: 
+Reader: 0RUIN
+Writer: UCPVJ
+Writer: TT9V0
+Reader: 
+Writer: PD20U
+Reader: 
+Writer: UCCDV
+Reader: 
+Writer: XTDBE
+Reader: 
+Writer: A2PJP
+Reader: 
+Reader: A2PJP
+Writer: P6SF7
+Writer: Y96VM
+Reader: 
+Writer: 9N3S9
+Reader: 
+Writer: FE2P5
+Reader: 
+Reader: FE2P5
+Writer: XOQWZ
+Reader: FE2P5
+Writer: B9OQI
+Reader: FE2P5
+Writer: 1DZFL
+Reader: FE2P5
+Writer: SVX25
+Reader: FE2P5
+Writer: VFR1W
+Writer: JZUB9
+Reader: 
+Reader: JZUB9
+Writer: 69AO1
+Writer: AP5P6
+Reader: 
+Writer: ZUQMU
+Reader: 
+Reader: ZUQMU
+Writer: 5XXHQ
+Writer: UR9TK
+Reader: 
+Reader: UR9TK
+Writer: S7Z9P
+Reader: UR9TK
+Writer: LONRM
+Writer: 1CLOK
+Reader: 
+Writer: DZH6G
+Reader: 
+Reader: DZH6G
+Writer: AZEH1
+Writer: VCMVP
+Reader: 
+Writer: OAREJ
+Reader: 
+Reader: OAREJ
+Writer: C05AU
+Reader: OAREJ
+Writer: KH8A2
+Writer: 2MJ6M
+Reader: 
+Reader: 2MJ6M
+Writer: 4KCNJ
+Reader: 2MJ6M
+Writer: 22SI3
+Writer: JB2C7
+Reader: 
+Writer: 1VHEH
+Reader: 
+Reader: 1VHEH
+Writer: N4GL5
+Writer: 30EO8
+Reader: 
+Reader: 30EO8
+Writer: J3PIU
+Writer: E7D4Q
+Reader: 
+Reader: E7D4Q
+Writer: KHXGL
+Writer: IP6CA
+Reader: 
+Writer: GEEZ9
+Reader: 
+Writer: AD1RP
+Reader: 
+Writer: BYDKT
+Reader: 
+Reader: BYDKT
+Writer: PVTR3
+Writer: 4RNX7
+Reader: 
+Reader: 4RNX7
+Writer: FG99W
+Writer: O4BN1
+Reader: 
+Reader: O4BN1
+Writer: FY0IU
+Reader: O4BN1
+Writer: AGWOO
+Writer: VENX5
+Reader: 
+Reader: VENX5
+Writer: W5PJG
+Writer: Z0R13
+Reader: 
+Reader: Z0R13
+Writer: 3D14B
+Writer: HWZSN
+Reader: 
+Reader: HWZSN
+Writer: 15K62
+Writer: Y58IM
+Reader: 
+Writer: B3MDA
+Reader: 
+Writer: SP1GC
+Reader: 
+Reader: SP1GC
+Writer: PH9O1
+Writer: 6O1NH
+Reader: 
+Reader: 6O1NH
+Writer: 8O4JE
+Reader: 6O1NH
+Writer: 1USRS
+Reader: 6O1NH
+Writer: 32IP2
+Reader: 6O1NH
+Writer: 91X4S
+Reader: 6O1NH
+Writer: 24TP8
+Reader: 6O1NH
+Writer: U55F5
+Writer: JEVBN
+Reader: 
+Reader: JEVBN
+Writer: X9C9I
+Writer: 86KYJ
+Reader: 
+Reader: 86KYJ
+Writer: X8UW2
+Writer: F164P
+Reader: 
+Reader: F164P
+Writer: D5PKT
+Writer: 6YNVJ
+Reader: 
+Reader: 6YNVJ
+Writer: ZGGBF
+Reader: 6YNVJ
+Writer: 9YYWU
+Reader: 6YNVJ
+Writer: 5U4GL
+Writer: VKJN0
+Reader: 
+Reader: VKJN0
+Writer: SH1WJ
+Writer: 1U1PM
+Reader: 
+Reader: 1U1PM
+Writer: JTZOU
+Writer: Q1TQ2
+Reader: 
+Reader: Q1TQ2
+Writer: QDKJT
+Writer: TAI97
+Reader: 
+Writer: VPA41
+Reader: 
+Reader: VPA41
+Writer: RPU1N
+Writer: P6IJL
+Reader: 
+Writer: L4PW5
+Reader: 
+Reader: L4PW5
+Writer: 412UK
+Writer: P6RC0
+Reader: 
+Writer: 1L2R0
+Reader: 
+Writer: 4T4XC
+Reader: 
+Reader: 4T4XC
+Writer: BH1DM
+Writer: U4A8H
+Reader: 
+Reader: U4A8H
+Writer: YUWED
+Writer: 3WPUL
+Reader: 
+Reader: 3WPUL
+Writer: V7RAV
+Reader: 3WPUL
+Writer: ED0TQ
+Writer: 2A1T3
+Reader: 
+Writer: X9ZI0
+Reader: 
+Writer: U5T5C
+Reader: 
+Reader: U5T5C
+Writer: GZYO6
+Reader: U5T5C
+Writer: IDJMQ
+Reader: U5T5C
+Writer: EZ0RI
+Writer: QDRRP
+Reader: 
+Reader: QDRRP
+Writer: X2CKQ
+Reader: QDRRP
+Writer: 36H41
+Writer: ZNW8O
+Reader: 
+Reader: ZNW8O
+Writer: OPMWI
+Writer: Y0PDZ
+Reader: 
+Reader: Y0PDZ
+Writer: 8JH9J
+Writer: ROBPO
+Reader: 
+Reader: ROBPO
+Writer: OWN7C
+Reader: ROBPO
+Writer: L6OU1
+Reader: ROBPO
+Writer: 0C2C3
+Writer: A04J0
+Reader: 
+Writer: 6N9VS
+Reader: 
+Reader: 6N9VS
+Writer: UZHUK
+Writer: LLGUA
+Reader: 
+Reader: LLGUA
+Writer: 2BPT7
+Reader: LLGUA
+Writer: 1M4L8
+Reader: LLGUA
+Writer: 5RFGJ
+Reader: LLGUA
+Writer: 0T2ZR
+Reader: LLGUA
+Writer: AX2PS
+Reader: LLGUA
+Writer: WZ3KP
+Reader: LLGUA
+Writer: O5HBB
+Writer: 8LLM8
+Reader: 
+Writer: USXWW
+Reader: 
+Writer: DTBLT
+Reader: 
+Writer: 2TRC9
+Reader: 
+Reader: 2TRC9
+Writer: EI9BK
+Writer: CSU6U
+Reader: 
+Reader: CSU6U
+Writer: 9JDEK
+Writer: OIQ06
+Reader: 
+Reader: OIQ06
+Writer: S9G3O
+Writer: CYS0W
+Reader: 
+Writer: 5NEB6
+Reader: 
+Writer: ZMJB6
+Reader: 
+Writer: C70CW
+Reader: 
+Reader: C70CW
+Writer: 4P6BF
+Writer: UC1GR
+Reader: 
+Writer: FCGXI
+Reader: 
+Reader: FCGXI
+Writer: O93JY
+Reader: FCGXI
+Writer: WECIU
+Writer: C8P34
+Reader: 
+Reader: C8P34
+Writer: VIEGU
+Writer: W2RVC
+Reader: 
+Reader: W2RVC
+Writer: 2V8U1
+Reader: W2RVC
+Writer: XGW2S
+Writer: CERNA
+Reader: 
+Reader: CERNA
+Writer: ZNXQD
+Writer: VX8L5
+Reader: 
+Writer: 689CV
+Reader: 
+Reader: 689CV
+Writer: WSIH6
+Writer: AGRQ7
+Reader: 
+Reader: AGRQ7
+Writer: 5MWL2
+Reader: AGRQ7
+Writer: R11G4
+Writer: IEASQ
+Reader: 
+Writer: FXWY5
+Reader: 
+Writer: ZHTG5
+Reader: 
+Writer: T5JQ9
+Reader: 
+Writer: T6GTH
+Reader: 
+Writer: JAWTO
+Reader: 
+Reader: JAWTO
+Writer: EH3IN
+Writer: SSZ01
+Reader: 
+Reader: SSZ01
+Writer: MT3VI
+Writer: Y2QQI
+Reader: 
+Writer: VRKGL
+Reader: 
+Writer: M7QLH
+Reader: 
+Reader: M7QLH
+Writer: EBDJ0
+Writer: RNL3N
+Reader: 
+Writer: BGTZW
+Reader: 
+Reader: BGTZW
+Writer: ADVLS
+Writer: QUGL3
+Reader: 
+Writer: W6W6A
+Reader: 
+Reader: W6W6A
+Writer: UBOTW
+Reader: W6W6A
+Writer: LPT50
+Writer: KRWCG
+Reader: 
+Writer: O8UTK
+Reader: 
+Reader: O8UTK
+Writer: JMF20
+Reader: O8UTK
+Writer: U51PD
+Reader: O8UTK
+Writer: U1O33
+Reader: O8UTK
+Writer: A19CL
+Reader: O8UTK
+Writer: UTZVH
+Reader: O8UTK
+Writer: 98EEO
+Reader: O8UTK
+Writer: YLCV0
+Reader: O8UTK
+Writer: I5V3C
+Reader: O8UTK
+Writer: QYD1F
+Reader: O8UTK
+Writer: TC2JG
+Reader: O8UTK
+Writer: X9SI0
+Reader: O8UTK
+Writer: 0WUU0
+Reader: O8UTK
+Writer: W0WBP
+Reader: O8UTK
+Writer: IY3CV
+Reader: O8UTK
+Writer: EFGA4
+Reader: O8UTK
+Writer: 6Q8PX
+Reader: O8UTK
+Writer: 7F481
+Reader: O8UTK
+Writer: Z345A
+Reader: O8UTK
+Writer: VLBCQ
+Reader: O8UTK
+Writer: ZBCM6
+Reader: O8UTK
+Writer: 5J0XB
+Reader: O8UTK
+Writer: R2RN4
+Reader: O8UTK
+Writer: JXE62
+Reader: O8UTK
+Writer: Q5YJZ
+Reader: O8UTK
+Writer: P38B9
+Reader: O8UTK
+Writer: 2EDTF
+Reader: O8UTK
+Writer: 5NWT2
+Reader: O8UTK
+Writer: YOH6K
+Reader: O8UTK
+Writer: 6LQA0
+Reader: O8UTK
+Writer: 7HEK9
+Reader: O8UTK
+Writer: 3M2WR
+Reader: O8UTK
+Writer: BLYYJ
+Reader: O8UTK
+Writer: MZ7I9
+Reader: O8UTK
+Writer: 6BUEE
+Reader: O8UTK
+Writer: CY183
+Reader: O8UTK
+Writer: DN7KB
+Reader: O8UTK
+Writer: VA3UL
+Reader: O8UTK
+Writer: SU9B0
+Reader: O8UTK
+Writer: N0SX8
+Reader: O8UTK
+Writer: GNHB4
+Reader: O8UTK
+Writer: 6W9F7
+Reader: O8UTK
+Writer: EV43O
+Reader: O8UTK
+Writer: YNNXX
+Reader: O8UTK
+Writer: L6N7Q
+Reader: O8UTK
+Writer: LCSN0
+Reader: O8UTK
+Writer: MGDAW
+Reader: O8UTK
+Writer: ZF5PF
+Reader: O8UTK
+Writer: 8AXXG
+Reader: O8UTK
+Writer: 70GXC
+Reader: O8UTK
+Writer: 9M59W
+Reader: O8UTK
+Writer: KAKUT
+Reader: O8UTK
+Writer: 3DWOV
+Reader: O8UTK
+Writer: 7R4GY
+Reader: O8UTK
+Writer: SR7RZ
+Reader: O8UTK
+Writer: LJ00T
+Reader: O8UTK
+Writer: U54K0
+Reader: O8UTK
+Writer: 9LDNM
+Reader: O8UTK
+Writer: Z5L6L
+Reader: O8UTK
+Writer: 4OIBI
+Reader: O8UTK
+Writer: P699U
+Reader: O8UTK
+Writer: RONKL
+Reader: O8UTK
+Writer: AKUB9
+Reader: O8UTK
+Writer: 7JLXV
+Reader: O8UTK
+Writer: WNQ39
+Reader: O8UTK
+Writer: XGBG5
+Reader: O8UTK
+Writer: 6AYRE
+Reader: O8UTK
+Writer: Y650J
+Reader: O8UTK
+Writer: V83BL
+Reader: O8UTK
+Writer: OLK6N
+Reader: O8UTK
+Writer: VCUQW
+Reader: O8UTK
+Writer: BQG96
+Reader: O8UTK
+Writer: KMGOO
+Reader: O8UTK
+Writer: AVC6L
+Reader: O8UTK
+Writer: BNVO9
+Reader: O8UTK
+Writer: XUOSU
+Reader: O8UTK
+Writer: M6F2K
+Reader: O8UTK
+Writer: 4PH4C
+Reader: O8UTK
+Writer: I0538
+Reader: O8UTK
+Writer: J1PXL
+Reader: O8UTK
+Writer: 3INVL
+Reader: O8UTK
+Writer: HRGQ8
+Reader: O8UTK
+Writer: RBYPU
+Reader: O8UTK
+Writer: NHNDU
+Reader: O8UTK
+Writer: UNH4C
+Reader: O8UTK
+Writer: LR1Q0
+Reader: O8UTK
+Writer: 6E1G1
+Reader: O8UTK
+Writer: DTTRC
+Reader: O8UTK
+Writer: MJ16U
+Reader: O8UTK
+Writer: GCQJU
+Reader: O8UTK
+Writer: BNLC0
+Reader: O8UTK
+Writer: PASS9
+Reader: O8UTK
+Writer: 00ZZC
+Reader: O8UTK
+Writer: MJRXR
+Reader: O8UTK
+Writer: 4Y6BH
+Reader: O8UTK
+Writer: LWLJ6
+Reader: O8UTK
+Writer: JAS6Z
+Reader: O8UTK
+Writer: S3ZQM
+Reader: O8UTK
+Writer: CBARM
+Reader: O8UTK
+Writer: WUB4I
+Reader: O8UTK
+Writer: 6U310
+Reader: O8UTK
+Writer: NQK4P
+Reader: O8UTK
+Writer: 2ZJW0
+Reader: O8UTK
+Writer: ZI3AT
+Reader: O8UTK
+Writer: TUBLO
+Reader: O8UTK
+Writer: 3XPYV
+Reader: O8UTK
+Writer: 0VRB9
+Reader: O8UTK
+Writer: ZH0GL
+Reader: O8UTK
+Reader: ZH0GL
+Writer: CT4AT
+Writer: N2N1W
+Reader: O8UTK
+Writer: O0AKZ
+Reader: O8UTK
+Writer: MTRM7
+Reader: O8UTK
+Writer: 0BVIY
+Reader: O8UTK
+Reader: 0BVIY
+Writer: HIHXA
+Writer: SRXZR
+Reader: O8UTK
+Reader: SRXZR
+Writer: 90A1B
+Reader: SRXZR
+Writer: AJYCH
+Writer: AUGLX
+Reader: O8UTK
+Reader: AUGLX
+Writer: F0NJV
+Writer: A7VLM
+Reader: O8UTK
+Writer: EU00E
+Reader: O8UTK
+Reader: EU00E
+Writer: 6DL3Z
+Reader: EU00E
+Writer: WSZL6
+Reader: EU00E
+Writer: QMSBY
+Writer: WB695
+Reader: O8UTK
+Reader: WB695
+Writer: 2EOEQ
+Reader: WB695
+Writer: BEYP6
+Writer: QT88L
+Reader: O8UTK
+Writer: 6JNWB
+Reader: O8UTK
+Reader: 6JNWB
+Writer: WACMF
+Reader: 6JNWB
+Writer: XPUXZ
+Writer: DY04L
+Reader: O8UTK
+Reader: DY04L
+Writer: 1ZHMX
+Writer: R4KOP
+Reader: O8UTK
+Reader: R4KOP
+Writer: 6OUZ1
+Writer: NYJ8I
+Reader: O8UTK
+Reader: NYJ8I
+Writer: 1CB92
+Writer: WTBZ3
+Reader: O8UTK
+Writer: 22DWT
+Reader: O8UTK
+Writer: HBA8T
+Reader: O8UTK
+Reader: HBA8T
+Writer: 2ZY6I
+Writer: I445L
+Reader: O8UTK
+Reader: I445L
+Writer: PO2WU
+Writer: ZXITA
+Reader: O8UTK
+Reader: ZXITA
+Writer: 82VUX
+Writer: EL7GT
+Reader: O8UTK
+Reader: EL7GT
+Writer: MXLPP
+Writer: CNE0T
+Reader: O8UTK
+Reader: CNE0T
+Writer: 1ZFNN
+Writer: N9RC3
+Reader: O8UTK
+Reader: N9RC3
+Writer: U3R7V
+Writer: 9EDJD
+Reader: O8UTK
+Reader: 9EDJD
+Writer: 77YL9
+Writer: 2DNGR
+Reader: O8UTK
+Reader: 2DNGR
+Writer: LTR9I
+Reader: 2DNGR
+Writer: IXHHK
+Reader: 2DNGR
+Writer: E45M9
+Reader: 2DNGR
+Writer: SGN3Q
+Reader: 2DNGR
+Writer: 7K5XW
+Writer: 4B3NV
+Reader: O8UTK
+Reader: 4B3NV
+Writer: KWKUR
+Writer: BMRYM
+Reader: O8UTK
+Reader: BMRYM
+Writer: M6699
+Writer: CCLMR
+Reader: O8UTK
+Reader: CCLMR
+Writer: W0T0U
+Reader: CCLMR
+Writer: BX4MO
+Writer: H34VA
+Reader: O8UTK
+Reader: H34VA
+Writer: RTK48
+Writer: GYYRD
+Reader: O8UTK
+Reader: GYYRD
+Writer: BO6YU
+Reader: GYYRD
+Writer: 2ZR69
+Writer: TCUAQ
+Reader: O8UTK
+Writer: NREKE
+Reader: O8UTK
+Reader: NREKE
+Writer: SCK8R
+Writer: S1QNL
+Reader: O8UTK
+Reader: S1QNL
+Writer: 7BCWS
+Writer: W1G2V
+Reader: O8UTK
+Reader: W1G2V
+Writer: RM8VQ
+Writer: P9JOV
+Reader: O8UTK
+Writer: YUNMU
+Reader: O8UTK
+Reader: YUNMU
+Writer: 9D7GC
+Reader: YUNMU
+Writer: BJEVC
+Writer: RA8R4
+Reader: O8UTK
+Reader: RA8R4
+Writer: VLLZX
+Writer: GEYSB
+Reader: O8UTK
+Reader: GEYSB
+Writer: TRC2W
+Writer: MY0BT
+Reader: O8UTK
+Reader: MY0BT
+Writer: S490U
+Writer: IIMT8
+Reader: O8UTK
+Writer: OA1T9
+Reader: O8UTK
+Writer: MIXYO
+Reader: O8UTK
+Writer: 4OOES
+Reader: O8UTK
+Writer: THM8Z
+Reader: O8UTK
+Writer: 3J68L
+Reader: O8UTK
+Writer: 1MVFP
+Reader: O8UTK
+Writer: 81FUX
+Reader: O8UTK
+Writer: SZS2J
+Reader: O8UTK
+Writer: EABXY
+Reader: O8UTK
+Writer: DP4HA
+Reader: O8UTK
+Writer: A6O4E
+Reader: O8UTK
+Writer: FE3HH
+Reader: O8UTK
+Writer: AWSJQ
+Reader: O8UTK
+Writer: DJ4RA
+Reader: O8UTK
+Writer: 3YTYU
+Reader: O8UTK
+Writer: 3HJJI
+Reader: O8UTK
+Writer: MROEO
+Reader: O8UTK
+Writer: CMKPR
+Reader: O8UTK
+Writer: O6KUJ
+Reader: O8UTK
+Writer: RR2HV
+Reader: O8UTK
+Writer: 3UMHG
+Reader: O8UTK
+Writer: MMZJL
+Reader: O8UTK
+Writer: 75T95
+Reader: O8UTK
+Writer: SIO4N
+Reader: O8UTK
+Writer: 08PAW
+Reader: O8UTK
+Writer: 7N8PD
+Reader: O8UTK
+Writer: LOBYO
+Reader: O8UTK
+Writer: 1FG7C
+Reader: O8UTK
+Writer: ZWBDT
+Reader: O8UTK
+Writer: SMLZ0
+Reader: O8UTK
+Writer: ID734
+Reader: O8UTK
+Writer: 4FMVJ
+Reader: O8UTK
+Writer: 8OKGA
+Reader: O8UTK
+Writer: S35UE
+Reader: O8UTK
+Writer: NCQ2Y
+Reader: O8UTK
+Writer: D7LQD
+Reader: O8UTK
+Writer: VBJY4
+Reader: O8UTK
+Writer: HRI3U
+Reader: O8UTK
+Writer: V3VYD
+Reader: O8UTK
+Writer: KM4DA
+Reader: O8UTK
+Writer: ZQ1VM
+Reader: O8UTK
+Writer: GXEF0
+Reader: O8UTK
+Writer: 645SY
+Reader: O8UTK
+Writer: 7FVM2
+Reader: O8UTK
+Writer: BVBAS
+Reader: O8UTK
+Writer: UQ2ZN
+Reader: O8UTK
+Writer: 1DIPN
+Reader: O8UTK
+Writer: EKXLX
+Reader: O8UTK
+Writer: UMDCX
+Reader: O8UTK
+Writer: 17DAF
+Reader: O8UTK
+Writer: F0SK9
+Reader: O8UTK
+Writer: DO1C2
+Reader: O8UTK
+Writer: 04O19
+Reader: O8UTK
+Writer: 3VPET
+Reader: O8UTK
+Writer: WRKZI
+Reader: O8UTK
+Writer: YS9N0
+Reader: O8UTK
+Writer: WN2TI
+Reader: O8UTK
+Writer: BV8QK
+Reader: O8UTK
+Writer: ZTUT7
+Reader: O8UTK
+Writer: Z7LD3
+Reader: O8UTK
+Writer: GR9QT
+Reader: O8UTK
+Writer: XQ2BK
+Reader: O8UTK
+Writer: VPNMF
+Reader: O8UTK
+Writer: MC4T8
+Reader: O8UTK
+Writer: IX933
+Reader: O8UTK
+Writer: D601T
+Reader: O8UTK
+Writer: 0G5TU
+Reader: O8UTK
+Writer: EOLAU
+Reader: O8UTK
+Writer: U26FY
+Reader: O8UTK
+Writer: KFINU
+Reader: O8UTK
+Writer: WD2EV
+Reader: O8UTK
+Writer: SSFWP
+Reader: O8UTK
+Writer: 0ZBST
+Reader: O8UTK
+Writer: OT42B
+Reader: O8UTK
+Writer: 8149N
+Reader: O8UTK
+Writer: P13ET
+Reader: O8UTK
+Writer: 8YNH6
+Reader: O8UTK
+Writer: XO07B
+Reader: O8UTK
+Reader: XO07B
+Writer: VIYV3
+Reader: XO07B
+Writer: 51NWK
+Writer: 0LPMV
+Reader: O8UTK
+Writer: 5J31F
+Reader: O8UTK
+Reader: 5J31F
+Writer: 1ZADR
+Writer: CL4W5
+Reader: O8UTK
+Reader: CL4W5
+Writer: A260P
+Reader: CL4W5
+Writer: 0CIFS
+Reader: CL4W5
+Writer: YNH43
+Writer: XIBVB
+Reader: O8UTK
+Reader: XIBVB
+Writer: OV91K
+Writer: 6IVE0
+Reader: O8UTK
+Writer: T710K
+Reader: O8UTK
+Reader: T710K
+Writer: 7OZ75
+Writer: 2AXJR
+Reader: O8UTK
+Reader: 2AXJR
+Writer: NSGJ3
+Reader: 2AXJR
+Writer: 3KIUR
+Reader: 2AXJR
+Writer: O3EQS
+Writer: RRDP8
+Reader: O8UTK
+Writer: 1VQU5
+Reader: O8UTK
+Reader: 1VQU5
+Writer: ITEZJ
+Writer: O70K6
+Reader: O8UTK
+Reader: O70K6
+Writer: NCLK7
+Reader: O70K6
+Writer: JYHJ5
+Reader: O70K6
+Writer: EKJON
+Reader: O70K6
+Writer: K6IK0
+Reader: O70K6
+Writer: 1BVOV
+Reader: O70K6
+Writer: KGTLC
+Reader: O70K6
+Writer: QC4TE
+Writer: PF3RZ
+Reader: O8UTK
+Reader: PF3RZ
+Writer: COHY0
+Writer: 8JZL8
+Reader: O8UTK
+Reader: 8JZL8
+Writer: RZPTF
+Writer: MQ6ZW
+Reader: O8UTK
+Reader: MQ6ZW
+Writer: CE6GO
+Writer: CQ0J8
+Reader: O8UTK
+Reader: CQ0J8
+Writer: FD0VX
+Reader: CQ0J8
+Writer: N37YW
+Reader: CQ0J8
+Writer: AQIMV
+Reader: CQ0J8
+Writer: 1WKO2
+Reader: CQ0J8
+Writer: 9JD4W
+Reader: CQ0J8
+Writer: 8SBJY
+Reader: CQ0J8
+Writer: STQN3
+Reader: CQ0J8
+Writer: O9461
+Reader: CQ0J8
+Writer: SSIDW
+Reader: CQ0J8
+Writer: W6TUX
+Reader: CQ0J8
+Writer: PFLQ8
+Reader: CQ0J8
+Writer: 5A58Z
+Reader: CQ0J8
+Writer: 42XAE
+Reader: CQ0J8
+Writer: QA5TH
+Reader: CQ0J8
+Writer: 21NWK
+Reader: CQ0J8
+Writer: QAAIA
+Writer: B8RWI
+Reader: O8UTK
+Reader: B8RWI
+Writer: MH9O7
+Reader: B8RWI
+Writer: OD6H7
+Reader: B8RWI
+Writer: 05I8F
+Reader: B8RWI
+Writer: WBAN5
+Writer: X2ZGR
+Reader: O8UTK
+Reader: X2ZGR
+Writer: 59X8X
+Writer: 5LA12
+Reader: O8UTK
+Writer: JBQV2
+Reader: O8UTK
+Reader: JBQV2
+Writer: Y5GYU
+Writer: V2BCN
+Reader: O8UTK
+Reader: V2BCN
+Writer: A8D1V
+Writer: US26C
+Reader: O8UTK
+Reader: US26C
+Writer: OQ7TB
+Writer: P4QG6
+Reader: O8UTK
+Reader: P4QG6
+Writer: VUOUG
+Reader: P4QG6
+Writer: 2VAW6
+Writer: C7UUW
+Reader: O8UTK
+Writer: 6HJGH
+Reader: O8UTK
+Reader: 6HJGH
+Writer: 0ITTO
+Writer: I7WWF
+Reader: O8UTK
+Writer: 0M5G2
+Reader: O8UTK
+Reader: 0M5G2
+Writer: QTSU2
+Reader: 0M5G2
+Writer: 8RGA9
+Reader: 0M5G2
+Writer: Q5N7E
+Reader: 0M5G2
+Writer: HVJ8F
+Reader: 0M5G2
+Writer: MB5G7
+Reader: 0M5G2
+Writer: 48NRG
+Reader: 0M5G2
+Writer: 0CN2G
+Writer: NZZNJ
+Reader: O8UTK
+Reader: NZZNJ
+Writer: JCTU7
+Writer: NUZR7
+Reader: O8UTK
+Writer: FC6BP
+Reader: O8UTK
+Reader: FC6BP
+Writer: OYMW8
+Writer: 9DY3I
+Reader: O8UTK
+Writer: NRV01
+Reader: O8UTK
+Reader: NRV01
+Writer: S56Z6
+Writer: KRLIU
+Reader: O8UTK
+Reader: KRLIU
+Writer: KJ5TB
+Writer: YGMM1
+Reader: O8UTK
+Reader: YGMM1
+Writer: YNCPJ
+Writer: FNZLT
+Reader: O8UTK
+Reader: FNZLT
+Writer: 5980P
+Writer: JFHEF
+Reader: O8UTK
+Writer: 7NDBY
+Reader: O8UTK
+Reader: 7NDBY
+Writer: 0HF2U
+Writer: HEI9C
+Reader: O8UTK
+Reader: HEI9C
+Writer: F3RP0
+Reader: HEI9C
+Writer: 619YZ
+Writer: KKFE2
+Reader: O8UTK
+Reader: KKFE2
+Writer: S9IG4
+Writer: LJB0T
+Reader: O8UTK
+Writer: 8I71M
+Reader: O8UTK
+Reader: 8I71M
+Writer: 009XK
+Writer: QY2OI
+Reader: O8UTK
+Reader: QY2OI
+Writer: FNOMN
+Writer: QBBAB
+Reader: O8UTK
+Reader: QBBAB
+Writer: I6CF1
+Reader: QBBAB
+Writer: 52052
+Reader: QBBAB
+Writer: Y3IM8
+Reader: QBBAB
+Writer: UKS3L
+Reader: QBBAB
+Writer: 3G37Y
+Reader: QBBAB
+Writer: 75YND
+Reader: QBBAB
+Writer: 6H70E
+Reader: QBBAB
+Writer: 3Y45O
+Writer: Y86WU
+Reader: O8UTK
+Reader: Y86WU
+Writer: MFBN3
+Writer: FTHYH
+Reader: O8UTK
+Writer: BDER3
+Reader: O8UTK
+Reader: BDER3
+Writer: 9DM26
+Writer: R5SHE
+Reader: O8UTK
+Writer: 5QWPX
+Reader: O8UTK
+Writer: 4KHNL
+Reader: O8UTK
+Writer: 23LU8
+Reader: O8UTK
+Reader: 23LU8
+Writer: M9JSD
+Writer: 0TNCO
+Reader: O8UTK
+Reader: 0TNCO
+Writer: UWE0C
+Reader: 0TNCO
+Writer: QX3I7
+Reader: 0TNCO
+Writer: Z72AM
+Reader: 0TNCO
+Writer: 061FB
+Writer: G224T
+Reader: O8UTK
+Writer: RW9EO
+Reader: O8UTK
+Reader: RW9EO
+Writer: MCTAC
+Writer: IFRK5
+Reader: O8UTK
+Writer: E9CXI
+Reader: O8UTK
+Reader: E9CXI
+Writer: PHJFM
+Reader: E9CXI
+Writer: 42IBI
+Writer: 24KGV
+Reader: O8UTK
+Writer: 4XZ4V
+Reader: O8UTK
+Writer: WN17E
+Reader: O8UTK
+Writer: VORJ6
+Reader: O8UTK
+Reader: VORJ6
+Writer: GZEVE
+Reader: VORJ6
+Writer: JM42T
+Reader: VORJ6
+Writer: T4S1K
+Writer: O4KYB
+Reader: O8UTK
+Writer: RKHCW
+Reader: O8UTK
+Reader: RKHCW
+Writer: BQMA0
+Writer: PL9EB
+Reader: O8UTK
+Reader: PL9EB
+Writer: CZZBL
+Reader: PL9EB
+Writer: R26LB
+Reader: PL9EB
+Writer: 24AX0
+Reader: PL9EB
+Writer: 0D2HP
+Writer: 6SC8C
+Reader: O8UTK
+Writer: 3A3BD
+Reader: O8UTK
+Reader: 3A3BD
+Writer: I5O0H
+Writer: YFJMU
+Reader: O8UTK
+Reader: YFJMU
+Writer: YN5A4
+Writer: HQZKA
+Reader: O8UTK
+Reader: HQZKA
+Writer: LS1YF
+Reader: HQZKA
+Writer: UX09S
+Writer: Q95H2
+Reader: O8UTK
+Reader: Q95H2
+Writer: 7PJPB
+Writer: V4PX1
+Reader: O8UTK
+Reader: V4PX1
+Writer: SWBE5
+Reader: V4PX1
+Writer: NLTB1
+Writer: ZD0UX
+Reader: O8UTK
+Reader: ZD0UX
+Writer: BOK4D
+Writer: YSXI7
+Reader: O8UTK
+Reader: YSXI7
+Writer: 1GJIP
+Reader: YSXI7
+Writer: RDE6W
+Writer: 7VVDF
+Reader: O8UTK
+Writer: FP4QD
+Reader: O8UTK
+Writer: 3ZZ29
+Reader: O8UTK
+Reader: 3ZZ29
+Writer: GUUTC
+Reader: 3ZZ29
+Writer: A83HD
+Writer: HBKVK
+Reader: O8UTK
+Reader: HBKVK
+Writer: V938Z
+Reader: HBKVK
+Writer: Q2GZ8
+Writer: JXHED
+Reader: O8UTK
+Reader: JXHED
+Writer: CQRJI
+Reader: JXHED
+Writer: 6SV4V
+Reader: JXHED
+Writer: 82OA7
+Reader: JXHED
+Writer: DFIGR
+Reader: JXHED
+Writer: 460CT
+Writer: NO5U3
+Reader: O8UTK
+Reader: NO5U3
+Writer: M1YDB
+Writer: 0UBNN
+Reader: O8UTK
+Reader: 0UBNN
+Writer: DO8M1
+Writer: YOF15
+Reader: O8UTK
+Reader: YOF15
+Writer: DPBWJ
+Writer: FZOZ5
+Reader: O8UTK
+Reader: FZOZ5
+Writer: SXAAI
+Writer: HDK9H
+Reader: O8UTK
+Writer: SE52O
+Reader: O8UTK
+Writer: Q7OK5
+Reader: O8UTK
+Reader: Q7OK5
+Writer: 8JEZZ
+Reader: Q7OK5
+Writer: 7ZB45
+Reader: Q7OK5
+Writer: AFLR5
+Reader: Q7OK5
+Writer: QN8DU
+Reader: Q7OK5
+Writer: UEFTM
+Writer: 9TJI3
+Reader: O8UTK
+Writer: ILE36
+Reader: O8UTK
+Reader: ILE36
+Writer: JTKKL
+Reader: ILE36
+Writer: RBPEH
+Writer: M2N78
+Reader: O8UTK
+Reader: M2N78
+Writer: C9L0K
+Writer: 4DUM0
+Reader: O8UTK
+Reader: 4DUM0
+Writer: NQ3BX
+Writer: YBSVW
+Reader: O8UTK
+Reader: YBSVW
+Writer: 7DX2D
+Writer: TYBMA
+Reader: O8UTK
+Reader: TYBMA
+Writer: HGLK1
+Writer: IANTC
+Reader: O8UTK
+Reader: IANTC
+Writer: G88U7
+Writer: AHOQS
+Reader: O8UTK
+Reader: AHOQS
+Writer: LK1LB
+Writer: 9MSW1
+Reader: O8UTK
+Reader: 9MSW1
+Writer: FBHMS
+Writer: HFTKO
+Reader: O8UTK
+Reader: HFTKO
+Writer: YX9TP
+Reader: HFTKO
+Writer: 8EC5C
+Writer: LKU3Z
+Reader: O8UTK
+Reader: LKU3Z
+Writer: 7OAJ1
+Writer: 6R027
+Reader: O8UTK
+Reader: 6R027
+Writer: E0WBZ
+Reader: 6R027
+Writer: 5YEC3
+Writer: XKI5C
+Reader: O8UTK
+Reader: XKI5C
+Writer: 4JXTP
+Writer: 4QOXV
+Reader: O8UTK
+Reader: 4QOXV
+Writer: 2EJSR
+Writer: H6HVL
+Reader: O8UTK
+Writer: HSBFH
+Reader: O8UTK
+Reader: HSBFH
+Writer: WGSAB
+Writer: WFFG7
+Reader: O8UTK
+Writer: X4GMC
+Reader: O8UTK
+Reader: X4GMC
+Writer: YM8Q6
+Writer: 0OVUW
+Reader: O8UTK
+Reader: 0OVUW
+Writer: 0DWU5
+Writer: MISM2
+Reader: O8UTK
+Reader: MISM2
+Writer: X7NV9
+Writer: X9DU4
+Reader: O8UTK
+Writer: MZ4TX
+Reader: O8UTK
+Reader: MZ4TX
+Writer: 4TUIQ
+Writer: IU8NK
+Reader: O8UTK
+Writer: STVLV
+Reader: O8UTK
+Reader: STVLV
+Writer: PM4UO
+Writer: 08NQJ
+Reader: O8UTK
+Reader: 08NQJ
+Writer: 1LAZJ
+Writer: AJD6A
+Reader: O8UTK
+Reader: AJD6A
+Writer: 2XJ5U
+Writer: C9AKQ
+Reader: O8UTK
+Writer: DO29P
+Reader: O8UTK
+Writer: A5JE6
+Reader: O8UTK
+Reader: A5JE6
+Writer: 6GD8Z
+Writer: 7UIDK
+Reader: O8UTK
+Reader: 7UIDK
+Writer: JPYK2
+Writer: 2C9AL
+Reader: O8UTK
+Reader: 2C9AL
+Writer: 18CAF
+Writer: NSBKI
+Reader: O8UTK
+Reader: NSBKI
+Writer: F99AE
+Writer: WTKGW
+Reader: O8UTK
+Writer: S06AH
+Reader: O8UTK
+Reader: S06AH
+Writer: YZRHW
+Reader: S06AH
+Writer: 86I2F
+Writer: 7DD2M
+Reader: O8UTK
+Writer: OT85E
+Reader: O8UTK
+Reader: OT85E
+Writer: JQYGF
+Writer: J13N2
+Reader: O8UTK
+Reader: J13N2
+Writer: BCC3R
+Reader: J13N2
+Writer: XA3XK
+Writer: J0G4G
+Reader: O8UTK
+Reader: J0G4G
+Writer: TPR3I
+Reader: J0G4G
+Writer: 92B68
+Writer: HBLBN
+Reader: O8UTK
+Writer: GD59E
+Reader: O8UTK
+Writer: 4AKLZ
+Reader: O8UTK
+Writer: OZKU4
+Reader: O8UTK
+Writer: SK39V
+Reader: O8UTK
+Writer: 3K9F2
+Reader: O8UTK
+Writer: IBG5J
+Reader: O8UTK
+Writer: VZ1KE
+Reader: O8UTK
+Writer: G5G0M
+Reader: O8UTK
+Writer: SFGE3
+Reader: O8UTK
+Writer: KRRBP
+Reader: O8UTK
+Writer: 7ILPU
+Reader: O8UTK
+Writer: 6DZG5
+Reader: O8UTK
+Writer: 24PBD
+Reader: O8UTK
+Writer: Z7APY
+Reader: O8UTK
+Writer: WDDXD
+Reader: O8UTK
+Writer: YD5LS
+Reader: O8UTK
+Writer: 1UEPM
+Reader: O8UTK
+Writer: NNLZI
+Reader: O8UTK
+Writer: DF94T
+Reader: O8UTK
+Writer: Y0EAE
+Reader: O8UTK
+Writer: MRBN2
+Reader: O8UTK
+Writer: 4EYM5
+Reader: O8UTK
+Writer: 2IOYD
+Reader: O8UTK
+Writer: HZ9Z0
+Reader: O8UTK
+Writer: MWKGV
+Reader: O8UTK
+Writer: QDIDP
+Reader: O8UTK
+Writer: 884HF
+Reader: O8UTK
+Writer: KS1WS
+Reader: O8UTK
+Writer: IY83Q
+Reader: O8UTK
+Writer: 41L0M
+Reader: O8UTK
+Writer: 80PJ2
+Reader: O8UTK
+Writer: 0G52L
+Reader: O8UTK
+Writer: 06V77
+Reader: O8UTK
+Writer: 4NGS3
+Reader: O8UTK
+Writer: Z8MHS
+Writer: XXQ00
+Reader: 
+Writer: Z1R1R
+Reader: 
+Reader: Z1R1R
+Writer: HSUPP
+Reader: Z1R1R
+Writer: DX8K1
+Reader: Z1R1R
+Writer: LDB6V
+Writer: QU37W
+Reader: 
+Reader: QU37W
+Writer: 9NI1E
+Writer: CZFBW
+Reader: 
+Reader: CZFBW
+Writer: 8O4Q0
+Writer: L21CZ
+Reader: 
+Reader: L21CZ
+Writer: B9CQG
+Writer: TWUEJ
+Reader: 
+Reader: TWUEJ
+Writer: E8UER
+Reader: TWUEJ
+Writer: 3K3KM
+Reader: TWUEJ
+Writer: NR6X2
+Reader: TWUEJ
+Writer: 6JUFK
+Writer: X30HV
+Reader: 
+Reader: X30HV
+Writer: 9L2UV
+Writer: QFB2S
+Reader: 
+Reader: QFB2S
+Writer: A4086
+Writer: A9R0L
+Reader: 
+Reader: A9R0L
+Writer: TCOXJ
+Reader: A9R0L
+Writer: KBP3V
+Reader: A9R0L
+Writer: LHMTR
+Reader: A9R0L
+Writer: SSJZ5
+Writer: IQEF1
+Reader: 
+Reader: IQEF1
+Writer: BSVIJ
+Reader: IQEF1
+Writer: YLA6B
+Writer: 66EKK
+Reader: 
+Reader: 66EKK
+Writer: P0HGH
+Writer: 3SHQO
+Reader: 
+Writer: RZ24C
+Reader: 
+Writer: D7I5H
+Reader: 
+Writer: 2PGT7
+Reader: 
+Reader: 2PGT7
+Writer: 9GPRV
+Writer: VO8OQ
+Reader: 
+Reader: VO8OQ
+Writer: SJ888
+Reader: VO8OQ
+Writer: TLE42
+Writer: 8TG38
+Reader: 
+Reader: 8TG38
+Writer: 8YJCS
+Writer: 9UXIH
+Reader: 
+Writer: WCZ52
+Reader: 
+Reader: WCZ52
+Writer: D1NNU
+Writer: 39K6Y
+Reader: 
+Reader: 39K6Y
+Writer: QKL18
+Writer: QAWTW
+Reader: 
+Reader: QAWTW
+Writer: 7E66R
+Writer: 8VZ0M
+Reader: 
+Reader: 8VZ0M
+Writer: QWICY
+Writer: HF3IE
+Reader: 
+Reader: HF3IE
+Writer: 9NMNB
+Writer: YI5K1
+Reader: 
+Reader: YI5K1
+Writer: WQFJ4
+Reader: YI5K1
+Writer: 85Q6W
+Reader: YI5K1
+Writer: HJTTI
+Reader: YI5K1
+Writer: 4CJD0
+Writer: KHNPW
+Reader: 
+Writer: T2S52
+Reader: 
+Reader: T2S52
+Writer: Z0P90
+Reader: T2S52
+Writer: AQ9HZ
+Writer: MY6W6
+Reader: 
+Writer: 042FH
+Reader: 
+Reader: 042FH
+Writer: W91TQ
+Reader: 042FH
+Writer: OC0XK
+Reader: 042FH
+Writer: GNVD6
+Writer: R4T3H
+Reader: 
+Writer: NDBOO
+Reader: 
+Writer: WK1S5
+Reader: 
+Writer: Z9MXG
+Reader: 
+Writer: 085TL
+Reader: 
+Writer: 70L7S
+Reader: 
+Writer: 9D30P
+Reader: 
+Writer: 6L984
+Reader: 
+Writer: T8NF4
+Reader: 
+Writer: ELH1V
+Reader: 
+Writer: GA77F
+Reader: 
+Writer: S89RK
+Reader: 
+Writer: W1E5P
+Reader: 
+Writer: SQBD9
+Reader: 
+Writer: OAO3X
+Reader: 
+Writer: 2U0ZG
+Reader: 
+Reader: 2U0ZG
+Writer: VSTLL
+Reader: 2U0ZG
+Writer: 8F6U6
+Reader: 2U0ZG
+Writer: 7LRXH
+Reader: 2U0ZG
+Writer: 13SZL
+Reader: 2U0ZG
+Writer: YKE2H
+Reader: 2U0ZG
+Writer: GWDJN
+Reader: 2U0ZG
+Writer: 8IKLY
+Reader: 2U0ZG
+Writer: EH2TQ
+Reader: 2U0ZG
+Writer: MUQGB
+Reader: 2U0ZG
+Writer: CS0W5
+Reader: 2U0ZG
+Writer: 8CANS
+Reader: 2U0ZG
+Writer: KO0EF
+Reader: 2U0ZG
+Writer: LBWG8
+Reader: 2U0ZG
+Writer: ZBG8D
+Reader: 2U0ZG
+Writer: TA8J8
+Reader: 2U0ZG
+Writer: D371E
+Writer: X6ROO
+Reader: 
+Reader: X6ROO
+Writer: 5I62O
+Reader: X6ROO
+Writer: ZRYOF
+Reader: X6ROO
+Writer: K7KIL
+Reader: X6ROO
+Writer: BM1TL
+Writer: 8E1OO
+Reader: 
+Reader: 8E1OO
+Writer: QQ99R
+Writer: PUH2C
+Reader: 
+Reader: PUH2C
+Writer: REOUN
+Writer: CMUDY
+Reader: 
+Reader: CMUDY
+Writer: GTZPC
+Writer: LE8DQ
+Reader: 
+Reader: LE8DQ
+Writer: 1QRN7
+Writer: IRZ7Z
+Reader: 
+Reader: IRZ7Z
+Writer: 00RF4
+Reader: IRZ7Z
+Writer: 78HFI
+Reader: IRZ7Z
+Writer: VTX0I
+Writer: 71U6F
+Reader: 
+Writer: KWELL
+Reader: 
+Reader: KWELL
+Writer: AXAXE
+Writer: VWXO8
+Reader: 
+Writer: QBTVF
+Reader: 
+Reader: QBTVF
+Writer: N7244
+Writer: H30EA
+Reader: 
+Writer: R721P
+Reader: 
+Reader: R721P
+Writer: EVG43
+Writer: J7TBX
+Reader: 
+Writer: 96J22
+Reader: 
+Reader: 96J22
+Writer: 5I802
+Reader: 96J22
+Writer: N3JRE
+Reader: 96J22
+Writer: H65XX
+Writer: X3593
+Reader: 
+Writer: 45Z15
+Reader: 
+Reader: 45Z15
+Writer: PO1G5
+Reader: 45Z15
+Writer: KU8ME
+Writer: J8B8B
+Reader: 
+Writer: KLZ0W
+Reader: 
+Writer: NC6OA
+Reader: 
+Reader: NC6OA
+Writer: FAK88
+Writer: ASH5N
+Reader: 
+Reader: ASH5N
+Writer: 9CDW3
+Writer: W8TSN
+Reader: 
+Reader: W8TSN
+Writer: Y177T
+Writer: TG9ES
+Reader: 
+Reader: TG9ES
+Writer: NRMGZ
+Writer: JK9OE
+Reader: 
+Reader: JK9OE
+Writer: 01GVC
+Writer: IID6A
+Reader: 
+Writer: PTNAL
+Reader: 
+Reader: PTNAL
+Writer: NDMPP
+Writer: 3TDM9
+Reader: 
+Reader: 3TDM9
+Writer: RZ66T
+Reader: 3TDM9
+Writer: M8FOX
+Reader: 3TDM9
+Writer: 7UL4K
+Reader: 3TDM9
+Writer: KDCED
+Reader: 3TDM9
+Writer: 3EM5L
+Reader: 3TDM9
+Writer: G7T9K
+Reader: 3TDM9
+Writer: GX4VV
+Reader: 3TDM9
+Writer: TLGMY
+Writer: QO8MN
+Reader: 
+Writer: 31SFE
+Reader: 
+Writer: 0R8JG
+Reader: 
+Reader: 0R8JG
+Writer: MMBVN
+Writer: OOFDR
+Reader: 
+Reader: OOFDR
+Writer: J0ZJ1
+Writer: 96ZQW
+Reader: 
+Reader: 96ZQW
+Writer: PFARS
+Writer: OPO4U
+Reader: 
+Writer: ZZUPI
+Reader: 
+Writer: GKV9J
+Reader: 
+Reader: GKV9J
+Writer: BI55D
+Reader: GKV9J
+Writer: CBJNF
+Reader: GKV9J
+Writer: 41SW0
+Writer: GMUC9
+Reader: 
+Writer: 99LT1
+Reader: 
+Reader: 99LT1
+Writer: UGKAU
+Writer: ZL0GU
+Reader: 
+Writer: HKENP
+Reader: 
+Writer: MGAZ0
+Reader: 
+Reader: MGAZ0
+Writer: 8H7ZB
+Writer: 40S9K
+Reader: 
+Reader: 40S9K
+Writer: B7MDT
+Reader: 40S9K
+Writer: 61I3Q
+Writer: SALCS
+Reader: 
+Writer: 6HGXX
+Reader: 
+Reader: 6HGXX
+Writer: 38V33
+Reader: 6HGXX
+Writer: NIU8Z
+Reader: 6HGXX
+Writer: 9216S
+Reader: 6HGXX
+Writer: K8B4T
+Writer: U7HJH
+Reader: 
+Reader: U7HJH
+Writer: 755GF
+Writer: WT5MQ
+Reader: 
+Writer: DLTJF
+Reader: 
+Reader: DLTJF
+Writer: XGJDR
+Writer: 0JOTI
+Reader: 
+Writer: 8GLDC
+Reader: 
+Reader: 8GLDC
+Writer: 51MV5
+Writer: RMO3D
+Reader: 
+Writer: P7OQP
+Reader: 
+Reader: P7OQP
+Writer: 8O1Y5
+Writer: NYD2R
+Reader: 
+Writer: YRM8G
+Reader: 
+Writer: QH1JV
+Reader: 
+Writer: L97OY
+Reader: 
+Reader: L97OY
+Writer: K2PAB
+Writer: 248DJ
+Reader: 
+Reader: 248DJ
+Writer: TOXIY
+Writer: HYTEG
+Reader: 
+Reader: HYTEG
+Writer: AAPXW
+Reader: HYTEG
+Writer: HFF4E
+Reader: HYTEG
+Writer: 8RNAU
+Reader: HYTEG
+Writer: VIC0Y
+Reader: HYTEG
+Writer: 4TIYW
+Reader: HYTEG
+Writer: BUTUO
+Reader: HYTEG
+Writer: XQ3HY
+Reader: HYTEG
+Writer: KN2O4
+Reader: HYTEG
+Writer: XZD9K
+Reader: HYTEG
+Writer: CBWYD
+Reader: HYTEG
+Writer: 9V3PL
+Reader: HYTEG
+Writer: Q10AV
+Reader: HYTEG
+Writer: WWUQQ
+Reader: HYTEG
+Writer: SXFMJ
+Reader: HYTEG
+Writer: HPY6B
+Reader: HYTEG
+Writer: FPJOT
+Reader: HYTEG
+Writer: 975QO
+Reader: HYTEG
+Writer: BWN5H
+Reader: HYTEG
+Writer: SW12H
+Reader: HYTEG
+Writer: AEXS1
+Reader: HYTEG
+Writer: O6KO6
+Reader: HYTEG
+Writer: T77OG
+Reader: HYTEG
+Writer: BRMRV
+Reader: HYTEG
+Writer: Y1DBO
+Reader: HYTEG
+Writer: 6KJE1
+Reader: HYTEG
+Writer: VX5YA
+Reader: HYTEG
+Writer: B21WE
+Reader: HYTEG
+Writer: DXRU5
+Reader: HYTEG
+Writer: EZ9ZF
+Reader: HYTEG
+Writer: AKKGT
+Reader: HYTEG
+Writer: JAVD5
+Reader: HYTEG
+Writer: EWFWK
+Reader: HYTEG
+Writer: 5BINF
+Reader: HYTEG
+Writer: I0ZMS
+Reader: HYTEG
+Writer: BJSGK
+Reader: HYTEG
+Writer: GKU80
+Reader: HYTEG
+Writer: LNYE1
+Reader: HYTEG
+Writer: AHX1A
+Reader: HYTEG
+Writer: QR4K9
+Reader: HYTEG
+Writer: CQWU7
+Reader: HYTEG
+Writer: KU8XR
+Reader: HYTEG
+Writer: 9RP2Y
+Reader: HYTEG
+Writer: 3CG69
+Reader: HYTEG
+Writer: SMEWE
+Reader: HYTEG
+Writer: BD8LC
+Reader: HYTEG
+Writer: TPIGI
+Reader: HYTEG
+Writer: ZYABQ
+Reader: HYTEG
+Writer: 0OAX1
+Reader: HYTEG
+Writer: S14CG
+Reader: HYTEG
+Writer: OK7KR
+Reader: HYTEG
+Writer: ZM9P5
+Reader: HYTEG
+Writer: GWXV8
+Reader: HYTEG
+Writer: TJJU9
+Reader: HYTEG
+Writer: FBFQI
+Reader: HYTEG
+Writer: EMR4W
+Reader: HYTEG
+Writer: JI5FX
+Reader: HYTEG
+Writer: JR8YS
+Writer: NYUFJ
+Reader: 
+Reader: NYUFJ
+Writer: E1PYH
+Writer: JSJDB
+Reader: 
+Writer: MFRCN
+Reader: 
+Writer: N5F2W
+Reader: 
+Reader: N5F2W
+Writer: 70R8Y
+Reader: N5F2W
+Writer: CLUCW
+Reader: N5F2W
+Writer: QR9GE
+Writer: M62WN
+Reader: 
+Writer: 092EL
+Reader: 
+Writer: EA6LF
+Reader: 
+Reader: EA6LF
+Writer: RT1TM
+Reader: EA6LF
+Writer: OJRAF
+Writer: 78HQV
+Reader: 
+Reader: 78HQV
+Writer: 5FL7A
+Writer: QDSP5
+Reader: 
+Reader: QDSP5
+Writer: 87NWU
+Writer: CPJ7E
+Reader: 
+Reader: CPJ7E
+Writer: 6ZQ40
+Reader: CPJ7E
+Writer: DP1RP
+Reader: CPJ7E
+Writer: 21MSP
+Reader: CPJ7E
+Writer: 8Y8KY
+Reader: CPJ7E
+Writer: NBMYN
+Reader: CPJ7E
+Writer: Q54PD
+Reader: CPJ7E
+Writer: SYKLY
+Reader: CPJ7E
+Writer: GZRH7
+Reader: CPJ7E
+Writer: ALB9C
+Reader: CPJ7E
+Writer: GV4HV
+Writer: NQ8I1
+Reader: 
+Reader: NQ8I1
+Writer: 5M2QJ
+Writer: HVLN6
+Reader: 
+Writer: DRA4J
+Reader: 
+Writer: JH1MX
+Reader: 
+Writer: B9NVG
+Reader: 
+Reader: B9NVG
+Writer: 5BW30
+Writer: C0CU2
+Reader: 
+Reader: C0CU2
+Writer: 36A70
+Writer: P9YC8
+Reader: 
+Writer: ZUA7M
+Reader: 
+Writer: GZVUZ
+Reader: 
+Reader: GZVUZ
+Writer: 69GJO
+Writer: G8SX4
+Reader: 
+Reader: G8SX4
+Writer: NPPBP
+Reader: G8SX4
+Writer: MH3WI
+Writer: BLKWR
+Reader: 
+Writer: KAZRU
+Reader: 
+Reader: KAZRU
+Writer: MER56
+Writer: 400TU
+Reader: 
+Writer: QRAHV
+Reader: 
+Reader: QRAHV
+Writer: KE8S9
+Writer: 869LX
+Reader: 
+Reader: 869LX
+Writer: UYT2D
+Writer: FJADS
+Reader: 
+Writer: J7UEV
+Reader: 
+Reader: J7UEV
+Writer: WQKB2
+Writer: UKCBH
+Reader: 
+Reader: UKCBH
+Writer: GCHRV
+Reader: UKCBH
+Writer: QEFHM
+Writer: FG8QP
+Reader: 
+Reader: FG8QP
+Writer: HQ7ZM
+Writer: MT36N
+Reader: 
+Reader: MT36N
+Writer: SV8TD
+Reader: MT36N
+Writer: KVSU7
+Reader: MT36N
+Writer: CCTSC
+Writer: E1N2P
+Reader: 
+Reader: E1N2P
+Writer: PS3WU
+Writer: DNNZ5
+Reader: 
+Reader: DNNZ5
+Writer: WIKDC
+Writer: 4GWDB
+Reader: 
+Reader: 4GWDB
+Writer: UYNTM
+Writer: F7PXH
+Reader: 
+Reader: F7PXH
+Writer: UGAR8
+Writer: A2L8A
+Reader: 
+Reader: A2L8A
+Writer: 6H2ZK
+Writer: 32PPH
+Reader: 
+Reader: 32PPH
+Writer: 7FJ05
+Reader: 32PPH
+Writer: 1EKKP
+Writer: F80RK
+Reader: 
+Reader: F80RK
+Writer: PI2FC
+Reader: F80RK
+Writer: C5XDE
+Writer: M5YIS
+Reader: 
+Reader: M5YIS
+Writer: NR9PK
+Reader: M5YIS
+Writer: O6JWG
+Reader: M5YIS
+Writer: 5RBS4
+Reader: M5YIS
+Writer: 8RLO5
+Reader: M5YIS
+Writer: V9KNF
+Reader: M5YIS
+Writer: CSGVS
+Reader: M5YIS
+Writer: 5PC1C
+Reader: M5YIS
+Writer: Y8LH5
+Reader: M5YIS
+Writer: T8F8G
+Reader: M5YIS
+Writer: U3EIG
+Reader: M5YIS
+Writer: 5TJN6
+Writer: NGWJH
+Reader: 
+Reader: NGWJH
+Writer: 6ZXDL
+Reader: NGWJH
+Writer: PPJPG
+Reader: NGWJH
+Writer: AFESL
+Reader: NGWJH
+Writer: W3MGU
+Reader: NGWJH
+Writer: IN8PX
+Reader: NGWJH
+Writer: LGZ4Z
+Reader: NGWJH
+Writer: RMB99
+Reader: NGWJH
+Writer: 3KCX0
+Reader: NGWJH
+Writer: FTYBF
+Reader: NGWJH
+Writer: ZP1BJ
+Reader: NGWJH
+Writer: U4PZ9
+Reader: NGWJH
+Writer: T1HQ9
+Reader: NGWJH
+Writer: J0P0Z
+Reader: NGWJH
+Writer: YEFTS
+Reader: NGWJH
+Writer: M1ZPP
+Reader: NGWJH
+Writer: YY7J8
+Reader: NGWJH
+Writer: 6OXUF
+Reader: NGWJH
+Writer: X6M9P
+Reader: NGWJH
+Writer: BDVXQ
+Reader: NGWJH
+Reader: BDVXQ
+Writer: PE8LR
+Writer: VKHT7
+Reader: NGWJH
+Reader: VKHT7
+Writer: 2E9KK
+Writer: 547SC
+Reader: NGWJH
+Writer: 5C4VC
+Reader: NGWJH
+Writer: 21FDQ
+Reader: NGWJH
+Writer: IFB99
+Reader: NGWJH
+Writer: T0V2M
+Reader: NGWJH
+Reader: T0V2M
+Writer: WGEXM
+Writer: S6CZU
+Reader: NGWJH
+Reader: S6CZU
+Writer: HFDVV
+Writer: NKMJZ
+Reader: NGWJH
+Reader: NKMJZ
+Writer: 3FDCY
+Reader: NKMJZ
+Writer: WDAK0
+Reader: NKMJZ
+Writer: EJFFQ
+Reader: NKMJZ
+Writer: Y7HIU
+Reader: NKMJZ
+Writer: 5ZPTJ
+Writer: DCQNW
+Reader: NGWJH
+Reader: DCQNW
+Writer: JNMCT
+Writer: QDC80
+Reader: NGWJH
+Reader: QDC80
+Writer: P528P
+Writer: 897E7
+Reader: NGWJH
+Reader: 897E7
+Writer: PDDZ3
+Writer: EZU3V
+Reader: NGWJH
+Writer: TWXYR
+Reader: NGWJH
+Writer: 16CW9
+Reader: NGWJH
+Reader: 16CW9
+Writer: V5JSF
+Writer: A7QEK
+Reader: NGWJH
+Reader: A7QEK
+Writer: DELQG
+Writer: FJXJO
+Reader: NGWJH
+Writer: 1SJMG
+Reader: NGWJH
+Reader: 1SJMG
+Writer: 2IDRY
+Writer: B7LEM
+Reader: NGWJH
+Writer: T4VT3
+Reader: NGWJH
+Writer: HIQSR
+Reader: NGWJH
+Reader: HIQSR
+Writer: OLGRL
+Reader: HIQSR
+Writer: RJ3II
+Writer: CW6MM
+Reader: NGWJH
+Reader: CW6MM
+Writer: 239PJ
+Reader: CW6MM
+Writer: G3HDW
+Writer: LYDQH
+Reader: NGWJH
+Reader: LYDQH
+Writer: SC051
+Writer: RBWGH
+Reader: NGWJH
+Writer: 1DC6K
+Reader: NGWJH
+Writer: 77JGB
+Reader: NGWJH
+Reader: 77JGB
+Writer: OJAJK
+Reader: 77JGB
+Writer: VDD49
+Reader: 77JGB
+Writer: 2GNAZ
+Writer: 96BU5
+Reader: NGWJH
+Reader: 96BU5
+Writer: 0G3IR
+Writer: C0K3Z
+Reader: NGWJH
+Reader: C0K3Z
+Writer: NP6O3
+Writer: JCRUG
+Reader: NGWJH
+Writer: N82GO
+Reader: NGWJH
+Reader: N82GO
+Writer: U0CHK
+Writer: B6YLK
+Reader: NGWJH
+Reader: B6YLK
+Writer: HQ12H
+Writer: 43JEW
+Reader: NGWJH
+Reader: 43JEW
+Writer: NK8HP
+Writer: 7PQOS
+Reader: NGWJH
+Reader: 7PQOS
+Writer: 2NW46
+Reader: 7PQOS
+Writer: MYDSY
+Writer: R0VEV
+Reader: NGWJH
+Reader: R0VEV
+Writer: 3KYMM
+Writer: UYYTA
+Reader: NGWJH
+Writer: K141N
+Reader: NGWJH
+Reader: K141N
+Writer: WPK2S
+Writer: 33755
+Reader: NGWJH
+Writer: FZ1QF
+Reader: NGWJH
+Writer: XZ4WW
+Reader: NGWJH
+Reader: XZ4WW
+Writer: W0EB8
+Writer: EZD3W
+Reader: NGWJH
+Reader: EZD3W
+Writer: U4MEB
+Writer: BP2W1
+Reader: NGWJH
+Reader: BP2W1
+Writer: 9N3QH
+Writer: 46HON
+Reader: NGWJH
+Reader: 46HON
+Writer: U7HE1
+Writer: 6LI3N
+Reader: NGWJH
+Reader: 6LI3N
+Writer: E0DJK
+Writer: KNWOD
+Reader: NGWJH
+Reader: KNWOD
+Writer: H6H4W
+Writer: I6X4D
+Reader: NGWJH
+Writer: HSYQB
+Reader: NGWJH
+Reader: HSYQB
+Writer: WXHNF
+Writer: 0H8IX
+Reader: NGWJH
+Writer: JJTG6
+Reader: NGWJH
+Writer: RK2KF
+Reader: NGWJH
+Writer: XZMSS
+Reader: NGWJH
+Writer: 9XNZG
+Reader: NGWJH
+Reader: 9XNZG
+Writer: VBXIX
+Reader: 9XNZG
+Writer: XFJJN
+Reader: 9XNZG
+Writer: 979HM
+Writer: 9MR7W
+Reader: NGWJH
+Writer: 7ZNKN
+Reader: NGWJH
+Reader: 7ZNKN
+Writer: 7KZ4F
+Writer: D3JBB
+Reader: NGWJH
+Reader: D3JBB
+Writer: IWLSJ
+Reader: D3JBB
+Writer: LAT7F
+Reader: D3JBB
+Writer: 00FFT
+Reader: D3JBB
+Writer: XFQDJ
+Writer: 6XM40
+Reader: NGWJH
+Reader: 6XM40
+Writer: MQPDK
+Reader: 6XM40
+Writer: GY7FE
+Reader: 6XM40
+Writer: MA9YK
+Writer: 6GQFX
+Reader: NGWJH
+Reader: 6GQFX
+Writer: GETLS
+Writer: 7NF2F
+Reader: NGWJH
+Reader: 7NF2F
+Writer: UKQ16
+Writer: 5VPX9
+Reader: NGWJH
+Reader: 5VPX9
+Writer: B29AG
+Writer: WG12M
+Reader: NGWJH
+Writer: 0HHHT
+Reader: NGWJH
+Reader: 0HHHT
+Writer: I6EVM
+Writer: 2TFAT
+Reader: NGWJH
+Reader: 2TFAT
+Writer: CUH1P
+Writer: L03FW
+Reader: NGWJH
+Writer: OETE6
+Reader: NGWJH
+Reader: OETE6
+Writer: 0VNPO
+Writer: NDJIY
+Reader: NGWJH
+Reader: NDJIY
+Writer: 8R4KG
+Writer: SW9RE
+Reader: NGWJH
+Writer: C9AMB
+Reader: NGWJH
+Writer: 9NBVF
+Reader: NGWJH
+Writer: DN9ZW
+Reader: NGWJH
+Writer: HF0VG
+Reader: NGWJH
+Writer: 8K9CR
+Reader: NGWJH
+Writer: 46T8D
+Reader: NGWJH
+Writer: 1FC94
+Reader: NGWJH
+Writer: 1VAOO
+Reader: NGWJH
+Writer: 9BXCV
+Reader: NGWJH
+Reader: 9BXCV
+Writer: VRFX9
+Writer: M6NKF
+Reader: NGWJH
+Reader: M6NKF
+Writer: 1A85H
+Writer: D4CRN
+Reader: NGWJH
+Reader: D4CRN
+Writer: 7LA44
+Reader: D4CRN
+Writer: WFLGG
+Reader: D4CRN
+Writer: 6W6Q6
+Writer: N1591
+Reader: NGWJH
+Writer: 4113C
+Reader: NGWJH
+Writer: 1WEHL
+Reader: NGWJH
+Writer: F9GZX
+Reader: NGWJH
+Writer: JQK3N
+Reader: NGWJH
+Writer: GUGEI
+Reader: NGWJH
+Writer: EDR94
+Reader: NGWJH
+Writer: M8DZS
+Reader: NGWJH
+Writer: FUG1D
+Reader: NGWJH
+Writer: 9BE5A
+Reader: NGWJH
+Writer: 7QG2W
+Reader: NGWJH
+Writer: 6QCVV
+Reader: NGWJH
+Writer: JUWU8
+Reader: NGWJH
+Writer: XFEM9
+Reader: NGWJH
+Writer: H6QGS
+Reader: NGWJH
+Reader: H6QGS
+Writer: ZKSZO
+Writer: FQLDL
+Reader: NGWJH
+Reader: FQLDL
+Writer: X7YN8
+Reader: FQLDL
+Writer: 56REI
+Reader: FQLDL
+Writer: U7V3Q
+Reader: FQLDL
+Writer: 36163
+Reader: FQLDL
+Writer: AAAK7
+Reader: FQLDL
+Writer: V8MHP
+Reader: FQLDL
+Writer: 3JSJK
+Reader: FQLDL
+Writer: 0R1OD
+Writer: LOL77
+Reader: NGWJH
+Reader: LOL77
+Writer: 1YYJV
+Writer: JYOKK
+Reader: NGWJH
+Writer: X6NPM
+Reader: NGWJH
+Writer: 7TKZP
+Reader: NGWJH
+Reader: 7TKZP
+Writer: LOMT0
+Writer: MEN2S
+Reader: NGWJH
+Reader: MEN2S
+Writer: WZCNF
+Reader: MEN2S
+Writer: 7JDVG
+Writer: F4I8W
+Reader: NGWJH
+Writer: 3DMCG
+Reader: NGWJH
+Reader: 3DMCG
+Writer: 1EWSW
+Writer: NMFTJ
+Reader: NGWJH
+Writer: FLW2Y
+Reader: NGWJH
+Reader: FLW2Y
+Writer: 83AKP
+Writer: XPYSJ
+Reader: NGWJH
+Reader: XPYSJ
+Writer: QGO66
+Reader: XPYSJ
+Writer: I2KW0
+Reader: XPYSJ
+Writer: RCU01
+Writer: UEUMB
+Reader: NGWJH
+Reader: UEUMB
+Writer: 4IPJY
+Writer: 9DBXT
+Reader: NGWJH
+Reader: 9DBXT
+Writer: MPDIF
+Writer: G7IWB
+Reader: NGWJH
+Reader: G7IWB
+Writer: MA9CG
+Reader: G7IWB
+Writer: 5JJS4
+Writer: S5LRP
+Reader: NGWJH
+Reader: S5LRP
+Writer: I0EI6
+Writer: E0WDN
+Reader: NGWJH
+Reader: E0WDN
+Writer: C9LVU
+Reader: E0WDN
+Writer: W67LY
+Writer: 3INC2
+Reader: NGWJH
+Writer: 04S3A
+Reader: NGWJH
+Reader: 04S3A
+Writer: QDV37
+Writer: P3906
+Reader: NGWJH
+Reader: P3906
+Writer: WO6YE
+Writer: 67Y8H
+Reader: NGWJH
+Writer: W892W
+Reader: NGWJH
+Writer: 9NBQG
+Reader: NGWJH
+Reader: 9NBQG
+Writer: KI3D6
+Writer: 8NSXE
+Reader: NGWJH
+Reader: 8NSXE
+Writer: 36HPC
+Writer: PMY86
+Reader: NGWJH
+Reader: PMY86
+Writer: 2GUWN
+Reader: PMY86
+Writer: SD2H7
+Writer: C1TTW
+Reader: NGWJH
+Reader: C1TTW
+Writer: NU21F
+Reader: C1TTW
+Writer: SPA3N
+Writer: 00U0G
+Reader: NGWJH
+Reader: 00U0G
+Writer: XZCTN
+Reader: 00U0G
+Writer: DXHZO
+Reader: 00U0G
+Writer: 4UL0C
+Writer: BMX2Y
+Reader: NGWJH
+Reader: BMX2Y
+Writer: 4T72N
+Writer: NG1IX
+Reader: NGWJH
+Writer: 1TCAK
+Reader: NGWJH
+Reader: 1TCAK
+Writer: NZ9FS
+Writer: ZNCNK
+Reader: NGWJH
+Writer: 8DJ0M
+Reader: NGWJH
+Writer: ND1BM
+Reader: NGWJH
+Reader: ND1BM
+Writer: D1KGA
+Reader: ND1BM
+Writer: 768CW
+Writer: LSLPZ
+Reader: NGWJH
+Reader: LSLPZ
+Writer: MNRK9
+Writer: RQTSP
+Reader: NGWJH
+Reader: RQTSP
+Writer: J6A6J
+Writer: Y1AXH
+Reader: NGWJH
+Reader: Y1AXH
+Writer: VO3FV
+Writer: 2OA19
+Reader: NGWJH
+Reader: 2OA19
+Writer: P24A9
+Writer: AWRC4
+Reader: NGWJH
+Writer: XI200
+Reader: NGWJH
+Reader: XI200
+Writer: B6C38
+Writer: URXIE
+Reader: NGWJH
+Writer: 7TLZG
+Reader: NGWJH
+Reader: 7TLZG
+Writer: CQ2S9
+Writer: RB96J
+Reader: NGWJH
+Reader: RB96J
+Writer: BJ82U
+Reader: RB96J
+Writer: MWDOT
+Writer: 6MG2O
+Reader: NGWJH
+Reader: 6MG2O
+Writer: 8FW6C
+Reader: 6MG2O
+Writer: RK262
+Writer: GPJ0J
+Reader: NGWJH
+Reader: GPJ0J
+Writer: 96FT6
+Writer: KT4Y1
+Reader: NGWJH
+Reader: KT4Y1
+Writer: KQ7FJ
+Writer: 0J9DB
+Reader: NGWJH
+Reader: 0J9DB
+Writer: LPD42
+Reader: 0J9DB
+Writer: 1QCAN
+Reader: 0J9DB
+Writer: 7NMEU
+Writer: AGX6E
+Reader: NGWJH
+Reader: AGX6E
+Writer: PK8E1
+Reader: AGX6E
+Writer: ANXWC
+Reader: AGX6E
+Writer: 6PFZ8
+Reader: AGX6E
+Writer: T2L1E
+Writer: 4R3K3
+Reader: NGWJH
+Reader: 4R3K3
+Writer: 7D2UJ
+Reader: 4R3K3
+Writer: TWD9V
+Reader: 4R3K3
+Writer: AR8D1
+Writer: O3P8Q
+Reader: NGWJH
+Reader: O3P8Q
+Writer: SIWGA
+Writer: H551K
+Reader: NGWJH
+Reader: H551K
+Writer: 8RXK4
+Writer: 7UCNS
+Reader: NGWJH
+Reader: 7UCNS
+Writer: KMFD7
+Writer: C4H90
+Reader: NGWJH
+Reader: C4H90
+Writer: AB53L
+Reader: C4H90
+Writer: ZRVUB
+Reader: C4H90
+Writer: Y0LZX
+Reader: C4H90
+Writer: T3XI4
+Reader: C4H90
+Writer: 30BQG
+Writer: FCSJ8
+Reader: NGWJH
+Writer: NX5BJ
+Reader: NGWJH
+Reader: NX5BJ
+Writer: 6W38F
+Reader: NX5BJ
+Writer: P8SM3
+Reader: NX5BJ
+Writer: TAPQN
+Writer: IG8F7
+Reader: NGWJH
+Reader: IG8F7
+Writer: J9OXF
+Reader: IG8F7
+Writer: W8MWX
+Reader: IG8F7
+Writer: A4KQ1
+Writer: 7AYDO
+Reader: NGWJH
+Reader: 7AYDO
+Writer: 4IZWW
+Writer: FWC5Z
+Reader: NGWJH
+Reader: FWC5Z
+Writer: HY0D9
+Writer: 6HF2S
+Reader: NGWJH
+Reader: 6HF2S
+Writer: QW6Y3
+Writer: Y09ZQ
+Reader: NGWJH
+Reader: Y09ZQ
+Writer: IR50C
+Reader: Y09ZQ
+Writer: BK2BA
+Writer: A6Q6Q
+Reader: NGWJH
+Reader: A6Q6Q
+Writer: MEGQ4
+Writer: 046V8
+Reader: NGWJH
+Reader: 046V8
+Writer: HMB37
+Reader: 046V8
+Writer: PWMPR
+Reader: 046V8
+Writer: Z39A8
+Writer: WOE2S
+Reader: NGWJH
+Writer: TG9HQ
+Reader: NGWJH
+Reader: TG9HQ
+Writer: UTT4Z
+Writer: NVJ25
+Reader: NGWJH
+Reader: NVJ25
+Writer: YJ9DV
+Writer: NTAO0
+Reader: NGWJH
+Reader: NTAO0
+Writer: SEGRI
+Reader: NTAO0
+Writer: MZDCO
+Writer: BM3MN
+Reader: NGWJH
+Reader: BM3MN
+Writer: 5DS0D
+Reader: BM3MN
+Writer: ETHFK
+Reader: BM3MN
+Writer: NOBGF
+Writer: 9FUR8
+Reader: NGWJH
+Writer: PNBWN
+Reader: NGWJH
+Reader: PNBWN
+Writer: YRHO3
+Writer: LPXZ0
+Reader: NGWJH
+Writer: JBKKV
+Reader: NGWJH
+Reader: JBKKV
+Writer: 97AH4
+Writer: 7X77O
+Reader: NGWJH
+Reader: 7X77O
+Writer: 62LO8
+Writer: SC5MP
+Reader: NGWJH
+Reader: SC5MP
+Writer: XM2M8
+Writer: 71MQ5
+Reader: NGWJH
+Reader: 71MQ5
+Writer: 85J58
+Writer: SM31Q
+Reader: NGWJH
+Reader: SM31Q
+Writer: AUJA7
+Reader: SM31Q
+Writer: TEI1H
+Writer: HF758
+Reader: NGWJH
+Reader: HF758
+Writer: XEYI7
+Reader: HF758
+Writer: FLQBP
+Reader: HF758
+Writer: BSQPQ
+Reader: HF758
+Writer: FIE6P
+Reader: HF758
+Writer: CC2PP
+Reader: HF758
+Writer: 3SVIY
+Reader: HF758
+Writer: 27O6L
+Reader: HF758
+Writer: NYU3K
+Reader: HF758
+Writer: YDIU6
+Reader: HF758
+Writer: BX3LC
+Reader: HF758
+Writer: 8BAP5
+Reader: HF758
+Writer: VMJ3E
+Reader: HF758
+Writer: WZHNX
+Reader: HF758
+Writer: DDTDC
+Reader: HF758
+Writer: QXKV0
+Reader: HF758
+Writer: 93HSO
+Reader: HF758
+Writer: FZKGZ
+Reader: HF758
+Writer: 069A0
+Reader: HF758
+Writer: AP1ZY
+Reader: HF758
+Writer: 85572
+Reader: HF758
+Writer: 7DZIV
+Reader: HF758
+Writer: L1PY6
+Reader: HF758
+Writer: 1E0P8
+Reader: HF758
+Writer: 6PAX6
+Reader: HF758
+Writer: GESNC
+Reader: HF758
+Writer: B6U71
+Reader: HF758
+Writer: D8K0Q
+Reader: HF758
+Writer: CACVO
+Reader: HF758
+Writer: 9RKE9
+Reader: HF758
+Writer: 5ZL01
+Reader: HF758
+Writer: T5HAV
+Reader: HF758
+Writer: 2UMFT
+Reader: HF758
+Writer: OGR63
+Reader: HF758
+Writer: 24A86
+Reader: HF758
+Writer: 6NPJ7
+Reader: HF758
+Writer: Z3ONG
+Reader: HF758
+Writer: MV3FI
+Reader: HF758
+Writer: I1JEX
+Reader: HF758
+Writer: RX6C9
+Reader: HF758
+Writer: 29OLG
+Reader: HF758
+Writer: BZM44
+Reader: HF758
+Writer: GP8D6
+Reader: HF758
+Writer: 9G89H
+Reader: HF758
+Writer: 3MLXV
+Reader: HF758
+Writer: BU5LP
+Reader: HF758
+Writer: JQNJE
+Reader: HF758
+Writer: ZPDHE
+Reader: HF758
+Writer: XI9LC
+Reader: HF758
+Writer: 22GIY
+Reader: HF758
+Writer: LZ74G
+Reader: HF758
+Writer: PX00F
+Reader: HF758
+Writer: R3BPV
+Reader: HF758
+Writer: ZCZ9G
+Reader: HF758
+Writer: TC14T
+Reader: HF758
+Writer: UNAV2
+Writer: JNXWD
+Reader: NGWJH
+Writer: TTSCY
+Reader: NGWJH
+Writer: CZNBW
+Reader: NGWJH
+Reader: CZNBW
+Writer: 4HU0N
+Writer: ZCHBF
+Reader: NGWJH
+Reader: ZCHBF
+Writer: I8CLV
+Writer: CXF76
+Reader: NGWJH
+Reader: CXF76
+Writer: EFPLB
+Reader: CXF76
+Writer: GUWKE
+Reader: CXF76
+Writer: 4ZZIZ
+Writer: N2KHD
+Reader: NGWJH
+Writer: GGWQ5
+Reader: NGWJH
+Writer: VQHRW
+Reader: NGWJH
+Reader: VQHRW
+Writer: OUQFS
+Writer: Y2JYG
+Reader: NGWJH
+Reader: Y2JYG
+Writer: FQ76L
+Writer: TI4VI
+Reader: NGWJH
+Reader: TI4VI
+Writer: KN740
+Reader: TI4VI
+Writer: 7T8PQ
+Writer: 0NFYZ
+Reader: NGWJH
+Reader: 0NFYZ
+Writer: KJTZB
+Writer: UTVB8
+Reader: NGWJH
+Reader: UTVB8
+Writer: ZJZFM
+Writer: MVVIL
+Reader: NGWJH
+Writer: BXVPV
+Reader: NGWJH
+Reader: BXVPV
+Writer: E43HQ
+Reader: BXVPV
+Writer: 1KIHA
+Reader: BXVPV
+Writer: KZFUX
+Reader: BXVPV
+Writer: 0156A
+Reader: BXVPV
+Writer: Y42DE
+Writer: E26MY
+Reader: NGWJH
+Reader: E26MY
+Writer: XXEE7
+Writer: 0ZOUG
+Reader: NGWJH
+Reader: 0ZOUG
+Writer: OARFB
+Writer: XQBVV
+Reader: NGWJH
+Reader: XQBVV
+Writer: K1ZP6
+Writer: JC0DM
+Reader: NGWJH
+Reader: JC0DM
+Writer: 9O6SN
+Writer: XVAX6
+Reader: NGWJH
+Writer: BNLZV
+Reader: NGWJH
+Reader: BNLZV
+Writer: XMWBR
+Reader: BNLZV
+Writer: Y0K1O
+Writer: 67YHX
+Reader: NGWJH
+Reader: 67YHX
+Writer: Y9KIG
+Reader: 67YHX
+Writer: AE91O
+Reader: 67YHX
+Writer: CPOYT
+Reader: 67YHX
+Writer: 6PA4J
+Reader: 67YHX
+Writer: 6PYWY
+Reader: 67YHX
+Writer: IDFER
+Reader: 67YHX
+Writer: 0639I
+Reader: 67YHX
+Writer: CCDSU
+Reader: 67YHX
+Writer: TN5XP
+Reader: 67YHX
+Writer: IMVHR
+Reader: 67YHX
+Writer: Q6480
+Reader: 67YHX
+Writer: JKYT8
+Reader: 67YHX
+Writer: 794JY
+Reader: 67YHX
+Writer: FVOQR
+Writer: 4MRJ0
+Reader: NGWJH
+Writer: TTBHP
+Reader: NGWJH
+Reader: TTBHP
+Writer: 6R7XB
+Writer: 3B5I8
+Reader: NGWJH
+Reader: 3B5I8
+Writer: 1NTUX
+Writer: USV9J
+Reader: NGWJH
+Reader: USV9J
+Writer: X7F0W
+Reader: USV9J
+Writer: EPUIH
+Writer: ZJREB
+Reader: NGWJH
+Writer: PBHI4
+Reader: NGWJH
+Reader: PBHI4
+Writer: D0FRZ
+Writer: Q26WF
+Reader: NGWJH
+Reader: Q26WF
+Writer: A7C81
+Writer: 8MHA6
+Reader: NGWJH
+Writer: NRXBJ
+Reader: NGWJH
+Reader: NRXBJ
+Writer: S6OSI
+Writer: SLNEF
+Reader: NGWJH
+Reader: SLNEF
+Writer: 61XAG
+Reader: SLNEF
+Writer: MS8CG
+Writer: 1HTMD
+Reader: NGWJH
+Reader: 1HTMD
+Writer: C4GMQ
+Writer: WDEIH
+Reader: NGWJH
+Writer: TNONX
+Reader: NGWJH
+Writer: YU725
+Reader: NGWJH
+Writer: GZG3U
+Reader: NGWJH
+Writer: 5SU4R
+Reader: NGWJH
+Writer: KNBPF
+Reader: NGWJH
+Reader: KNBPF
+Writer: YEBXS
+Reader: KNBPF
+Writer: 3XO3W
+Writer: 8EUOS
+Reader: NGWJH
+Writer: HJ0R6
+Reader: NGWJH
+Reader: HJ0R6
+Writer: NYM1V
+Writer: ESJ16
+Reader: NGWJH
+Writer: GL9I9
+Reader: NGWJH
+Writer: UTKKB
+Reader: NGWJH
+Reader: UTKKB
+Writer: TLNHW
+Reader: UTKKB
+Writer: 17FMJ
+Reader: UTKKB
+Writer: BWUS2
+Reader: UTKKB
+Writer: A1JBO
+Writer: KNX6P
+Reader: NGWJH
+Reader: KNX6P
+Writer: WEMP8
+Writer: Y8QPN
+Reader: NGWJH
+Reader: Y8QPN
+Writer: BKFF4
+Writer: GM7R4
+Reader: NGWJH
+Writer: U1RP9
+Reader: NGWJH
+Reader: U1RP9
+Writer: 2KJ60
+Reader: U1RP9
+Writer: FYQ19
+Writer: WU0OV
+Reader: NGWJH
+Writer: DGEE0
+Reader: NGWJH
+Writer: ZWDHH
+Reader: NGWJH
+Reader: ZWDHH
+Writer: 8PFB5
+Writer: 5X6QF
+Reader: NGWJH
+Reader: 5X6QF
+Writer: OZTYH
+Reader: 5X6QF
+Writer: N4NGH
+Writer: VWT51
+Reader: NGWJH
+Writer: NWMZK
+Reader: NGWJH
+Writer: GGBZ2
+Reader: NGWJH
+Reader: GGBZ2
+Writer: ZSO6E
+Reader: GGBZ2
+Writer: 9YKIH
+Writer: NWQ6M
+Reader: NGWJH
+Writer: 4I7AV
+Reader: NGWJH
+Writer: M6KJR
+Reader: NGWJH
+Writer: IKHG9
+Reader: NGWJH
+Writer: HY46S
+Reader: NGWJH
+Writer: 5PRBH
+Reader: NGWJH
+Writer: 7MKYO
+Reader: NGWJH
+Writer: 1GQMP
+Reader: NGWJH
+Writer: 7JADQ
+Reader: NGWJH
+Writer: 3IEO6
+Reader: NGWJH
+Writer: YQDJ9
+Reader: NGWJH
+Writer: Z1TOR
+Reader: NGWJH
+Writer: P152X
+Reader: NGWJH
+Writer: AWW50
+Reader: NGWJH
+Writer: B450B
+Reader: NGWJH
+Reader: B450B
+Writer: 8X1QZ
+Writer: XLCFT
+Reader: NGWJH
+Writer: RIBYY
+Reader: NGWJH
+Reader: RIBYY
+Writer: 9WB5A
+Reader: RIBYY
+Writer: FNIQP
+Reader: RIBYY
+Writer: GWJY4
+Writer: 4UMHB
+Reader: NGWJH
+Writer: CADZ3
+Reader: NGWJH
+Reader: CADZ3
+Writer: EZ0JG
+Writer: 2U7G0
+Reader: NGWJH
+Reader: 2U7G0
+Writer: O2A06
+Writer: VPKAS
+Reader: NGWJH
+Writer: BBOKY
+Reader: NGWJH
+Writer: 653WW
+Reader: NGWJH
+Reader: 653WW
+Writer: 9TMB6
+Writer: QX8KX
+Reader: NGWJH
+Reader: QX8KX
+Writer: WYC7P
+Reader: QX8KX
+Writer: BUWLQ
+Reader: QX8KX
+Writer: XZDH2
+Writer: CLPUJ
+Reader: NGWJH
+Writer: 61LU1
+Reader: NGWJH
+Reader: 61LU1
+Writer: 5P94P
+Writer: 8QAN6
+Reader: NGWJH
+Writer: N9Q5W
+Reader: NGWJH
+Reader: N9Q5W
+Writer: MJRG9
+Writer: JQFI4
+Reader: NGWJH
+Writer: FHNA0
+Reader: NGWJH
+Writer: 4MSGT
+Reader: NGWJH
+Writer: WV16R
+Reader: NGWJH
+Writer: GYZKP
+Reader: NGWJH
+Writer: C4U87
+Reader: NGWJH
+Writer: XJEUR
+Reader: NGWJH
+Writer: PJ1AK
+Reader: NGWJH
+Writer: 0CAWB
+Reader: NGWJH
+Reader: 0CAWB
+Writer: ARKLA
+Writer: 0RVY2
+Reader: NGWJH
+Reader: 0RVY2
+Writer: V0421
+Reader: 0RVY2
+Writer: KXPDC
+Writer: UI7YD
+Reader: NGWJH
+Reader: UI7YD
+Writer: M41V1
+Reader: UI7YD
+Writer: EYDJP
+Writer: VTI7G
+Reader: NGWJH
+Reader: VTI7G
+Writer: GXP26
+Reader: VTI7G
+Writer: ZO8J9
+Writer: CX6UQ
+Reader: NGWJH
+Reader: CX6UQ
+Writer: 1UWHX
+Writer: 60A7Y
+Reader: NGWJH
+Reader: 60A7Y
+Writer: 6XVMG
+Reader: 60A7Y
+Writer: 1PR65
+Writer: 62E2O
+Reader: NGWJH
+Reader: 62E2O
+Writer: 75SWY
+Writer: Q1S2Y
+Reader: NGWJH
+Reader: Q1S2Y
+Writer: A7AJK
+Writer: QXSE9
+Reader: NGWJH
+Reader: QXSE9
+Writer: C3VCH
+Writer: XFAYT
+Reader: NGWJH
+Reader: XFAYT
+Writer: 8P330
+Reader: XFAYT
+Writer: AHOIH
+Reader: XFAYT
+Writer: EE3YF
+Reader: XFAYT
+Writer: 4OHWP
+Reader: XFAYT
+Writer: JKA3M
+Writer: EJPOB
+Reader: NGWJH
+Writer: L14IZ
+Reader: NGWJH
+Reader: L14IZ
+Writer: UDHTJ
+Reader: L14IZ
+Writer: IJJ64
+Reader: L14IZ
+Writer: 7A76N
+Writer: J7NJK
+Reader: NGWJH
+Reader: J7NJK
+Writer: XPARV
+Reader: J7NJK
+Writer: 129H5
+Writer: NKU8V
+Reader: NGWJH
+Reader: NKU8V
+Writer: 0GYNG
+Writer: 9BD8O
+Reader: NGWJH
+Reader: 9BD8O
+Writer: EMSA1
+Reader: 9BD8O
+Writer: ONU7B
+Writer: ED08S
+Reader: NGWJH
+Reader: ED08S
+Writer: QJBAR
+Writer: XP8LX
+Reader: NGWJH
+Writer: CJACL
+Reader: NGWJH
+Writer: WMBCQ
+Reader: NGWJH
+Writer: OJ9PR
+Reader: NGWJH
+Writer: 9ZW7Q
+Reader: NGWJH
+Reader: 9ZW7Q
+Writer: XQZ50
+Writer: Z9CR0
+Reader: NGWJH
+Writer: YOHNZ
+Reader: NGWJH
+Writer: EMSWP
+Reader: NGWJH
+Reader: EMSWP
+Writer: 2BXRD
+Writer: GKWSR
+Reader: NGWJH
+Writer: 82B59
+Reader: NGWJH
+Reader: 82B59
+Writer: WTFMV
+Writer: XJUM1
+Reader: NGWJH
+Writer: ACW0N
+Reader: NGWJH
+Writer: XG9SX
+Reader: NGWJH
+Reader: XG9SX
+Writer: V2I1T
+Reader: XG9SX
+Writer: PNTA2
+Writer: 6MMNC
+Reader: NGWJH
+Reader: 6MMNC
+Writer: VGGB2
+Writer: SRLZC
+Reader: NGWJH
+Reader: SRLZC
+Writer: EY5F3
+Reader: SRLZC
+Writer: 12THO
+Writer: 3LO2F
+Reader: NGWJH
+Reader: 3LO2F
+Writer: J0TT5
+Reader: 3LO2F
+Writer: X0IX1
+Writer: QA8ZF
+Reader: NGWJH
+Reader: QA8ZF
+Writer: EQSYO
+Writer: 1RNGB
+Reader: NGWJH
+Reader: 1RNGB
+Writer: D3E9J
+Writer: K2N6S
+Reader: NGWJH
+Writer: 2713P
+Reader: NGWJH
+Reader: 2713P
+Writer: OPINN
+Reader: 2713P
+Writer: 043BJ
+Writer: N2ZNN
+Reader: NGWJH
+Writer: 1MNS2
+Reader: NGWJH
+Reader: 1MNS2
+Writer: 3VIOR
+Reader: 1MNS2
+Writer: XWCHN
+Reader: 1MNS2
+Writer: HZZJA
+Writer: MJ92K
+Reader: NGWJH
+Reader: MJ92K
+Writer: IAD06
+Writer: RCAS0
+Reader: NGWJH
+Reader: RCAS0
+Writer: PTJAV
+Reader: RCAS0
+Writer: 3G46Z
+Writer: D2WYB
+Reader: NGWJH
+Writer: XCQNB
+Reader: NGWJH
+Reader: XCQNB
+Writer: SMUHU
+Reader: XCQNB
+Writer: 3RSS9
+Writer: UWTQ7
+Reader: NGWJH
+Reader: UWTQ7
+Writer: XPYXG
+Reader: UWTQ7
+Writer: FPDDH
+Writer: POOYI
+Reader: NGWJH
+Reader: POOYI
+Writer: OWWRI
+Writer: D9BQ2
+Reader: NGWJH
+Reader: D9BQ2
+Writer: LXL6E
+Writer: QJF1O
+Reader: NGWJH
+Reader: QJF1O
+Writer: IO3G5
+Writer: DIRAE
+Reader: NGWJH
+Reader: DIRAE
+Writer: OD4KV
+Writer: 89BI4
+Reader: NGWJH
+Reader: 89BI4
+Writer: YOH45
+Writer: SDH80
+Reader: NGWJH
+Reader: SDH80
+Writer: GJXJA
+Reader: SDH80
+Writer: A2QWF
+Reader: SDH80
+Writer: 4RBMO
+Writer: I3BLG
+Reader: NGWJH
+Reader: I3BLG
+Writer: QH77Z
+Reader: I3BLG
+Writer: 3G8LM
+Reader: I3BLG
+Writer: 9BTK7
+Reader: I3BLG
+Writer: FPUKU
+Reader: I3BLG
+Writer: GTODA
+Reader: I3BLG
+Writer: HN5QW
+Writer: ZC62J
+Reader: NGWJH
+Reader: ZC62J
+Writer: 8L0UG
+Reader: ZC62J
+Writer: 33FJF
+Reader: ZC62J
+Writer: 271OI
+Reader: ZC62J
+Writer: 2I109
+Writer: 7247S
+Reader: NGWJH
+Reader: 7247S
+Writer: QLSYX
+Writer: 7F1A8
+Reader: NGWJH
+Writer: 3ZAD1
+Reader: NGWJH
+Reader: 3ZAD1
+Writer: MNF7H
+Writer: JVQH4
+Reader: NGWJH
+Reader: JVQH4
+Writer: QKF2M
+Reader: JVQH4
+Writer: GR3CZ
+Writer: SLRVI
+Reader: NGWJH
+Writer: XG0QP
+Reader: NGWJH
+Reader: XG0QP
+Writer: CHX9X
+Reader: XG0QP
+Writer: UX6ZI
+Reader: XG0QP
+Writer: 45K4G
+Writer: W99Y2
+Reader: NGWJH
+Reader: W99Y2
+Writer: L68OI
+Writer: A6TYU
+Reader: NGWJH
+Reader: A6TYU
+Writer: C5921
+Reader: A6TYU
+Writer: IXGE2
+Writer: SVD34
+Reader: NGWJH
+Writer: WAXOW
+Reader: NGWJH
+Reader: WAXOW
+Writer: XHCYD
+Writer: GJI0X
+Reader: NGWJH
+Writer: XDHFG
+Reader: NGWJH
+Writer: 95SC7
+Reader: NGWJH
+Writer: 9346J
+Reader: NGWJH
+Reader: 9346J
+Writer: 02FUV
+Writer: AJEC6
+Reader: NGWJH
+Reader: AJEC6
+Writer: 42LYV
+Reader: AJEC6
+Writer: 9OPRE
+Writer: PN8W4
+Reader: NGWJH
+Writer: 1RUQX
+Reader: NGWJH
+Reader: 1RUQX
+Writer: 4MGOM
+Reader: 1RUQX
+Writer: NEYEW
+Reader: 1RUQX
+Writer: O8FIL
+Writer: GT4R8
+Reader: NGWJH
+Reader: GT4R8
+Writer: UNN14
+Reader: GT4R8
+Writer: N4SZ4
+Writer: SYXPC
+Reader: NGWJH
+Reader: SYXPC
+Writer: SW6LI
+Writer: 40K4Z
+Reader: NGWJH
+Writer: QIZLX
+Reader: NGWJH
+Reader: QIZLX
+Writer: HXDSC
+Reader: QIZLX
+Writer: Q9OU9
+Writer: SW8KE
+Reader: NGWJH
+Writer: 0KZG3
+Reader: NGWJH
+Reader: 0KZG3
+Writer: TXSID
+Writer: 3CSCN
+Reader: NGWJH
+Writer: FFGBW
+Reader: NGWJH
+Reader: FFGBW
+Writer: 4UFMV
+Writer: SILMZ
+Reader: NGWJH
+Writer: I1A09
+Reader: NGWJH
+Reader: I1A09
+Writer: FSSSD
+Writer: UF4OI
+Reader: NGWJH
+Writer: OQLG4
+Reader: NGWJH
+Writer: NP6XJ
+Reader: NGWJH
+Writer: FFMVK
+Reader: NGWJH
+Reader: FFMVK
+Writer: LLGT5
+Reader: FFMVK
+Writer: BC2DI
+Reader: FFMVK
+Writer: WWY8C
+Writer: Z01DH
+Reader: NGWJH
+Reader: Z01DH
+Writer: B6FRM
+Writer: 25MQ3
+Reader: NGWJH
+Writer: AG7H2
+Reader: NGWJH
+Reader: AG7H2
+Writer: J9LSG
+Writer: LYI8I
+Reader: NGWJH
+Reader: LYI8I
+Writer: 118VU
+Reader: LYI8I
+Writer: PNIOJ
+Reader: LYI8I
+Writer: OGYGC
+Reader: LYI8I
+Writer: GZMJI
+Writer: QYRF2
+Reader: NGWJH
+Reader: QYRF2
+Writer: 0OI75
+Writer: NYGJV
+Reader: NGWJH
+Reader: NYGJV
+Writer: B706N
+Writer: W7T8N
+Reader: NGWJH
+Reader: W7T8N
+Writer: CKEQA
+Writer: VM801
+Reader: NGWJH
+Reader: VM801
+Writer: CJ234
+Reader: VM801
+Writer: AFLS5
+Writer: 09PVA
+Reader: NGWJH
+Writer: J9P5W
+Reader: NGWJH
+Reader: J9P5W
+Writer: TFS1Z
+Writer: QK26J
+Reader: NGWJH
+Reader: QK26J
+Writer: BZQRS
+Writer: 1E7CN
+Reader: NGWJH
+Reader: 1E7CN
+Writer: RVACX
+Writer: D4SP1
+Reader: NGWJH
+Reader: D4SP1
+Writer: W6DDI
+Writer: 71BDN
+Reader: NGWJH
+Writer: 0MOI4
+Reader: NGWJH
+Reader: 0MOI4
+Writer: BT8DI
+Writer: FCNSE
+Reader: NGWJH
+Reader: FCNSE
+Writer: 7EQEW
+Reader: FCNSE
+Writer: V1MFX
+Writer: EWMIU
+Reader: NGWJH
+Reader: EWMIU
+Writer: AC3YW
+Writer: EG1HW
+Reader: NGWJH
+Writer: U5PGW
+Reader: NGWJH
+Writer: USU8L
+Reader: NGWJH
+Writer: 3K7Q1
+Reader: NGWJH
+Reader: 3K7Q1
+Writer: 89JVZ
+Reader: 3K7Q1
+Writer: OGZSH
+Writer: CIZ5A
+Reader: NGWJH
+Writer: 0MJSC
+Reader: NGWJH
+Reader: 0MJSC
+Writer: ZMGTC
+Writer: WBN71
+Reader: NGWJH
+Writer: 0FN6X
+Reader: NGWJH
+Writer: E7GRH
+Reader: NGWJH
+Writer: NG68U
+Reader: NGWJH
+Writer: M3Y8U
+Reader: NGWJH
+Writer: QAPOB
+Reader: NGWJH
+Writer: W30TD
+Reader: NGWJH
+Writer: N221R
+Reader: NGWJH
+Writer: 652H6
+Reader: NGWJH
+Writer: 3G1KY
+Reader: NGWJH
+Reader: 3G1KY
+Writer: TQH90
+Writer: 3MPML
+Reader: NGWJH
+Reader: 3MPML
+Writer: Z084B
+Writer: KHWO3
+Reader: NGWJH
+Writer: UNFRY
+Reader: NGWJH
+Reader: UNFRY
+Writer: RAQC1
+Reader: UNFRY
+Writer: KIE0S
+Writer: GW02K
+Reader: NGWJH
+Reader: GW02K
+Writer: ANQP1
+Writer: F68GV
+Reader: NGWJH
+Reader: F68GV
+Writer: VTNQD
+Writer: GKZLI
+Reader: NGWJH
+Reader: GKZLI
+Writer: 26NUB
+Writer: QWIM5
+Reader: NGWJH
+Reader: QWIM5
+Writer: XQ4D3
+Reader: QWIM5
+Writer: H6Z0S
+Writer: UCKQF
+Reader: NGWJH
+Reader: UCKQF
+Writer: 05XWL
+Writer: 57PTR
+Reader: NGWJH
+Writer: EA6OK
+Reader: NGWJH
+Reader: EA6OK
+Writer: SYVL8
+Reader: EA6OK
+Writer: FZJX6
+Reader: EA6OK
+Writer: JV92Y
+Reader: EA6OK
+Writer: 0V7OK
+Reader: EA6OK
+Writer: V9VA9
+Reader: EA6OK
+Writer: 0AKWZ
+Reader: EA6OK
+Writer: GAKPA
+Reader: EA6OK
+Writer: 6Q8SA
+Reader: EA6OK
+Writer: AVAZB
+Reader: EA6OK
+Writer: K7W50
+Reader: EA6OK
+Writer: SDREY
+Reader: EA6OK
+Writer: TCVMH
+Reader: EA6OK
+Writer: EPX7Z
+Reader: EA6OK
+Writer: JKT21
+Writer: KWPOJ
+Reader: NGWJH
+Writer: A958Z
+Reader: NGWJH
+Writer: 2NO5G
+Reader: NGWJH
+Reader: 2NO5G
+Writer: DSG1Q
+Writer: 34WK6
+Reader: NGWJH
+Reader: 34WK6
+Writer: V7CA2
+Writer: 9O4DQ
+Reader: NGWJH
+Reader: 9O4DQ
+Writer: 5YD4Y
+Writer: UGWWO
+Reader: NGWJH
+Writer: 0B10W
+Reader: NGWJH
+Reader: 0B10W
+Writer: 1D1L8
+Writer: P9ESY
+Reader: NGWJH
+Writer: C75GZ
+Reader: NGWJH
+Writer: NTKPL
+Reader: NGWJH
+Writer: POMD6
+Reader: NGWJH
+Writer: WIA5F
+Reader: NGWJH
+Writer: UGLNA
+Reader: NGWJH
+Writer: 5WSFA
+Reader: NGWJH
+Writer: 5TVFV
+Reader: NGWJH
+Writer: XKQ7A
+Reader: NGWJH
+Reader: XKQ7A
+Writer: G0MPH
+Writer: M1YPL
+Reader: NGWJH
+Reader: M1YPL
+Writer: H9IME
+Writer: 6VRF3
+Reader: NGWJH
+Reader: 6VRF3
+Writer: 1BFOP
+Reader: 6VRF3
+Writer: 53GRI
+Writer: M2C48
+Reader: NGWJH
+Writer: 345GY
+Reader: NGWJH
+Reader: 345GY
+Writer: E8C43
+Reader: 345GY
+Writer: 5LIBZ
+Reader: 345GY
+Writer: B3KDJ
+Reader: 345GY
+Writer: FV79L
+Writer: SUGG9
+Reader: NGWJH
+Writer: P7NNK
+Reader: NGWJH
+Writer: B0KQY
+Reader: NGWJH
+Writer: 28KVU
+Reader: NGWJH
+Writer: UUE2H
+Reader: NGWJH
+Writer: SR8V2
+Reader: NGWJH
+Writer: H655F
+Reader: NGWJH
+Writer: U254O
+Reader: NGWJH
+Writer: 8741X
+Reader: NGWJH
+Writer: LS3OR
+Reader: NGWJH
+Writer: HKMP1
+Reader: NGWJH
+Writer: 7PN9Q
+Reader: NGWJH
+Writer: 782VC
+Reader: NGWJH
+Reader: 782VC
+Writer: F4PLE
+Writer: ACQHV
+Reader: NGWJH
+Reader: ACQHV
+Writer: WZNF6
+Writer: AYTDV
+Reader: NGWJH
+Writer: 7UPDH
+Reader: NGWJH
+Reader: 7UPDH
+Writer: EO6OQ
+Writer: 9EJYS
+Reader: NGWJH
+Writer: QCSKR
+Reader: NGWJH
+Reader: QCSKR
+Writer: E4F3E
+Writer: IBIDP
+Reader: NGWJH
+Reader: IBIDP
+Writer: JOZ9F
+Writer: UOMDA
+Reader: NGWJH
+Reader: UOMDA
+Writer: VGB0W
+Reader: UOMDA
+Writer: SPZWP
+Reader: UOMDA
+Writer: 8FJWQ
+Reader: UOMDA
+Writer: CPW89
+Writer: CG28H
+Reader: NGWJH
+Reader: CG28H
+Writer: VPKS8
+Writer: CZPJ5
+Reader: NGWJH
+Reader: CZPJ5
+Writer: 82OHV
+Writer: 2MVYR
+Reader: NGWJH
+Reader: 2MVYR
+Writer: DECTD
+Reader: 2MVYR
+Writer: E2ND8
+Writer: PNDTB
+Reader: NGWJH
+Reader: PNDTB
+Writer: DFHYM
+Writer: I0A1R
+Reader: NGWJH
+Reader: I0A1R
+Writer: KBOMH
+Reader: I0A1R
+Writer: 0UEQD
+Reader: I0A1R
+Writer: QM0P3
+Writer: KLMLP
+Reader: NGWJH
+Reader: KLMLP
+Writer: VY5GS
+Writer: WF6LJ
+Reader: NGWJH
+Reader: WF6LJ
+Writer: MELB3
+Writer: DOA5I
+Reader: NGWJH
+Writer: 4IXPU
+Reader: NGWJH
+Writer: 0O15C
+Reader: NGWJH
+Reader: 0O15C
+Writer: 6OZL6
+Writer: VFH4V
+Reader: NGWJH
+Reader: VFH4V
+Writer: VY3H1
+Reader: VFH4V
+Writer: LBYWZ
+Reader: VFH4V
+Writer: 6KQDU
+Reader: VFH4V
+Writer: MBQV1
+Writer: HNBJM
+Reader: NGWJH
+Reader: HNBJM
+Writer: 8PAFH
+Reader: HNBJM
+Writer: 8GGKX
+Reader: HNBJM
+Writer: GPPYI
+Writer: ZZFFG
+Reader: NGWJH
+Reader: ZZFFG
+Writer: V7V0T
+Writer: TYVCN
+Reader: NGWJH
+Reader: TYVCN
+Writer: HWT52
+Writer: 6BTO1
+Reader: NGWJH
+Writer: ZEGQO
+Reader: NGWJH
+Writer: 7W2MC
+Reader: NGWJH
+Reader: 7W2MC
+Writer: RH5C0
+Writer: B3JWY
+Reader: NGWJH
+Reader: B3JWY
+Writer: JVE6P
+Writer: T5U5M
+Reader: NGWJH
+Reader: T5U5M
+Writer: YG1NQ
+Writer: R0FMW
+Reader: NGWJH
+Reader: R0FMW
+Writer: 66I96
+Writer: A1QE0
+Reader: NGWJH
+Reader: A1QE0
+Writer: D17ZS
+Reader: A1QE0
+Writer: E9KB4
+Reader: A1QE0
+Writer: BC6AO
+Reader: A1QE0
+Writer: KPRWJ
+Writer: KX7A1
+Reader: NGWJH
+Writer: MME9O
+Reader: NGWJH
+Reader: MME9O
+Writer: 2OQFJ
+Writer: 6JC5M
+Reader: NGWJH
+Reader: 6JC5M
+Writer: RPERU
+Reader: 6JC5M
+Writer: 49HVV
+Reader: 6JC5M
+Writer: VJ44P
+Reader: 6JC5M
+Writer: P467G
+Reader: 6JC5M
+Writer: 25LWC
+Reader: 6JC5M
+Writer: WV11R
+Reader: 6JC5M
+Writer: BNWJ1
+Reader: 6JC5M
+Writer: 5SPP6
+Reader: 6JC5M
+Writer: MESN3
+Reader: 6JC5M
+Writer: SUVZ3
+Reader: 6JC5M
+Writer: CMEZU
+Reader: 6JC5M
+Writer: WESP8
+Reader: 6JC5M
+Writer: JIQEU
+Reader: 6JC5M
+Writer: IXVCU
+Reader: 6JC5M
+Writer: 7ORB3
+Reader: 6JC5M
+Writer: XM73T
+Reader: 6JC5M
+Writer: CAC8P
+Reader: 6JC5M
+Writer: YI7ZF
+Reader: 6JC5M
+Writer: 0A9QX
+Writer: EYO2U
+Reader: NGWJH
+Reader: EYO2U
+Writer: 49SE5
+Writer: Y5D56
+Reader: NGWJH
+Reader: Y5D56
+Writer: JHY66
+Reader: Y5D56
+Writer: IFRZ6
+Reader: Y5D56
+Writer: 90574
+Writer: 6OBNZ
+Reader: NGWJH
+Writer: 98EIY
+Reader: NGWJH
+Writer: CS7C1
+Reader: NGWJH
+Writer: 3EB25
+Reader: NGWJH
+Reader: 3EB25
+Writer: TLDUP
+Writer: 8GZ6U
+Reader: NGWJH
+Writer: EDUJ8
+Reader: NGWJH
+Reader: EDUJ8
+Writer: J40G7
+Reader: EDUJ8
+Writer: LCPH3
+Reader: EDUJ8
+Writer: 0IO8D
+Writer: 5YCBL
+Reader: NGWJH
+Reader: 5YCBL
+Writer: VKQ70
+Writer: 2IIXU
+Reader: NGWJH
+Reader: 2IIXU
+Writer: 97YDR
+Writer: 9O55U
+Reader: NGWJH
+Reader: 9O55U
+Writer: Q560Z
+Writer: 0113Z
+Reader: NGWJH
+Writer: QBT8N
+Reader: NGWJH
+Reader: QBT8N
+Writer: 8N2PE
+Reader: QBT8N
+Writer: D42X4
+Writer: 2ULQD
+Reader: NGWJH
+Writer: Q3GR4
+Reader: NGWJH
+Reader: Q3GR4
+Writer: ZN0IA
+Writer: BRO8D
+Reader: NGWJH
+Reader: BRO8D
+Writer: 8NZZS
+Writer: WVP0Q
+Reader: NGWJH
+Writer: WDJ66
+Reader: NGWJH
+Reader: WDJ66
+Writer: GQKZI
+Writer: W4CDY
+Reader: NGWJH
+Reader: W4CDY
+Writer: VWTPD
+Writer: WP3T6
+Reader: NGWJH
+Reader: WP3T6
+Writer: P4V8R
+Reader: WP3T6
+Writer: 4NPAI
+Reader: WP3T6
+Writer: VE3M4
+Reader: WP3T6
+Writer: UGZZQ
+Writer: DLVB7
+Reader: NGWJH
+Writer: 9CAX4
+Reader: NGWJH
+Writer: GJZAR
+Reader: NGWJH
+Reader: GJZAR
+Writer: L5MHO
+Reader: GJZAR
+Writer: JOB4C
+Reader: GJZAR
+Writer: Q3HVT
+Reader: GJZAR
+Writer: P0EC2
+Writer: DITAS
+Reader: NGWJH
+Writer: 2N2FC
+Reader: NGWJH
+Writer: LO35S
+Reader: NGWJH
+Writer: Z3SLH
+Reader: NGWJH
+Reader: Z3SLH
+Writer: ZK18Q
+Writer: F5OEP
+Reader: NGWJH
+Reader: F5OEP
+Writer: QFXHN
+Writer: DLLYV
+Reader: NGWJH
+Reader: DLLYV
+Writer: 5V620
+Writer: BALC3
+Reader: NGWJH
+Reader: BALC3
+Writer: VH35D
+Reader: BALC3
+Writer: 3RUTN
+Reader: BALC3
+Writer: 78Y0W
+Reader: BALC3
+Writer: G1VRP
+Writer: NR3ZM
+Reader: NGWJH
+Reader: NR3ZM
+Writer: DO8HP
+Writer: FTMK3
+Reader: NGWJH
+Reader: FTMK3
+Writer: IL2EU
+Writer: V02LY
+Reader: NGWJH
+Writer: 67FGU
+Reader: NGWJH
+Reader: 67FGU
+Writer: KO4XQ
+Writer: EODS9
+Reader: NGWJH
+Reader: EODS9
+Writer: PSNEH
+Reader: EODS9
+Writer: NWN6N
+Writer: 49Q64
+Reader: NGWJH
+Reader: 49Q64
+Writer: WZRBP
+Writer: FI2XF
+Reader: NGWJH
+Reader: FI2XF
+Writer: 0ZY3Z
+Writer: 3IJEF
+Reader: NGWJH
+Writer: CNXEK
+Reader: NGWJH
+Writer: KUJ2Z
+Reader: NGWJH
+Writer: K8734
+Reader: NGWJH
+Writer: O6CD4
+Reader: NGWJH
+Writer: G0Z9Q
+Reader: NGWJH
+Reader: G0Z9Q
+Writer: Y7THU
+Writer: W0L11
+Reader: NGWJH
+Reader: W0L11
+Writer: ICN0F
+Writer: V9A84
+Reader: NGWJH
+Reader: V9A84
+Writer: 1159L
+Writer: 6GFK8
+Reader: NGWJH
+Reader: 6GFK8
+Writer: MYYXV
+Writer: MABIC
+Reader: NGWJH
+Reader: MABIC
+Writer: UXGBV
+Reader: MABIC
+Writer: MTL8J
+Writer: HZ0EY
+Reader: NGWJH
+Reader: HZ0EY
+Writer: 6CT6X
+Writer: QUA2P
+Reader: NGWJH
+Reader: QUA2P
+Writer: UN0E2
+Writer: U726K
+Reader: NGWJH
+Writer: EV3O8
+Reader: NGWJH
+Reader: EV3O8
+Writer: N4HB0
+Reader: EV3O8
+Writer: W7T8Z
+Reader: EV3O8
+Writer: JQFVV
+Reader: EV3O8
+Writer: AWNWB
+Writer: 82GFY
+Reader: NGWJH
+Writer: K744U
+Reader: NGWJH
+Reader: K744U
+Writer: LJF7J
+Writer: VM9B3
+Reader: NGWJH
+Reader: VM9B3
+Writer: W31PT
+Reader: VM9B3
+Writer: E2HKJ
+Reader: VM9B3
+Writer: SIHMA
+Reader: VM9B3
+Writer: UYCNQ
+Writer: YDZOO
+Reader: NGWJH
+Reader: YDZOO
+Writer: AKHL9
+Reader: YDZOO
+Writer: XXL2P
+Writer: EB0VT
+Reader: NGWJH
+Reader: EB0VT
+Writer: S0TUB
+Reader: EB0VT
+Writer: CC26Y
+Writer: 7KWVE
+Reader: NGWJH
+Reader: 7KWVE
+Writer: SENBT
+Reader: 7KWVE
+Writer: 3U5KV
+Reader: 7KWVE
+Writer: 56O76
+Writer: T7Q37
+Reader: NGWJH
+Writer: 8TEML
+Reader: NGWJH
+Writer: 8SLXC
+Reader: NGWJH
+Writer: NA0X6
+Reader: NGWJH
+Writer: 9XZC0
+Reader: NGWJH
+Writer: 84J8G
+Reader: NGWJH
+Writer: GX5AE
+Reader: NGWJH
+Writer: 942XG
+Reader: NGWJH
+Writer: 9AA0V
+Reader: NGWJH
+Writer: LJIHI
+Reader: NGWJH
+Writer: 4G1A6
+Reader: NGWJH
+Reader: 4G1A6
+Writer: 5IND9
+Reader: 4G1A6
+Writer: DKFGF
+Writer: KWKSC
+Reader: NGWJH
+Reader: KWKSC
+Writer: SICQ7
+Writer: 9X8RO
+Reader: NGWJH
+Reader: 9X8RO
+Writer: ZWB0L
+Writer: 964DJ
+Reader: NGWJH
+Reader: 964DJ
+Writer: 1QZYD
+Writer: Y54VK
+Reader: NGWJH
+Reader: Y54VK
+Writer: Y80FZ
+Writer: WEKC7
+Reader: NGWJH
+Writer: IJ6YK
+Reader: NGWJH
+Reader: IJ6YK
+Writer: QIP4F
+Writer: O1GIL
+Reader: NGWJH
+Writer: CTNNI
+Reader: NGWJH
+Reader: CTNNI
+Writer: E3NG0
+Writer: 066AZ
+Reader: NGWJH
+Reader: 066AZ
+Writer: 5V2GA
+Writer: RUBNW
+Reader: NGWJH
+Reader: RUBNW
+Writer: QP9P5
+Reader: RUBNW
+Writer: 71R4X
+Writer: C0732
+Reader: NGWJH
+Reader: C0732
+Writer: P6Z8T
+Reader: C0732
+Writer: UMOFK
+Writer: 39AI3
+Reader: NGWJH
+Reader: 39AI3
+Writer: SSA02
+Writer: Y47K3
+Reader: NGWJH
+Reader: Y47K3
+Writer: 9PBNW
+Writer: EY8NV
+Reader: NGWJH
+Writer: V4C4C
+Reader: NGWJH
+Reader: V4C4C
+Writer: DB4FC
+Writer: 71JBF
+Reader: NGWJH
+Reader: 71JBF
+Writer: U0HBE
+Reader: 71JBF
+Writer: V8PFU
+Writer: EKBSF
+Reader: NGWJH
+Writer: EBWWH
+Reader: NGWJH
+Writer: YPFXZ
+Reader: NGWJH
+Reader: YPFXZ
+Writer: W91H5
+Reader: YPFXZ
+Writer: HGAHB
+Writer: OR7JA
+Reader: NGWJH
+Reader: OR7JA
+Writer: WO7J8
+Writer: 29LA8
+Reader: NGWJH
+Writer: 5FW3Q
+Reader: NGWJH
+Writer: FUTLR
+Reader: NGWJH
+Reader: FUTLR
+Writer: VHHJN
+Reader: FUTLR
+Writer: 8K3Q0
+Reader: FUTLR
+Writer: XENVU
+Writer: JR6Y6
+Reader: NGWJH
+Reader: JR6Y6
+Writer: XX1J9
+Reader: JR6Y6
+Writer: CTH06
+Reader: JR6Y6
+Writer: 37V1P
+Reader: JR6Y6
+Writer: PHY6A
+Reader: JR6Y6
+Writer: SG5JL
+Reader: JR6Y6
+Writer: 11BIH
+Reader: JR6Y6
+Writer: YY4P4
+Reader: JR6Y6
+Writer: 7Q7JK
+Reader: JR6Y6
+Writer: ODCU6
+Reader: JR6Y6
+Writer: ZTVFE
+Reader: JR6Y6
+Writer: B39YO
+Writer: R2R8I
+Reader: NGWJH
+Reader: R2R8I
+Writer: KS8TH
+Writer: FCG6S
+Reader: NGWJH
+Reader: FCG6S
+Writer: 9JOWV
+Writer: PDLMV
+Reader: NGWJH
+Reader: PDLMV
+Writer: HG5EF
+Writer: 4ZGAN
+Reader: NGWJH
+Writer: E89AA
+Reader: NGWJH
+Reader: E89AA
+Writer: 6FTM1
+Writer: WNYXF
+Reader: NGWJH
+Reader: WNYXF
+Writer: 2ONC9
+Reader: WNYXF
+Writer: NREMA
+Reader: WNYXF
+Writer: EW3NN
+Writer: Q6FTN
+Reader: NGWJH
+Reader: Q6FTN
+Writer: BKNVZ
+Reader: Q6FTN
+Writer: KT8V8
+Writer: 4RI9N
+Reader: NGWJH
+Reader: 4RI9N
+Writer: PLDB9
+Writer: X3WA5
+Reader: NGWJH
+Reader: X3WA5
+Writer: JLF9L
+Writer: 0HFKD
+Reader: NGWJH
+Reader: 0HFKD
+Writer: RB1NZ
+Reader: 0HFKD
+Writer: 3STOF
+Reader: 0HFKD
+Writer: XO497
+Reader: 0HFKD
+Writer: E2ETZ
+Writer: HYN0P
+Reader: NGWJH
+Reader: HYN0P
+Writer: 8N9KI
+Writer: XL756
+Reader: NGWJH
+Reader: XL756
+Writer: OU0LF
+Reader: XL756
+Writer: FJH4I
+Writer: 5QGBG
+Reader: NGWJH
+Reader: 5QGBG
+Writer: 7CVU6
+Writer: 2XB80
+Reader: NGWJH
+Reader: 2XB80
+Writer: QSJFS
+Writer: LQ9DS
+Reader: NGWJH
+Reader: LQ9DS
+Writer: UC2OU
+Writer: 7QTRT
+Reader: NGWJH
+Reader: 7QTRT
+Writer: SH7DK
+Writer: U0N9D
+Reader: NGWJH
+Reader: U0N9D
+Writer: 0S1VZ
+Reader: U0N9D
+Writer: WACL7
+Writer: OQCSV
+Reader: NGWJH
+Writer: 5JH98
+Reader: NGWJH
+Reader: 5JH98
+Writer: METOH
+Writer: IUF57
+Reader: NGWJH
+Reader: IUF57
+Writer: UDAA2
+Reader: IUF57
+Writer: BKHY7
+Reader: IUF57
+Writer: 7OHTE
+Reader: IUF57
+Writer: BFPRP
+Reader: IUF57
+Writer: KTNA1
+Writer: V8NNR
+Reader: NGWJH
+Reader: V8NNR
+Writer: C4GOM
+Writer: LQC0U
+Reader: NGWJH
+Reader: LQC0U
+Writer: UCTCA
+Writer: 77AJF
+Reader: NGWJH
+Reader: 77AJF
+Writer: DFXQW
+Reader: 77AJF
+Writer: BZ9IG
+Reader: 77AJF
+Writer: C73H5
+Reader: 77AJF
+Writer: CH2H3
+Reader: 77AJF
+Writer: VCY74
+Reader: 77AJF
+Writer: I9LA3
+Reader: 77AJF
+Writer: Y8DIO
+Reader: 77AJF
+Writer: 6G01L
+Reader: 77AJF
+Writer: VR3UR
+Writer: WIMG7
+Reader: NGWJH
+Writer: ZF2QU
+Reader: NGWJH
+Writer: ARZVN
+Reader: NGWJH
+Writer: BO9PS
+Reader: NGWJH
+Reader: BO9PS
+Writer: E3V29
+Reader: BO9PS
+Writer: 6RA6H
+Writer: DJDQI
+Reader: NGWJH
+Reader: DJDQI
+Writer: 9XECD
+Reader: DJDQI
+Writer: TFXXN
+Writer: PQEOJ
+Reader: NGWJH
+Reader: PQEOJ
+Writer: HSNCN
+Writer: 2XTHB
+Reader: NGWJH
+Reader: 2XTHB
+Writer: IE6IQ
+Writer: 0NJNO
+Reader: NGWJH
+Writer: NJ6M8
+Reader: NGWJH
+Writer: 8G7OU
+Reader: NGWJH
+Writer: PMWWA
+Reader: NGWJH
+Reader: PMWWA
+Writer: V5BDP
+Reader: PMWWA
+Writer: ME7A4
+Reader: PMWWA
+Writer: OJOGX
+Reader: PMWWA
+Writer: BH195
+Writer: 7VBDP
+Reader: NGWJH
+Writer: WZEXW
+Reader: NGWJH
+Writer: 5RKI4
+Reader: NGWJH
+Writer: 4LF8B
+Reader: NGWJH
+Reader: 4LF8B
+Writer: JM6RU
+Writer: Y101S
+Reader: NGWJH
+Reader: Y101S
+Writer: HVW1C
+Writer: A47Y2
+Reader: NGWJH
+Reader: A47Y2
+Writer: XAKN9
+Writer: 69GM2
+Reader: NGWJH
+Reader: 69GM2
+Writer: ZB28W
+Reader: 69GM2
+Writer: UZUT0
+Reader: 69GM2
+Writer: 58MEP
+Reader: 69GM2
+Writer: K5SF4
+Reader: 69GM2
+Writer: ANRFO
+Writer: ICSRX
+Reader: NGWJH
+Writer: ZVO92
+Reader: NGWJH
+Writer: F2YES
+Reader: NGWJH
+Reader: F2YES
+Writer: LJO77
+Writer: YYF8Z
+Reader: NGWJH
+Writer: BQAR2
+Reader: NGWJH
+Reader: BQAR2
+Writer: LUWTO
+Writer: SGC6A
+Reader: NGWJH
+Writer: JTNMJ
+Reader: NGWJH
+Writer: RGOXT
+Reader: NGWJH
+Reader: RGOXT
+Writer: 09TIZ
+Writer: U6U2V
+Reader: NGWJH
+Reader: U6U2V
+Writer: JU7GQ
+Writer: VFF09
+Reader: NGWJH
+Reader: VFF09
+Writer: EHS7X
+Writer: FK2YH
+Reader: NGWJH
+Reader: FK2YH
+Writer: 5CN8B
+Writer: MAO33
+Reader: NGWJH
+Writer: VWKL1
+Reader: NGWJH
+Reader: VWKL1
+Writer: ZWG6Y
+Writer: LBXXO
+Reader: NGWJH
+Writer: TRWVU
+Reader: NGWJH
+Reader: TRWVU
+Writer: JE5UZ
+Writer: GH8FD
+Reader: NGWJH
+Reader: GH8FD
+Writer: V1L6O
+Writer: S7GF8
+Reader: NGWJH
+Reader: S7GF8
+Writer: TE6A6
+Reader: S7GF8
+Writer: 3OZTS
+Writer: 4N3JU
+Reader: NGWJH
+Reader: 4N3JU
+Writer: R0ZVU
+Writer: RXB2C
+Reader: NGWJH
+Reader: RXB2C
+Writer: T00J5
+Reader: RXB2C
+Writer: VKRWB
+Writer: FI5Y5
+Reader: NGWJH
+Reader: FI5Y5
+Writer: 2ROXI
+Writer: H8CM6
+Reader: NGWJH
+Reader: H8CM6
+Writer: 2HVUQ
+Reader: H8CM6
+Writer: 5DD7M
+Reader: H8CM6
+Writer: DYQX6
+Reader: H8CM6
+Writer: U6GHO
+Reader: H8CM6
+Writer: J4BZ2
+Reader: H8CM6
+Writer: AINT5
+Reader: H8CM6
+Writer: VXNMD
+Reader: H8CM6
+Writer: NY6GG
+Reader: H8CM6
+Writer: CE8L2
+Reader: H8CM6
+Writer: DA10Y
+Reader: H8CM6
+Writer: K248X
+Reader: H8CM6
+Writer: 7G61P
+Reader: H8CM6
+Writer: XZTB1
+Reader: H8CM6
+Writer: PKEUS
+Reader: H8CM6
+Writer: 5AABM
+Reader: H8CM6
+Writer: E606Y
+Reader: H8CM6
+Writer: 9RX4U
+Reader: H8CM6
+Writer: 33PYG
+Reader: H8CM6
+Writer: H2E0T
+Reader: H8CM6
+Writer: NU6TM
+Reader: H8CM6
+Writer: 36GI3
+Reader: H8CM6
+Writer: K13WT
+Reader: H8CM6
+Writer: AQ9CQ
+Reader: H8CM6
+Writer: FBZR8
+Reader: H8CM6
+Writer: W5PNL
+Reader: H8CM6
+Writer: C5JS8
+Reader: H8CM6
+Writer: UAGU5
+Writer: DKOBK
+Reader: NGWJH
+Writer: BA3FF
+Reader: NGWJH
+Writer: 03BKN
+Reader: NGWJH
+Reader: 03BKN
+Writer: L5PV0
+Reader: 03BKN
+Writer: 8R370
+Reader: 03BKN
+Writer: PSKX9
+Writer: AJOHN
+Reader: NGWJH
+Writer: 5WXH7
+Reader: NGWJH
+Reader: 5WXH7
+Writer: WBKHU
+Writer: J39FX
+Reader: NGWJH
+Writer: YUV47
+Reader: NGWJH
+Reader: YUV47
+Writer: VRRK4
+Reader: YUV47
+Writer: TZGGF
+Writer: QO47S
+Reader: NGWJH
+Writer: YHIXD
+Reader: NGWJH
+Reader: YHIXD
+Writer: 6GVNR
+Writer: VSF9K
+Reader: NGWJH
+Writer: QYUJ1
+Reader: NGWJH
+Writer: NFMMO
+Reader: NGWJH
+Reader: NFMMO
+Writer: 65ECD
+Reader: NFMMO
+Writer: 59BW8
+Reader: NFMMO
+Writer: QM70B
+Writer: P5E3J
+Reader: NGWJH
+Reader: P5E3J
+Writer: ATG5Z
+Writer: 23VGE
+Reader: NGWJH
+Reader: 23VGE
+Writer: T56JG
+Writer: ACTJV
+Reader: NGWJH
+Writer: WQTA3
+Reader: NGWJH
+Writer: D03HL
+Reader: NGWJH
+Writer: SATCN
+Reader: NGWJH
+Reader: SATCN
+Writer: MZINK
+Reader: SATCN
+Writer: BN5SP
+Writer: VPXTB
+Reader: NGWJH
+Writer: MM4HW
+Reader: NGWJH
+Reader: MM4HW
+Writer: TAFCV
+Writer: B9N4W
+Reader: NGWJH
+Reader: B9N4W
+Writer: SM363
+Writer: K4F9U
+Reader: NGWJH
+Writer: IVAVI
+Reader: NGWJH
+Reader: IVAVI
+Writer: XCJG9
+Reader: IVAVI
+Writer: GFLP3
+Writer: MTF2J
+Reader: NGWJH
+Reader: MTF2J
+Writer: BAA66
+Reader: MTF2J
+Writer: JW1Z0
+Reader: MTF2J
+Writer: RG5XO
+Writer: 89U37
+Reader: NGWJH
+Writer: 8ZG5P
+Reader: NGWJH
+Reader: 8ZG5P
+Writer: NANCR
+Reader: 8ZG5P
+Writer: 1YN0S
+Writer: HUEY9
+Reader: NGWJH
+Reader: HUEY9
+Writer: BLUQR
+Reader: HUEY9
+Writer: 9KXB5
+Writer: M9L4K
+Reader: NGWJH
+Writer: M4FQT
+Reader: NGWJH
+Reader: M4FQT
+Writer: IJYI9
+Writer: 33FFG
+Reader: NGWJH
+Reader: 33FFG
+Writer: O5546
+Reader: 33FFG
+Writer: XF0OQ
+Writer: DNMHF
+Reader: NGWJH
+Reader: DNMHF
+Writer: 1MSPG
+Writer: NOYF0
+Reader: NGWJH
+Reader: NOYF0
+Writer: 2WLRY
+Reader: NOYF0
+Writer: GER4Q
+Reader: NOYF0
+Writer: QDQ8W
+Writer: GE19Q
+Reader: NGWJH
+Writer: 46RCH
+Reader: NGWJH
+Reader: 46RCH
+Writer: QKZ93
+Reader: 46RCH
+Writer: 9G0EE
+Writer: B3IZJ
+Reader: NGWJH
+Reader: B3IZJ
+Writer: 85R0Y
+Writer: X6U39
+Reader: NGWJH
+Reader: X6U39
+Writer: JXYZ6
+Writer: 5FJKI
+Reader: NGWJH
+Writer: 6PSBR
+Reader: NGWJH
+Reader: 6PSBR
+Writer: KNM4V
+Writer: M5BZR
+Reader: NGWJH
+Reader: M5BZR
+Writer: 8P0NT
+Reader: M5BZR
+Writer: UZ69T
+Reader: M5BZR
+Writer: MRBII
+Writer: 6U8RN
+Reader: NGWJH
+Reader: 6U8RN
+Writer: SNQJO
+Writer: KT0HX
+Reader: NGWJH
+Writer: NV8H7
+Reader: NGWJH
+Writer: PO60X
+Reader: NGWJH
+Reader: PO60X
+Writer: GTSSE
+Reader: PO60X
+Writer: 2MEVZ
+Writer: 27TM9
+Reader: NGWJH
+Reader: 27TM9
+Writer: V9Q8J
+Reader: 27TM9
+Writer: A8YMF
+Writer: 0S4K3
+Reader: NGWJH
+Reader: 0S4K3
+Writer: RXH3G
+Writer: 957FW
+Reader: NGWJH
+Reader: 957FW
+Writer: 8OFS5
+Writer: QBWIM
+Reader: NGWJH
+Reader: QBWIM
+Writer: Q87RX
+Reader: QBWIM
+Writer: I4GMN
+Writer: JS32I
+Reader: NGWJH
+Reader: JS32I
+Writer: EZZF9
+Writer: ZBLMK
+Reader: NGWJH
+Reader: ZBLMK
+Writer: W2GRY
+Writer: Z6V8M
+Reader: NGWJH
+Writer: SZZG8
+Reader: NGWJH
+Writer: EZV1M
+Reader: NGWJH
+Writer: PUNJ0
+Reader: NGWJH
+Writer: 0LRIW
+Reader: NGWJH
+Writer: PXVGB
+Reader: NGWJH
+Reader: PXVGB
+Writer: PYZXY
+Writer: N65PZ
+Reader: NGWJH
+Writer: PATG5
+Reader: NGWJH
+Reader: PATG5
+Writer: APTA5
+Reader: PATG5
+Writer: BP607
+Writer: NONM6
+Reader: NGWJH
+Reader: NONM6
+Writer: 5ESFT
+Writer: Q97C9
+Reader: NGWJH
+Reader: Q97C9
+Writer: TZ7UL
+Writer: 02KNV
+Reader: NGWJH
+Reader: 02KNV
+Writer: 9DVL9
+Writer: A18ZL
+Reader: NGWJH
+Reader: A18ZL
+Writer: 8SST4
+Writer: KRNXO
+Reader: NGWJH
+Writer: ASQAL
+Reader: NGWJH
+Reader: ASQAL
+Writer: LRMPH
+Reader: ASQAL
+Writer: UEA06
+Writer: 1TGFT
+Reader: NGWJH
+Writer: YBI1A
+Reader: NGWJH
+Reader: YBI1A
+Writer: AHO0A
+Writer: JOX8U
+Reader: NGWJH
+Reader: JOX8U
+Writer: RXUAY
+Writer: SOTS0
+Reader: NGWJH
+Reader: SOTS0
+Writer: 4S1WC
+Reader: SOTS0
+Writer: 1KIE0
+Writer: 9JZAK
+Reader: NGWJH
+Reader: 9JZAK
+Writer: ECWP8
+Writer: GQCGP
+Reader: NGWJH
+Writer: E8GQA
+Reader: NGWJH
+Reader: E8GQA
+Writer: JSZAG
+Writer: SP2XI
+Reader: NGWJH
+Reader: SP2XI
+Writer: 8GTIU
+Writer: H8UZU
+Reader: NGWJH
+Writer: Q2DUU
+Reader: NGWJH
+Reader: Q2DUU
+Writer: NPVG8
+Reader: Q2DUU
+Writer: 3D1DQ
+Reader: Q2DUU
+Writer: RUY31
+Reader: Q2DUU
+Writer: YJ8H9
+Reader: Q2DUU
+Writer: A73VH
+Reader: Q2DUU
+Writer: GOR6T
+Reader: Q2DUU
+Writer: ROFQ2
+Writer: D4WZO
+Reader: NGWJH
+Reader: D4WZO
+Writer: 5OP2D
+Writer: XJ076
+Reader: NGWJH
+Writer: G36VU
+Reader: NGWJH
+Writer: QV991
+Reader: NGWJH
+Writer: OW5T8
+Reader: NGWJH
+Writer: CPHBY
+Reader: NGWJH
+Reader: CPHBY
+Writer: 4XJ2D
+Writer: VSBRU
+Reader: NGWJH
+Reader: VSBRU
+Writer: 6YTAN
+Writer: YST6M
+Reader: NGWJH
+Reader: YST6M
+Writer: R4W7A
+Reader: YST6M
+Writer: IT53A
+Writer: IBZJB
+Reader: NGWJH
+Writer: TUER8
+Reader: NGWJH
+Reader: TUER8
+Writer: 8USP5
+Reader: TUER8
+Writer: 0D5GK
+Reader: TUER8
+Writer: U5LYH
+Reader: TUER8
+Writer: AAL25
+Reader: TUER8
+Writer: CWHQL
+Reader: TUER8
+Writer: 48K83
+Reader: TUER8
+Writer: DOC7O
+Writer: 7MHCJ
+Reader: NGWJH
+Writer: FXYTQ
+Reader: NGWJH
+Reader: FXYTQ
+Writer: N0ABB
+Writer: SILV6
+Reader: NGWJH
+Reader: SILV6
+Writer: LMBDA
+Writer: 227NG
+Reader: NGWJH
+Reader: 227NG
+Writer: G2OKK
+Writer: Y2IS0
+Reader: NGWJH
+Reader: Y2IS0
+Writer: O8YA8
+Writer: E7I7L
+Reader: NGWJH
+Writer: 4CQAD
+Reader: NGWJH
+Writer: UKECR
+Reader: NGWJH
+Reader: UKECR
+Writer: M0LMK
+Writer: UL01N
+Reader: NGWJH
+Writer: Z935S
+Reader: NGWJH
+Reader: Z935S
+Writer: MXBE6
+Reader: Z935S
+Writer: 4UABL
+Writer: DLNGZ
+Reader: NGWJH
+Reader: DLNGZ
+Writer: NYGBN
+Reader: DLNGZ
+Writer: XWLZO
+Reader: DLNGZ
+Writer: 2HRTV
+Writer: 5JUS0
+Reader: NGWJH
+Writer: 7J9FX
+Reader: NGWJH
+Writer: 20JBG
+Reader: NGWJH
+Reader: 20JBG
+Writer: I7TB9
+Writer: B31S4
+Reader: NGWJH
+Reader: B31S4
+Writer: ZML0D
+Writer: WCQQQ
+Reader: NGWJH
+Writer: 405Q2
+Reader: NGWJH
+Writer: DYBNV
+Reader: NGWJH
+Writer: 7NKSF
+Reader: NGWJH
+Reader: 7NKSF
+Writer: 4YPUU
+Writer: BRCYA
+Reader: NGWJH
+Reader: BRCYA
+Writer: V7JCA
+Writer: ZK2UM
+Reader: NGWJH
+Reader: ZK2UM
+Writer: SCDJ5
+Writer: M2O66
+Reader: NGWJH
+Writer: MB2VI
+Reader: NGWJH
+Reader: MB2VI
+Writer: 8W66O
+Writer: NYHPG
+Reader: NGWJH
+Writer: FP8M5
+Reader: NGWJH
+Writer: XUZGX
+Reader: NGWJH
+Writer: 2UGYH
+Reader: NGWJH
+Reader: 2UGYH
+Writer: JCF1Y
+Writer: TFY3C
+Reader: NGWJH
+Reader: TFY3C
+Writer: CO6G8
+Writer: 35XD0
+Reader: NGWJH
+Writer: 63BBJ
+Reader: NGWJH
+Reader: 63BBJ
+Writer: 1MW7Q
+Writer: NQHYE
+Reader: NGWJH
+Reader: NQHYE
+Writer: KSP0X
+Writer: A1FK3
+Reader: NGWJH
+Reader: A1FK3
+Writer: IYSI3
+Writer: 67C8L
+Reader: NGWJH
+Writer: QBES7
+Reader: NGWJH
+Reader: QBES7
+Writer: GS0MZ
+Writer: VGHCX
+Reader: NGWJH
+Reader: VGHCX
+Writer: LP6QZ
+Reader: VGHCX
+Writer: FX0HA
+Writer: D3OET
+Reader: NGWJH
+Reader: D3OET
+Writer: PNJNX
+Writer: IN73Q
+Reader: NGWJH
+Reader: IN73Q
+Writer: RB2VH
+Writer: CQQUR
+Reader: NGWJH
+Reader: CQQUR
+Writer: QAWIF
+Writer: 2K7R3
+Reader: NGWJH
+Writer: MEV3J
+Reader: NGWJH
+Writer: H63OP
+Reader: NGWJH
+Writer: 7SC9H
+Reader: NGWJH
+Writer: D5F98
+Reader: NGWJH
+Writer: WN3XC
+Reader: NGWJH
+Writer: P1AH5
+Reader: NGWJH
+Writer: 8QP9D
+Reader: NGWJH
+Writer: MP9MA
+Reader: NGWJH
+Writer: GWCFU
+Reader: NGWJH
+Reader: GWCFU
+Writer: 88WBB
+Writer: 7F7TH
+Reader: NGWJH
+Reader: 7F7TH
+Writer: 9L803
+Reader: 7F7TH
+Writer: Q5VTQ
+Writer: QCC64
+Reader: NGWJH
+Writer: X5391
+Reader: NGWJH
+Reader: X5391
+Writer: 9KYCE
+Writer: RE9G7
+Reader: NGWJH
+Reader: RE9G7
+Writer: 3T62D
+Reader: RE9G7
+Writer: BRJST
+Reader: RE9G7
+Writer: KBTYD
+Reader: RE9G7
+Writer: 550GN
+Writer: BL71I
+Reader: NGWJH
+Reader: BL71I
+Writer: YW5VM
+Reader: BL71I
+Writer: M6PVX
+Reader: BL71I
+Writer: 7GK32
+Reader: BL71I
+Writer: GWLPR
+Reader: BL71I
+Writer: 81A9I
+Reader: BL71I
+Writer: VN226
+Reader: BL71I
+Writer: RVEUO
+Reader: BL71I
+Writer: PWXFH
+Reader: BL71I
+Writer: NV7AF
+Reader: BL71I
+Writer: YU7OH
+Reader: BL71I
+Writer: OARJJ
+Reader: BL71I
+Writer: 7W5M1
+Reader: BL71I
+Writer: 8DXZF
+Reader: BL71I
+Writer: LB0ON
+Reader: BL71I
+Writer: U9FID
+Reader: BL71I
+Writer: N394U
+Reader: BL71I
+Writer: AQOUR
+Reader: BL71I
+Writer: RE4KR
+Reader: BL71I
+Writer: 20KOI
+Reader: BL71I
+Writer: J7I43
+Reader: BL71I
+Writer: W4SAX
+Reader: BL71I
+Writer: P4JF6
+Reader: BL71I
+Writer: DWB20
+Reader: BL71I
+Writer: RZCIY
+Reader: BL71I
+Writer: HHP6U
+Reader: BL71I
+Writer: 3Z194
+Reader: BL71I
+Writer: PVEA7
+Reader: BL71I
+Writer: G8O7C
+Writer: X4ZON
+Reader: NGWJH
+Reader: X4ZON
+Writer: FZRY1
+Reader: X4ZON
+Writer: U5AGW
+Reader: X4ZON
+Writer: PPVP3
+Reader: X4ZON
+Writer: ZCJLR
+Reader: X4ZON
+Writer: SSA5T
+Reader: X4ZON
+Writer: TLEGA
+Reader: X4ZON
+Writer: MRBSO
+Reader: X4ZON
+Writer: DHDIJ
+Reader: X4ZON
+Writer: TV7OR
+Reader: X4ZON
+Writer: 0M8DM
+Reader: X4ZON
+Writer: UVN65
+Reader: X4ZON
+Writer: XZVEI
+Reader: X4ZON
+Writer: J04GJ
+Reader: X4ZON
+Writer: 7OCB0
+Reader: X4ZON
+Writer: S9BC7
+Reader: X4ZON
+Writer: 7VVN3
+Reader: X4ZON
+Writer: GNA4P
+Reader: X4ZON
+Writer: 1EEX1
+Reader: X4ZON
+Writer: OV8AA
+Reader: X4ZON
+Writer: 301FT
+Reader: X4ZON
+Writer: MJ7N4
+Reader: X4ZON
+Writer: VUK98
+Reader: X4ZON
+Writer: CDILB
+Reader: X4ZON
+Writer: 6ZA0S
+Reader: X4ZON
+Writer: 2JPJL
+Reader: X4ZON
+Writer: 6ABCD
+Writer: G3Q3Q
+Reader: NGWJH
+Writer: 7PXA4
+Reader: NGWJH
+Writer: G3EYZ
+Reader: NGWJH
+Writer: LNX8E
+Reader: NGWJH
+Writer: D0BW0
+Reader: NGWJH
+Writer: C3XC7
+Reader: NGWJH
+Reader: C3XC7
+Writer: VTI52
+Writer: IWO4D
+Reader: NGWJH
+Reader: IWO4D
+Writer: QCA6L
+Reader: IWO4D
+Writer: 8F1UA
+Writer: SMC7A
+Reader: NGWJH
+Reader: SMC7A
+Writer: P24CO
+Writer: D2VCJ
+Reader: NGWJH
+Reader: D2VCJ
+Writer: XVI5Q
+Writer: Y935Y
+Reader: NGWJH
+Reader: Y935Y
+Writer: B0FL1
+Writer: 7CDBP
+Reader: NGWJH
+Reader: 7CDBP
+Writer: IRL5N
+Writer: Q2LQ9
+Reader: NGWJH
+Writer: YR7WY
+Reader: NGWJH
+Reader: YR7WY
+Writer: N65EM
+Writer: TTHJ8
+Reader: NGWJH
+Reader: TTHJ8
+Writer: YWSKR
+Writer: BYTWA
+Reader: NGWJH
+Writer: GKNS9
+Reader: NGWJH
+Writer: 5XM5A
+Reader: NGWJH
+Reader: 5XM5A
+Writer: T2SWO
+Writer: AG9Z6
+Reader: NGWJH
+Reader: AG9Z6
+Writer: YKB6Y
+Reader: AG9Z6
+Writer: 3JA98
+Writer: 97LWS
+Reader: NGWJH
+Reader: 97LWS
+Writer: DSNEQ
+Writer: 5HLJP
+Reader: NGWJH
+Reader: 5HLJP
+Writer: 5E66Q
+Reader: 5HLJP
+Writer: 5Z30M
+Reader: 5HLJP
+Writer: 5IR3F
+Writer: WWN7B
+Reader: NGWJH
+Writer: VR6EK
+Reader: NGWJH
+Writer: R34JA
+Reader: NGWJH
+Reader: R34JA
+Writer: R82R3
+Writer: ZNESC
+Reader: NGWJH
+Reader: ZNESC
+Writer: JEVJW
+Reader: ZNESC
+Writer: 5BT83
+Reader: ZNESC
+Writer: I3OI3
+Writer: OI1W8
+Reader: NGWJH
+Reader: OI1W8
+Writer: C5UZ5
+Reader: OI1W8
+Writer: 7Q9AQ
+Writer: IS541
+Reader: NGWJH
+Writer: R6WSO
+Reader: NGWJH
+Writer: PJ5P1
+Reader: NGWJH
+Reader: PJ5P1
+Writer: XTTYP
+Reader: PJ5P1
+Writer: QVRTA
+Reader: PJ5P1
+Writer: OT6NY
+Reader: PJ5P1
+Writer: OCTSU
+Reader: PJ5P1
+Writer: 08UQL
+Writer: RVJHS
+Reader: NGWJH
+Reader: RVJHS
+Writer: 29E7I
+Writer: O6LU9
+Reader: NGWJH
+Reader: O6LU9
+Writer: XAL3N
+Reader: O6LU9
+Writer: 7AJ39
+Writer: NZN5B
+Reader: NGWJH
+Writer: Z9CM7
+Reader: NGWJH
+Writer: 5MKAH
+Reader: NGWJH
+Writer: OP8FK
+Reader: NGWJH
+Writer: S18S7
+Reader: NGWJH
+Writer: ZW0DN
+Reader: NGWJH
+Writer: RMPHF
+Reader: NGWJH
+Writer: CVJ5S
+Reader: NGWJH
+Writer: P48XE
+Reader: NGWJH
+Writer: K0KW9
+Reader: NGWJH
+Reader: K0KW9
+Writer: SBDTR
+Writer: W157L
+Reader: NGWJH
+Reader: W157L
+Writer: DI99P
+Writer: S6C5E
+Reader: NGWJH
+Writer: 2FCX5
+Reader: NGWJH
+Reader: 2FCX5
+Writer: X2LNW
+Reader: 2FCX5
+Writer: 9LED4
+Writer: QI6ZT
+Reader: NGWJH
+Reader: QI6ZT
+Writer: L0LTP
+Writer: G48IV
+Reader: NGWJH
+Reader: G48IV
+Writer: OXPRG
+Writer: M8QY4
+Reader: NGWJH
+Writer: 3PSKM
+Reader: NGWJH
+Reader: 3PSKM
+Writer: 1E5E8
+Reader: 3PSKM
+Writer: KANM3
+Writer: C4TIY
+Reader: NGWJH
+Reader: C4TIY
+Writer: 33D1I
+Writer: L6W7S
+Reader: NGWJH
+Reader: L6W7S
+Writer: S1H5Z
+Writer: 5HAGX
+Reader: NGWJH
+Reader: 5HAGX
+Writer: C84JL
+Writer: NKDYD
+Reader: NGWJH
+Writer: SPI9A
+Reader: NGWJH
+Writer: 9M0CB
+Reader: NGWJH
+Writer: 5R8WQ
+Reader: NGWJH
+Reader: 5R8WQ
+Writer: S2RW7
+Writer: 43MUW
+Reader: NGWJH
+Reader: 43MUW
+Writer: 494Q4
+Reader: 43MUW
+Writer: A2849
+Writer: CTH4Z
+Reader: NGWJH
+Writer: SR8F2
+Reader: NGWJH
+Writer: UAH22
+Reader: NGWJH
+Reader: UAH22
+Writer: V3Q0I
+Reader: UAH22
+Writer: ZDYNF
+Writer: 9SKIB
+Reader: NGWJH
+Reader: 9SKIB
+Writer: CTDWN
+Writer: 9UW7O
+Reader: NGWJH
+Reader: 9UW7O
+Writer: N4G1C
+Writer: 42BXJ
+Reader: NGWJH
+Reader: 42BXJ
+Writer: GMIVK
+Reader: 42BXJ
+Writer: 954ZZ
+Writer: AGZDZ
+Reader: NGWJH
+Reader: AGZDZ
+Writer: B6UO3
+Writer: AGTL5
+Reader: NGWJH
+Writer: 466LL
+Reader: NGWJH
+Reader: 466LL
+Writer: HRW94
+Writer: 0KSMO
+Reader: NGWJH
+Reader: 0KSMO
+Writer: D07HO
+Writer: GFDCA
+Reader: NGWJH
+Writer: 7HX3I
+Reader: NGWJH
+Reader: 7HX3I
+Writer: A26ZQ
+Writer: C9SOR
+Reader: NGWJH
+Reader: C9SOR
+Writer: TU0J9
+Reader: C9SOR
+Writer: 0NI90
+Reader: C9SOR
+Writer: JJL7Z
+Reader: C9SOR
+Writer: Z34KN
+Reader: C9SOR
+Writer: 94204
+Reader: C9SOR
+Writer: 7O35L
+Reader: C9SOR
+Writer: EHTZ5
+Reader: C9SOR
+Writer: WO4CK
+Reader: C9SOR
+Writer: T9XD8
+Reader: C9SOR
+Writer: 0Q9A1
+Re

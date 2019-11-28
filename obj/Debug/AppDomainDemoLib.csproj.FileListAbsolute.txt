@@ -1,0 +1,1 @@
+C:\workspace\c#\PracticeCSharp\obj\Debug\AppDomainDemoLib.csproj.CoreCompileInputs.cache

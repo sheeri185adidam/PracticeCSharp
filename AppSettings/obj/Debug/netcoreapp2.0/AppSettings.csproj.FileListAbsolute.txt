@@ -1,0 +1,12 @@
+C:\workspace\c#\PracticeCSharp\AppSettings\bin\Debug\netcoreapp2.0\AppSettings.deps.json
+C:\workspace\c#\PracticeCSharp\AppSettings\bin\Debug\netcoreapp2.0\AppSettings.runtimeconfig.json
+C:\workspace\c#\PracticeCSharp\AppSettings\bin\Debug\netcoreapp2.0\AppSettings.runtimeconfig.dev.json
+C:\workspace\c#\PracticeCSharp\AppSettings\bin\Debug\netcoreapp2.0\AppSettings.dll
+C:\workspace\c#\PracticeCSharp\AppSettings\bin\Debug\netcoreapp2.0\AppSettings.pdb
+C:\workspace\c#\PracticeCSharp\AppSettings\obj\Debug\netcoreapp2.0\AppSettings.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\AppSettings\obj\Debug\netcoreapp2.0\AppSettings.AssemblyInfoInputs.cache
+C:\workspace\c#\PracticeCSharp\AppSettings\obj\Debug\netcoreapp2.0\AppSettings.AssemblyInfo.cs
+C:\workspace\c#\PracticeCSharp\AppSettings\obj\Debug\netcoreapp2.0\AppSettings.dll
+C:\workspace\c#\PracticeCSharp\AppSettings\obj\Debug\netcoreapp2.0\AppSettings.pdb
+C:\workspace\c#\PracticeCSharp\AppSettings\bin\Debug\netcoreapp2.0\AppSettings.dll.config
+C:\workspace\c#\PracticeCSharp\AppSettings\obj\Debug\netcoreapp2.0\AppSettings.csprojAssemblyReference.cache

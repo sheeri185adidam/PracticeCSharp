@@ -1,0 +1,8 @@
+C:\workspace\c#\PracticeCSharp\BackgroundWorker\bin\Debug\BackgroundWorker.exe.config
+C:\workspace\c#\PracticeCSharp\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+C:\workspace\c#\PracticeCSharp\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+C:\workspace\c#\PracticeCSharp\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+C:\workspace\c#\PracticeCSharp\BackgroundWorker\obj\Debug\BackgroundWorker1.csproj.GenerateResource.Cache
+C:\workspace\c#\PracticeCSharp\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+C:\workspace\c#\PracticeCSharp\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
+C:\workspace\c#\PracticeCSharp\BackgroundWorker\obj\Debug\BackgroundWorker1.csprojAssemblyReference.cache

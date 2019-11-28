@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\Tuples\bin\Debug\Tuples.exe.config
+C:\workspace\c#\PracticeCSharp\Tuples\bin\Debug\Tuples.exe
+C:\workspace\c#\PracticeCSharp\Tuples\bin\Debug\Tuples.pdb
+C:\workspace\c#\PracticeCSharp\Tuples\obj\Debug\Tuples.csprojAssemblyReference.cache
+C:\workspace\c#\PracticeCSharp\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\Tuples\obj\Debug\Tuples.exe
+C:\workspace\c#\PracticeCSharp\Tuples\obj\Debug\Tuples.pdb

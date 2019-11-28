@@ -1,0 +1,6 @@
+C:\workspace\c#\PracticeCSharp\TaskAsyncPattern2\bin\Debug\TaskAsyncPattern2.exe.config
+C:\workspace\c#\PracticeCSharp\TaskAsyncPattern2\bin\Debug\TaskAsyncPattern2.exe
+C:\workspace\c#\PracticeCSharp\TaskAsyncPattern2\bin\Debug\TaskAsyncPattern2.pdb
+C:\workspace\c#\PracticeCSharp\TaskAsyncPattern2\obj\Debug\TaskAsyncPattern2.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\TaskAsyncPattern2\obj\Debug\TaskAsyncPattern2.exe
+C:\workspace\c#\PracticeCSharp\TaskAsyncPattern2\obj\Debug\TaskAsyncPattern2.pdb

@@ -1,0 +1,9 @@
+C:\workspace\c#\PracticeCSharp\NDeskOptionsSample\bin\Debug\NDeskOptionsSample.exe.config
+C:\workspace\c#\PracticeCSharp\NDeskOptionsSample\bin\Debug\NDeskOptionsSample.exe
+C:\workspace\c#\PracticeCSharp\NDeskOptionsSample\bin\Debug\NDeskOptionsSample.pdb
+C:\workspace\c#\PracticeCSharp\NDeskOptionsSample\bin\Debug\NDesk.Options.dll
+C:\workspace\c#\PracticeCSharp\NDeskOptionsSample\obj\Debug\NDeskOptionsSample.csprojAssemblyReference.cache
+C:\workspace\c#\PracticeCSharp\NDeskOptionsSample\obj\Debug\NDeskOptionsSample.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\NDeskOptionsSample\obj\Debug\NDeskOptionsSample.csproj.CopyComplete
+C:\workspace\c#\PracticeCSharp\NDeskOptionsSample\obj\Debug\NDeskOptionsSample.exe
+C:\workspace\c#\PracticeCSharp\NDeskOptionsSample\obj\Debug\NDeskOptionsSample.pdb

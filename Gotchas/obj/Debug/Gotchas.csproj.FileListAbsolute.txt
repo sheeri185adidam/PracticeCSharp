@@ -1,0 +1,7 @@
+C:\workspace\c#\PracticeCSharp\Gotchas\bin\Debug\Gotchas.exe.config
+C:\workspace\c#\PracticeCSharp\Gotchas\bin\Debug\Gotchas.exe
+C:\workspace\c#\PracticeCSharp\Gotchas\bin\Debug\Gotchas.pdb
+C:\workspace\c#\PracticeCSharp\Gotchas\obj\Debug\Gotchas.csprojAssemblyReference.cache
+C:\workspace\c#\PracticeCSharp\Gotchas\obj\Debug\Gotchas.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\Gotchas\obj\Debug\Gotchas.exe
+C:\workspace\c#\PracticeCSharp\Gotchas\obj\Debug\Gotchas.pdb

@@ -1,0 +1,11 @@
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\bin\Debug\netcoreapp3.0\ReaderWriterLockSlim.exe
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\bin\Debug\netcoreapp3.0\ReaderWriterLockSlim.deps.json
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\bin\Debug\netcoreapp3.0\ReaderWriterLockSlim.runtimeconfig.json
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\bin\Debug\netcoreapp3.0\ReaderWriterLockSlim.runtimeconfig.dev.json
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\bin\Debug\netcoreapp3.0\ReaderWriterLockSlim.dll
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\bin\Debug\netcoreapp3.0\ReaderWriterLockSlim.pdb
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\obj\Debug\netcoreapp3.0\ReaderWriterLockSlim.csprojAssemblyReference.cache
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\obj\Debug\netcoreapp3.0\ReaderWriterLockSlim.AssemblyInfoInputs.cache
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\obj\Debug\netcoreapp3.0\ReaderWriterLockSlim.AssemblyInfo.cs
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\obj\Debug\netcoreapp3.0\ReaderWriterLockSlim.dll
+C:\workspace\C#\PracticeCSharp\ReaderWriterLockSlim\obj\Debug\netcoreapp3.0\ReaderWriterLockSlim.pdb

@@ -1,0 +1,6 @@
+C:\workspace\c#\PracticeCSharp\LockStatement\bin\Debug\LockStatement.exe.config
+C:\workspace\c#\PracticeCSharp\LockStatement\bin\Debug\LockStatement.exe
+C:\workspace\c#\PracticeCSharp\LockStatement\bin\Debug\LockStatement.pdb
+C:\workspace\c#\PracticeCSharp\LockStatement\obj\Debug\LockStatement.csproj.CoreCompileInputs.cache
+C:\workspace\c#\PracticeCSharp\LockStatement\obj\Debug\LockStatement.exe
+C:\workspace\c#\PracticeCSharp\LockStatement\obj\Debug\LockStatement.pdb
